@@ -65,26 +65,22 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>Basta torcer o nariz para Samantha usar seus poderes de bruxa. O problema é que seu marido, o publicitário James, quer que ela seja uma esposa normal e ignore sua mágica.</info>
 <genre>NOSTALGIA</genre>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
 
-<channels>
-<channel>
-<name>[COLOR black].[/COLOR]</name>
-<externallink><LINKDAPAGINAALVO></externallink>
+<item>
+<title>[COLOR black].[/COLOR]</title>
+<link>ignoreme</link>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-</channel>
-</channels>
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR orange][B]NÃO ENCONTROU O QUE PROCURAVA ?
-SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</name>
-<externallink><LINKDAPAGINAALVO></externallink>
+<item>
+<title>[COLOR orange][B]NÃO ENCONTROU O QUE PROCURAVA ?
+SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>
+<link>ignoreme</link>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>	
-</channel>
-</channels>
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
