@@ -138,6 +138,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "B"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
+<item>
+<title>[B][COLOR white]Ben-Hur (1959)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Ben-Hur[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/FLMS/LS-Ben-Hur.1959.FHD.DUB.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Ben-Hur - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dYADal49Xp0gQkimbi3cjHAIveM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xO2Nzx2mKwfZiLczcmDFQwMk4n5.jpg</fanart>
+<info>Na Judéia invadida pelos conquistadores romanos, o príncipe Ben-Hur tenta conduzir seu povo rumo à liberdade. </info>
+<genre>ÉPICOS</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "C"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
@@ -404,6 +415,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/oO4tfAUwZQkxbs8rkaCXFRNKGEU.jpg</fanart>
 <info>Após receber residência permanente nos Estados Unidos em troca do assassinato de um oficial do governo cubano, Tony Montana se torna o chefe do tráfico de drogas em Miami. Matando qualquer um que entre em seu caminho, Tony eventualmente se torna o maior traficante da Flórida, controlando quase toda a cocaína que entra em Miami. Porém, a pressão da polícia, as guerras com cartéis colombianos e sua própria paranoia servem para alimentar as chamas de sua eventual queda.</info>
 <genre>CRIME E DRAMA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR white]Spartacus (1960)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=eMWsHUhmqVM$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Spartacus[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/FLMS/LS-Spartacus.1960.HD.DUB.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Spartacus - FHD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/prdCmV8GkDLpguwoxBQczFAwvci.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kJaisj9uNIzjHum6XM9HD9yI8vu.jpg</fanart>
+<info>Spartacus,nasceu escravo, e sonha com o fim da escravidão. Ele foi condenado à morte por morder um guarda.Mas seu destino é grandioso.</info>
+<genre>ÉPICOS</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
