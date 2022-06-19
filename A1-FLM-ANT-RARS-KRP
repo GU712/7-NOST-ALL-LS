@@ -511,17 +511,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR white][B]O Trem (1964)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=x1r4-w_QJFM$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Trem[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-The.Train.1964.HD.LEG.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Trem - FHD DUAL[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7E3mcbgPVIpc92OnM7piozOX7B5.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/65Ixfe35wlVxgZdEIJUV2Zo7qfu.jpg</fanart>
-<info>Em 1944, um coronel alemão carrega um trem com tesouros de arte francesa para enviar para a Alemanha. A resistência deve pará-lo sem danificar a carga.</info>
-<genre>GUERRA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
 <title>[COLOR white][B]Os Duelistas (1977)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=9e6XE4E0Rvk$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Os Duelistas[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f8942df7cc4068377875d50488f8596fede4e052$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Duelistas - FHD LEG[/B][/COLOR]</link>
@@ -552,6 +541,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://images.mubicdn.net/images/film/111775/cache-89801-1584032436/image-w1280.jpg</fanart>
 <info>Um homem, exilado por seu pai em uma colônia penal, retorna e tem que enfrentar os piratas que inadvertidamente conduziu a sua aldeia.</info>
 <genre>AVENTURA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]O Trem (1964)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=x1r4-w_QJFM$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Trem[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-The.Train.1964.HD.LEG.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Trem - FHD DUAL[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7E3mcbgPVIpc92OnM7piozOX7B5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/65Ixfe35wlVxgZdEIJUV2Zo7qfu.jpg</fanart>
+<info>Em 1944, um coronel alemão carrega um trem com tesouros de arte francesa para enviar para a Alemanha. A resistência deve pará-lo sem danificar a carga.</info>
+<genre>GUERRA</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
