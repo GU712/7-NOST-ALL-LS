@@ -117,7 +117,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>GUERRA</genre>				
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
+	
+<item>
+<title>[COLOR white][B]A Gaiola das Loucas (1978)[/B][/COLOR]</title>
+<link>plugin://plugin.video.tubemusic/?video_id=PjNcNrl8ZkQ$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]A Gaiola das Loucas[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/4CMD-FM/LS-A.Gaiola.das.Loucas.1978.HD.DUAL.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Gaiola das Loucas - FHD DUAL[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bnapHrgsDFANL2cOGJoUZn4FBoc.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7byYJIibO0hQV0uY7OdTwn9xrps.jpg</fanart>
+<info>Casal gay muda seu estilo de vida para impressionar os futuros sogros do filho de um deles.</info>
+<genre>COMÉDIA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>
 <title>[B][COLOR white]A Odisséia (1997)[/COLOR][/B]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=2paSWX2hdNI$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]A Odisseia[/B][/COLOR]</link>
