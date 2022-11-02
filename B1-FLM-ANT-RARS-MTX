@@ -623,18 +623,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 LETRA "O"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-<item>				
-<title>[COLOR white][B]O Cálice Sagrado (1954)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=tkueAHXEQtw$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Calice Sagrado[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/FLMS/LS-O.Calice.Sagrado.1954.SD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Calice Sagrado - FHD DUB[/B][/COLOR]</link>				
-<thumbnail>https://www.themoviedb.org/t/p/original/vHC08qqiPArWmHn1tdz6CRqUbXy.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/i4fGmfpUG6DrUn8PkKTTiHaguwl.jpg</fanart>				
-<info>Um artesão grego é encarregado de moldar a taça de Cristo em prata e esculpir em torno de sua borda os rostos dos discípulos e do próprio Jesus. Ele viaja para Jerusalém e, eventualmente, para Roma para completar a tarefa.</info>				
-<genre>NOSTALGIA</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
+								
 <item>				
 <title>[COLOR white][B]O Ataque das Formigas Gigantes - 1977[/B][/COLOR]</title>				
 <link>plugin://plugin.video.youtube/play/?video_id=TP8Byzn0Sb8&feature=youtu.be$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Ataque das Formigas Gigantes[/B][/COLOR]</link>				
@@ -645,7 +634,29 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>TERROR</genre>				
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
+
+<item>				
+<title>[COLOR white][B]O Cálice Sagrado (1954)[/B][/COLOR]</title>				
+<link>plugin://plugin.video.youtube/play/?video_id=tkueAHXEQtw$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Calice Sagrado[/B][/COLOR]</link>				
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/FLMS/LS-O.Calice.Sagrado.1954.SD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Calice Sagrado - FHD DUB[/B][/COLOR]</link>				
+<thumbnail>https://www.themoviedb.org/t/p/original/vHC08qqiPArWmHn1tdz6CRqUbXy.jpg</thumbnail>				
+<fanart>https://www.themoviedb.org/t/p/original/i4fGmfpUG6DrUn8PkKTTiHaguwl.jpg</fanart>				
+<info>Um artesão grego é encarregado de moldar a taça de Cristo em prata e esculpir em torno de sua borda os rostos dos discípulos e do próprio Jesus. Ele viaja para Jerusalém e, eventualmente, para Roma para completar a tarefa.</info>				
+<genre>NOSTALGIA</genre>				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+<item>
+<title>[COLOR white][B]O Cão dos Baskervilles (1959)[/B][/COLOR]</title>
+<link>plugin://plugin.video.tubemusic/?video_id=VZUJ1vv5cZE$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Cao dos Baskervilles[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/11SPTR-FM/LS-O.Cao.dos.Baskervilles.1959.FHD.LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Cao dos Baskervilles - FHD DUAL[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rgI562PEBoBFzEDSSb1ulHEYuQf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kVZEJSJkcIwNu8zfugHLbcUsbpv.jpg</fanart>
+<info>Um mal demoníaco esconde-se num manto de névoa nos pântanos que povoam as lendas inglesas. Na forma de um cão infernal</info>
+<genre>SUSPENSE E TERROR</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>				
 <title>[COLOR white][B]O Colosso de Rodes (1961)[/B][/COLOR]</title>				
 <link>plugin://plugin.video.youtube/play/?video_id=jh1hmDr11SY$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Colosso de Rodes[/B][/COLOR]</link>				
