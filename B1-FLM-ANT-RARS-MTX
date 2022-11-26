@@ -222,8 +222,19 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>Rommel,conhecido como a Raposa do Deserto. Ao ver que Hitler estava levando a Alemanha à destruição, uniu-se a conspiradores para depor o Fürher.</info>				
 <genre>GUERRA</genre>				
 </item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+
+<item>
+<title>[COLOR white][B]As Aventuras de Robin Hood (1938)[/B][/COLOR]</title>
+<link>plugin://plugin.video.tubemusic/?video_id=AcJk1uwAqjA$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]As Aventuras de Robin Hood[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/FLMS/LS-As.Aventuras.de.Robin.Hood.1938.SD.LEGFIX.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]As Aventuras de Robin Hood - HD LEG[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aiT75HgtN97FOamxOA7qcz4jX2t.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/g3Z2mTvswZfc23ZYKZVHIRK30GS.jpg</fanart>
+<info>O clássico que criou o moderno gênero de aventura.</info>
+<genre>AVENTURA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+			
 item>				
 <title>[B][COLOR white]As Brumas de Avalon - 2001 [/COLOR][/B]</title>				
 <link>plugin://plugin.video.youtube/play/?video_id=QOsR_yDdHxQ$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]As Brumas de Avalon[/B][/COLOR]</link>				
