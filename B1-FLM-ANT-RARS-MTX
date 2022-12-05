@@ -430,19 +430,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "D"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
-<item>
-<title>[COLOR white][B]Deathwatch (2002)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=G0KQYHJ6K_s$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Deathwatch[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c309c60ea7ec0fd57d923d995f455f9bd67ec32b$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Deathwatch - HD LEG[/B][/COLOR]</link>
-link>plugin://plugin.video.elementum/play?uri=<LINKMAGANETPARAOFILME>$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Deathwatch - FHD DUAL[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/1GR/LS-Deathwatch.2002.HD.LEG.FIX.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Deathwatch - HD LEG-FIX[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/Pj08moikX0fcShQljjgCIsO5Br.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/jA0R8IYrPxK6lAVUpL4rYKiTU3b.jpg</fanart>
-<info>Um adolescente encara a morte apavorado e perdido em território inimigo, enquanto vê seus companheiros enlouquecendo um a um .</info>
-<genre>GUERRA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 <item>				
 <title>[B][COLOR white]Desbravadores (2007)[/COLOR][/B]</title>				
 <link>plugin://plugin.video.youtube/play/?video_id=G5wKd8M8EhM$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Desbravadores[/B][/COLOR]</link>				
@@ -596,6 +583,19 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/7SWWCLGXuSGvoN77iLLcDjFKeOs.jpg</fanart>
 <info>Uma bibliotecária que acidentalmente descobre um complô para assassinar o Papa Pio XIII</info>
 <genre>COMÉDIA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Guerreiros do Inferno (2002)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=G0KQYHJ6K_s$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Guerreiros do Inferno[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c309c60ea7ec0fd57d923d995f455f9bd67ec32b$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Guerreiros do Inferno - HD LEG[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/1GR/LS-Deathwatch.2002.HD.LEG.FIX.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Guerreiros do Inferno - HD LEG-FIX[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/1GR/LS-Guerreiros.do.Inferno.2002.HD.DUAL.LEGFIX.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Guerreiros do Inferno - HD DUAL LEG-FIX[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/Pj08moikX0fcShQljjgCIsO5Br.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jA0R8IYrPxK6lAVUpL4rYKiTU3b.jpg</fanart>
+<info>Um adolescente encara a morte apavorado e perdido em território inimigo, enquanto vê seus companheiros enlouquecendo um a um .</info>
+<genre>GUERRA</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
