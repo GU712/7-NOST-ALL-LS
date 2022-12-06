@@ -1023,6 +1023,17 @@ LETRA "R"
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
+<title>[COLOR white][B]Revelação (2000)[/B][/COLOR]</title>
+<link>plugin://plugin.video.tubemusic/?video_id=s6nTJMdrGVU$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Revelasao[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/11SPTR-FM/LS-Revelasao.2000.HD.DUAL+LEG).mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Revelasao - FHD DUAL[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qntuw73B4YOwmHnriFDMZKiR7Li.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qvMbGkEv9mVTPZpVPkrhpXrpv9E.jpg</fanart>
+<info>Claire começa a ouvir vozes misteriosas e a ver o vulto de uma mulher em sua casa</info>
+<genre>SUSPENSE E TERROR</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
 <title>[COLOR white][B]Robin Hood – O Invencivel (1960)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Robin Hood O Invencivel[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:582901BA03BE919F4C37B47FDCB99EF4C79E98FC$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Robin Hood O Invencivel - FHD DUAL[/B][/COLOR]</link>
