@@ -717,7 +717,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>AVENTURA</genre>				
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
+
+<item>							
+<title>[COLOR white][B]Meu Ódio Será Sua Herança (1969)[/B][/COLOR]</title>							
+<link>plugin://plugin.video.youtube/play/?video_id=4Vea6c2svYs$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Meu Odio Sera Sua Heranza[/B][/COLOR]</link>							
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3711b36b0cf96519c6c7ffff33799f055c60da4c$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Meu Odio Sera Sua Heranza - HD DUB[/B][/COLOR]</link>							
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d67982cc23c5844c19baac0e2d63ea5a665034a2$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Meu Odio Sera Sua Heranza - FHD DUAL[/B][/COLOR]</link>							
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Meu.Odio.Sera.Tua.Heransa.1969.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Meu Odio Sera Sua Heranza - FHD DUB[/B][/COLOR]</link>							
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gFvHnMHYzKQh1bk0O6QFSEcwHzg.jpg</thumbnail>							
+<fanart>https://www.themoviedb.org/t/p/original/uNbsH45P4oKo2ZL4X1SNxBSTcZW.jpg</fanart>							
+<info>É 1913, e o “tradicional” oeste americano está morrendo. Entre os habitantes dessa época agonizante estão uma gangue conhecida como “o bando selvagem”. Depois de um assalto a um escritório ferroviário fracassado, a gangue segue para o México para fazer um último trabalho. Vendo seus tempos e vidas se afastando no século 20, a gangue aceita o emprego e acaba em uma última e brutalmente violenta resistência contra seus inimigos considerados corruptos, em uma pequena cidade mexicana governada por um general implacável.</info>							
+<genre>WESTERN</genre>  							
+</item>							
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+
 <item>				
 <title>[COLOR white][B]Midway - A Batalha do Pacífico - 1976[/B][/COLOR]</title>				
 <link>plugin://plugin.video.youtube/play/?video_id=2CGbpbclYyQ$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Midway - A Batalha do Pacifico[/B][/COLOR]</link>				
