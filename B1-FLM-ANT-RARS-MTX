@@ -303,18 +303,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 			
-item>				
-<title>[B][COLOR white]As Brumas de Avalon - 2001 [/COLOR][/B]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=QOsR_yDdHxQ$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]As Brumas de Avalon[/B][/COLOR]</link>				
+<item>
+<title>[COLOR white][B]As Brumas de Avalon (2001)[/B][/COLOR]</title>
+<link>plugin://plugin.video.tubemusic/?video_id=QOsR_yDdHxQ$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]As Brumas de Avalon[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6814C84BC65624ACC3C7DD7E40271FA561EA187A$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]As Brumas de Avalon - HD DUB/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-FM/LS-As.Brumas.de.Avalon.2001.HD.DUB+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]As Brumas de Avalon - HD DUB+LEG[/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iVEbAgsYBVwKH8goTkUVd59fIWB.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qJUYXYijCL9Q8QkFhjvVBj6dvcM.jpg</fanart>
+<info>Uma sacerdotisa prepara o nascimento de Arthur, que viria a se tornar rei para comandar a Bretanha e salvar Avalon.</info>
+<genre>ÉPICOS</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
-<link>https://z-28b3jxzl1og7.bitchute.com/OsqmkKQffiY2/66fvK9pw5EP1.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]As Brumas de Avalon - DUB[/B][/COLOR]</link>				
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iVEbAgsYBVwKH8goTkUVd59fIWB.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/qJUYXYijCL9Q8QkFhjvVBj6dvcM.jpg</fanart>				
-<info>Uma sacerdotisa prepara o nascimento de Arthur, que viria a se tornar rei para comandar a Bretanha e salvar Avalon.</info>				
-<genre>FANTASIA</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
 <item>
 <title>[COLOR white][B]As Cores da Violência (1988)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=eR6xGATmlEg$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]As Cores da Violencia[/B][/COLOR]</link>
