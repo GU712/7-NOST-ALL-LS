@@ -454,6 +454,30 @@ LETRA "C"
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 <item>
+<title>[COLOR white][B]Candelabro Italiano (1962)[/B][/COLOR]</title>
+<link>plugin://plugin.video.tubemusic/?video_id=Vid6oXIwGMA$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Candelabro Italiano[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-O.Candelabro.Italiano.1962.SD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Candelabro Italiano - SD DUAL[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/khjX4VfO0sf3pDqHw44yC6hSOOG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qUkhyZb1Sr4R3pz72fEXyRx1JBy.jpg</fanart>
+<info>Prudence e Don viajam juntos pela Itália e, naturalmente, surge o romance.</info>
+<genre>DRAMA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>							
+<title>[COLOR white][B]Cavalgada dos Proscritos (1980)[/B][/COLOR]</title>							
+<link>plugin://plugin.video.youtube/play/?video_id=EFV4C7OyZBg$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Cavalgada dos Proscritos[/B][/COLOR]</link>							
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Cavalgada,dos.Proscritos.1980.SD.DUB.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Cavalgada dos Proscritos - SD DUB[/B][/COLOR]</link>							
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Cavalgada.dos.Proscritos.1980.HD.DUB.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Cavalgada dos Proscritos - HD DUB[/B][/COLOR]</link>							
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Cavalgada.dos.Proscritos.1980.FHD.DUAL.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Cavalgada dos Proscritos - FHD DUAL[/B][/COLOR]</link>							
+<thumbnail>https://www.themoviedb.org/t/p/original/1Dk9dieSkZeiEVarZFsPJdF9Qel.jpg</thumbnail>							
+<fanart>https://www.themoviedb.org/t/p/original/5bf3F24UjEEL3VINpOQb2JO3wVA.jpg</fanart>							
+<info>A história de um dos mais perigosos pistoleiros do velho-oeste “Jesse James” e de seu bando. Composta por vários irmãos, a quadrilha James & Younger tornou-se legendária por suas ações </info>							
+<genre>WESTERN</genre>							
+</item>							
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
 <title>[COLOR white][B]Cães de Guerra (1980)[/B][/COLOR]</title>
 <link>plugin://plugin.video.tubemusic/?video_id=4W2rW4KVvMc$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Caes de Guerra[/B][/COLOR]</link>
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/CM-ES/LS-Caes.de.Guerra.1980.VE.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Caes de Guerra - FHD DUAL[/B][/COLOR]</link>
@@ -477,7 +501,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 			
-
 <item>
 <title>[COLOR white][B]Cinco Semanas num Balão (1962)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=NAvfO3bo_qY$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Cinco Semanas num Balao[/B][/COLOR]</link>
@@ -972,17 +995,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 <item>
-<title>[COLOR white][B]Candelabro Italiano (1962)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=Vid6oXIwGMA$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Candelabro Italiano[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-O.Candelabro.Italiano.1962.SD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Candelabro Italiano - SD DUAL[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/khjX4VfO0sf3pDqHw44yC6hSOOG.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/qUkhyZb1Sr4R3pz72fEXyRx1JBy.jpg</fanart>
-<info>Prudence e Don viajam juntos pela Itália e, naturalmente, surge o romance.</info>
-<genre>DRAMA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
 <title>[COLOR white][B]O Cão dos Baskervilles (1959)[/B][/COLOR]</title>
 <link>plugin://plugin.video.tubemusic/?video_id=VZUJ1vv5cZE$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Cao dos Baskervilles[/B][/COLOR]</link>
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/11SPTR-FM/LS-O.Cao.dos.Baskervilles.1959.FHD.LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Cao dos Baskervilles - FHD DUAL[/B][/COLOR]</link>
@@ -1026,6 +1038,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>AVENTURA</genre>  				
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+<item>							
+<title>[COLOR white][B]O Dólar Furado (1965)[/B][/COLOR]</title>							
+<link>plugin://plugin.video.youtube/play/?video_id=Pi_K9Bc4Nac$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Dolar Furado[/B][/COLOR]</link>							
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-O.Dolar.Furado.1965.HD.DUB.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Dolar Furado - HD DUB[/B][/COLOR]</link>							
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-O.Dolar.Furado.1965.FHD.DUB.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Dolar Furado - FHD DUB[/B][/COLOR]</link>							
+<thumbnail>https://www.themoviedb.org/t/p/original/n5h587rc6olIitHdRVgoqxkc3OM.jpg</thumbnail>							
+<fanart>https://www.themoviedb.org/t/p/original/nz1yA8Mt61dO5PTQVdiNaBQljfP.jpg</fanart>							
+<info>Giuliano Gemma é um soldado que retorna da guerra para lutar uma outra em casa... </info>							
+<genre>WESTERN</genre>							
+</item>							
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
 <item>
 <title>[COLOR white][B]O Homem da Máscara de Ferro (1977)[/B][/COLOR]</title>
