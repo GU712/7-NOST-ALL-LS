@@ -1,7 +1,7 @@
 <channels>
 <channel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/4-SEL-ESPC-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/5-SEL-NSTLG-ALL</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -12,11 +12,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SEÇÃO FRANQUIAS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/4A-SEL-FRNQS-ALL</externallink>
-<thumbnail>https://i.ibb.co/RbB3gKK/ICON-FRANQUIAS.png</thumbnail>
-<fanart>https://i.ibb.co/LY3nn3Z/DORAMAS-FAN.png</fanart>
-<info>UMA NOVA TRIBO , UM NOVO ESTILO </info>
+<name>[B][COLOR white]FILMES ANTIGOS E RAROS [/COLOR][/B]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/5A-FLMS-NSTLG-ALL</externallink>
+<thumbnail>https://i.ibb.co/ccFdb9q/FLMS-OLD.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>OS MELHORES FILMES ANTIGOS ESTÃO AQUI</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -24,11 +24,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SEÇÃO CINE GOSPEL[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/4B-SEL-GSPL-ALL</externallink>
-<thumbnail>https://i.ibb.co/wdGdjyd/ICON-GOSPEL.png</thumbnail>
-<fanart>https://i.ibb.co/cw99tgq/CINEGOSPEL-FAN.png</fanart>
-<info>FÉ E ESPIRITULIDADE EM FILMES E SÉRIES </info>
+<name>[B][COLOR white]SÉRIES ANTIGAS E RARAS[/COLOR][/B]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/5B-SRS-NSTLG-ALL</externallink>
+<thumbnail>https://i.ibb.co/fHqbRXP/SRS-OLD.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>AS MELHORES SÉRIES ANTIGAS ESTÃO AQUI</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -36,11 +36,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SEÇÃO DORAMAS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/4C-SEL-DRMS-ALL</externallink>
-<thumbnail>https://i.ibb.co/QFQYmt9/ICON-DORAMAS.png</thumbnail>
-<fanart>https://i.ibb.co/LY3nn3Z/DORAMAS-FAN.png</fanart>
-<info>UMA NOVA TRIBO , UM NOVO ESTILO </info>
+<name>[B][COLOR white]DESENHOS ANTIGOS E RAROS[/COLOR][/B]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/5C-DSNHS-NSTLG-ALL</externallink>
+<thumbnail>https://i.ibb.co/hgFCVyN/DSNHS-OLD.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>AS MELHORES DESENHOS ANTIGOS ESTÃO AQUI</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -49,7 +49,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/4-SEL-ESPC-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/5-SEL-NSTLG-ALL</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 </channel>
