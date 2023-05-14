@@ -1,5 +1,5 @@
 <item>				
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO-B[/B][/COLOR]</title>				
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
 <link>ignoreme</link>				
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
@@ -283,6 +283,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>GUERRA</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]A Ponte do Rio Kwai (1957)[/B][/COLOR]</title>
+<link>plugin://plugin.video.tubemusic/?video_id=oh3e7Q02CZs$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]A Ponte do Rio Kwai[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/OC-RS/LS-A.Ponte.do.Rio.Kwai.1957.FHD.TRIAU+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Ponte do Rio Kwai - FHD DUAL+LEG[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/z4NWsLsLogVh2XfLXbPaaGrX8Zz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/crgRY1enjEIvco2mqH7lqqRjz9j.jpg</fanart>
+<info>Um coronel britânico coopera para supervisionar seus homens na construção de uma ponte ferroviária para os seus captores japoneses. </info>
+<genre>GUERRA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>				
 <title>[COLOR white][B]A Ponte de Remagen (1969)[/B][/COLOR]</title>				
@@ -589,6 +600,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "D"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
+<item>						
+<title>[COLOR white][B]Desafio das Águias (1968)[/B][/COLOR]</title>						
+<link>plugin://plugin.video.tubemusic/?video_id=gDS16XLoUTE$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Desafio das Aguias[/B][/COLOR]</link>						
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/CM-ES/LS-O.Desafio.das.Aguias.1968.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Desafio das Aguias - FHD DUB[/B][/COLOR]</link>						
+<thumbnail>https://www.themoviedb.org/t/p/original/xewMyCkxraKIWudPSt47IqbzxQy.jpg</thumbnail>						
+<fanart>https://www.themoviedb.org/t/p/original/n5KWtkoLK7Tv9GdUIwF4gqcC4XU.jpg</fanart>						
+<info>um general dos Estados Unidos é feito prisioneiro pela SS, nos Alpes da Baviera. Um grupo de soldados aliados tem a missão de resgatá-lo.</info>						
+<genre>GUERRA</genre>						
+</item>						
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX						
+
 <item>				
 <title>[B][COLOR white]Desbravadores (2007)[/COLOR][/B]</title>				
 <link>plugin://plugin.video.tubemusic/?video_id=G5wKd8M8EhM$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Desbravadores[/B][/COLOR]</link>				
@@ -611,6 +633,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>NACIONAL</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Deuses e Generais (2003)[/B][/COLOR]</title>
+<link>plugin://plugin.video.tubemusic/?video_id=nzghvqz7ZC4$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Deuses e Generais[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-CL/Secesao.War/LS-Deuses.e.Generais.2003.FHD.DUB+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Deuses e Generais - FHD DUB+LEG[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9F43DLMn2UgcBl79RKUzIlkMNGU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zIvABsW1PhqLfbMGRuPqd6th8Dx.jpg</fanart>
+<info>Uma nação em guerra com sua própria essência.</info>
+<genre>ÉPICOS</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>				
 <title>[COLOR white][B]Doutor Jivago (1965)[/B][/COLOR]</title>				
@@ -826,7 +859,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 LETRA "J"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+			
+<item>
+<title>[COLOR white][B]Jamais Foram Vencidos (1969)[/B][/COLOR]</title>
+<link>plugin://plugin.video.tubemusic/?video_id=jQ0acvFQdPg$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Jamais Foram Vencidos[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Jamais.Foram.Vencidos.1969.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Jamais Foram Vencidos - FHD DUAL+LEG[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/izLoWztICLx9zmwQCbTjf6JnMgu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rPSewTPPQXdmp8y5Mreq5aOnzOL.jpg</fanart>
+<info>O ex Coronel Confederado James Langdon lidera um grupo de refugiados sulistas à procura de uma nova vida no México.</info>
+<genre>WESTERN</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <item>				
 <title>[COLOR white][B]Jasão e o Velo de Ouro (1963)[/B][/COLOR]</title>				
@@ -853,9 +897,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR white][B]Juramento de Vingança (1965)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=mUJOhnKz424$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Juramento de Vinganza[/B][/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=mUJOhnKz424$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Juramento de Vinganza[/B][/COLOR]</link>
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Major.Dundee.1965.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Juramento de Vinganza - HD DUAL+LEG[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Major.Dundee.1965.FHD.LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Juramento de Vinganza - FHD LEG[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ArLso3LdVcfNfEVZbqdbvouadNV.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/sFzD310ZjoS0AM2IbJIUqWhhRLv.jpg</fanart>
 <info>O oficial de cavalaria Amos Dundee lidera uma contingente de soldados do exército, prisioneiros confederados e batedores numa expedição ao México para destruir um bando de Apaches</info>
@@ -1025,6 +1068,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<item>
+<title>[COLOR white][B]Nunca Te Vi, Sempre Te Amei (1987)[/B][/COLOR]</title>
+<link>plugin://plugin.video.tubemusic/?video_id=UDzZS9CPzZc$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Nunca Te Vi, Sempre Te Amei[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Nunca.te.vi.sempre.te.amei.1987.HD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Nunca Te Vi, Sempre Te Amei - FHD DUAL[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/l628I1tj1uraYw8idHsBrcdGHAY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pW5TdAIHk8sIgYRmDOCOxgqgSrv.jpg</fanart>
+<info>Um grande amor que começou numa pequena livraria</info>
+<genre>ROMANCE</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 LETRA "O"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
@@ -1107,6 +1161,29 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>WESTERN</genre>							
 </item>							
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+
+<item>
+<title>[COLOR white][B]O Engano (1991)[/B][/COLOR]</title>
+<link>plugin://plugin.video.tubemusic/?video_id=ywRy1vBQSSU$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Engano[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Goldie.Hawn/FLMS/LS-O.Engano.1991.FHD.DUAL.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Engano - FHD DUAL[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hL6iFhKp4C3EsAdMHKdABrOiSHl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4VxtZORDRxVc7uz0JWlHV1DSuQR.jpg</fanart>
+<info>Bem-sucedida restauradora de arte é casada com um marido devotado. ele morre em um acidente e ela descobre que ele usava um nome falso. </info>
+<genre>SUSPENSE</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>		
+<title>[B][COLOR white]O Expresso de Von Ryan (1965)[/COLOR][/B]</title>		
+<link>plugin://plugin.video.tubemusic/?video_id=m73YtZCKeeI$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Expresso de Von Ryan[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/OC-RS/LS-O.Expresso.Von.Ryan.1965.FHD.DUB+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Expresso de Von Ryan - FHD DUB+LEG[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/OC-RS/LS-O.Expresso.Von.Ryan.1965.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Expresso de Von Ryan - FHD DUAL+LEG[/B][/COLOR]</link>		
+<thumbnail>https://www.themoviedb.org/t/p/original/qYYyOPomT1lhZ5mQQBt3JUE1buq.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/eCjwiOqkW3igulp8A0pTD21WvDs.jpg</fanart>		
+<info>Ryan assume do major Eric Fincham (Trevor Howard), um oficial britânico, a posição de comando entre os prisioneiros do campo de concentração e passa a planejar uma ousada fuga. O plano é tomar um trem e fazê-lo atravessar a Itália em direção à Suíça, enfrentando uma forte perseguição nazista.</info>		
+<genre>OCUPAÇÃO E RESISTENCIA</genre>  		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 
 <item>
 <title>[COLOR white][B]O Homem da Máscara de Ferro (1977)[/B][/COLOR]</title>
@@ -1223,20 +1300,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR white][B]O Engano (1991)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=ywRy1vBQSSU$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Engano[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Goldie.Hawn/FLMS/LS-O.Engano.1991.FHD.DUAL.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Engano - FHD DUAL[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/hL6iFhKp4C3EsAdMHKdABrOiSHl.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/4VxtZORDRxVc7uz0JWlHV1DSuQR.jpg</fanart>
-<info>Bem-sucedida restauradora de arte é casada com um marido devotado. ele morre em um acidente e ela descobre que ele usava um nome falso. </info>
-<genre>SUSPENSE</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
 <title>[COLOR white][B]Os Heróis de Telemark (1965)[/B][/COLOR]</title>
 <link>plugin://plugin.video.tubemusic/?video_id=qWxW57Q20eQ$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Os Herois de Telemark[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-The.Heroes.Of.Telemark.1965.FHD.LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Os Herois de Telemark - FHD LEG[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/CM-ES/LS-The.Heroes.Of.Telemark.1965.FHD.LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Os Herois de Telemark - FHD LEG[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/CM-ES/LS-The.Heroes.Of.Telemark.1965.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Os Herois de Telemark - FHD DUAL+LEG[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8ImS5zscIdyVU18dgiwzhXPOKhY.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/wivkKkt2yOe3LDXABMl3VZW0NXu.jpg</fanart>
 <info>A resistência norueguesa tenta sabotar os esforços alemães para produzir um componente da bomba atômica durante a segunda guerra mundial.</info>
@@ -1415,6 +1482,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>CRIME E DRAMA</genre>				
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+<item>
+<title>[COLOR white][B]Só os Valentes Voltaram (1970)[/B][/COLOR]</title>
+<link>plugin://plugin.video.tubemusic/?video_id=zgWFr9wv1oo$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]So os Valentes Voltaram[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/OC-RS/LS-The.McKenzieBreak.1970.HD+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]So os Valentes Voltaram - HD LEG[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/OC-RS/LS-The.McKenzie.Break.1970.FHD.LEGFIX.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]So os Valentes Voltaram - FHD LEGFIX[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nLNDK7bOoYP4wInxxbtfrbhbWfV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/oA1ZRMcs5muKXVStdeB29tOfT4V.jpg</fanart>
+<info>Os prisioneiros de guerra alemães na Grã-Bretanha conspiram para escapar de seu campo de prisioneiros na Escócia. </info>
+<genre>GUERRA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <item>				
 <title>[B][COLOR white]Sob Suspeita (2006)[/COLOR][/B]</title>				
@@ -1549,6 +1628,19 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 LETRA "W"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+<item>
+<title>[COLOR white][B]Waterloo - A Batalha de Napoleão (1970)[/B][/COLOR]</title>
+<link>plugin://plugin.video.tubemusic/?video_id=JmRDwWiz6kw$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Waterloo - A Batalha de Napoleao[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-FM/LS-Waterloo.A.Batalha.de.Napoleao.1970.HD.DUB.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Waterloo - A Batalha de Napoleao - HD DUB[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-FM/LS-Waterloo.A.Batalha.de.Napoleao.1970.FHD.LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Waterloo - A Batalha de Napoleao - FHD LEG[/B][/COLOR]</link>
+link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-FM/LS-Waterloo.1970.HD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Waterloo - A Batalha de Napoleao - FHD DUAL+LEG[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/blIgxg35byK0b2Le4Zjo8abzRvm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yvUkDp3uWj8SpeHQVpmLpnMW3Vc.jpg</fanart>
+<info>Épico histórico que conta a saga de Napoleão, na batalha de Waterloo.</info>
+<genre>ÉPICOS</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 LETRA "Z"				
