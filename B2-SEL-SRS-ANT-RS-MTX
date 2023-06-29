@@ -2,7 +2,6 @@
 <channel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/5B-SRS-NSTLG-ALL</externallink>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -116,6 +115,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Agente 86 (1965-1969) ATUALIZANDO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C15-SRS-Agente.86-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/czVnqeZZVBoniOO3iYB3nSvuSWO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6ahKNfvLGWYDlhUfSagJfClXkoi.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Agente 86
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANO - 1965 a 1969
+[COLOR orange]COMÉDIA
+[COLOR orange]05 TEMPs - 138 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O mundo da Espionagem não seria tão engraçado sem o AGENTE 86.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
@@ -257,6 +274,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange][B]SUPER-HERÓIS[/B][/COLOR]
 [COLOR orange][B]03 TEMPS - 120  EPs[/B][/COLOR]
 [COLOR orange][B]ANOS - 1966 a 1967[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B] Bat Masterson (1958-1960) - INCOMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C15-SRS-Bat.Masterson-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/8OxFU939AMas2yV7fohnYf74dEX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8vKrcxvahZA5IKDO96521GmS0o4.jpg</fanart>
+<info>Assista a série  Bat Masterson (1958) . 
+[COLOR orange][B]WESTERN[/B][/COLOR]
+[COLOR orange][B]03 TEMPS - 108 EPs[/B][/COLOR]
+[COLOR orange][B]ANOS - 1958 a 1960[/B][/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
