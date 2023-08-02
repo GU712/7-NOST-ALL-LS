@@ -280,7 +280,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B] Bat Masterson (1958-1960) - INCOMPLETA[/B][/COLOR]</name>
+<name>[COLOR white][B]Bat Masterson (1958-1960) - INCOMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C15-SRS-Bat.Masterson-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/8OxFU939AMas2yV7fohnYf74dEX.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/8vKrcxvahZA5IKDO96521GmS0o4.jpg</fanart>
@@ -410,14 +410,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Combate (1962-1966) - ATUALIZANDO[/B][/COLOR]</name>
+<name>[COLOR white][B]Combate (1962-1966) - INCOMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2C-LS-GRR-ALL/main/C7-SRS-Combat-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/2FQKBkUvvWhfjpXr5THFLEW3E7e.jpg</thumbnail>
-<fanart>https://1.bp.blogspot.com/-JPUDC9D0WnE/YBdSmI-uHLI/AAAAAAAAOVc/ygZD7S_YkaglpRkOblBZVCnhFlQJdfl-gCLcBGAsYHQ/s16000/combat%2Belenco.jpg</fanart>
-<info>Assista a série Combate. 
-[COLOR orange][B]GUERRA[/B][/COLOR]
-[COLOR orange][B]05 TEMPS - 152  EPs[/B][/COLOR]
-[COLOR orange][B]ANOS - 1962 a 1966[/B][/COLOR]</info>
+<fanart>https://www.themoviedb.org/t/p/original/45a4XsUzaNoOAEHsrDEPznZTMGk.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Combate
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS - 1962 a 1966
+[COLOR orange]GUERRA
+[COLOR orange]05 TEMPs - 152 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]As vidas sombrias de um esquadrão de soldados americanos que lutavam contra os alemães na França durante a Segunda Guerra Mundial.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -694,14 +698,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Kung Fu (1972-1974) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/C5-SRS-Kung.Fu-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/t85ZbWwwCyDzubtxyg0pwlH4rdP.jpg</thumbnail>
+<name>[COLOR white][B]Kung Fu (1972-1974) - FHD COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/C5A-SRS-Kung.Fu-FHD-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/cOCOp9NjUUO4rdgYRAboMzIFl1B.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/e3JxqeCqI59a0Dy8T8AJeqkhKGg.jpg</fanart>
-<info>Assista a série Kung Fu. 
-[COLOR orange][B]AVENTURA[/B][/COLOR]
-[COLOR orange][B]03 TEMPS - 62 EPs[/B][/COLOR]
-[COLOR orange][B]ANOS - 1972 a 1974[/B][/COLOR]</info>
+<info>[COLOR white]Assista aqui a série: 
+[B]Kung Fu
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO - 1972 a 1974
+[COLOR orange]AVENTURA
+[COLOR orange]03 TEMPs - 62 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A história de Kwai Chang Caine, um homem que passou anos vivendo em um templo Shaolin, mas que acaba fugindo para os Estados Unidos quando é acusado de assassinato
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -984,10 +992,32 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C28-SRS-The.Monkees-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/4d5DWhXb16EgXRLrbEx5qq6lL8F.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart>
-<info>Assista a série Os Monkees. 
-[COLOR orange][B]COMÉDIA[/B][/COLOR]
-[COLOR orange][B]02 TEMPS - 58 EPs[/B][/COLOR]
-[COLOR orange][B]ANOS - 1966 a 1967[/B][/COLOR]</info>
+<info>[COLOR white]Assista aqui a série: 
+[B]Os Monkees
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS - 1966 a 1967
+[COLOR orange]COMÉDIA
+[COLOR orange]02 TEMPs - 58 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]As trapalhadas e aventuras de uma banda de rock, Os Monkees
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Os Monstros (1964-1964) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C44-SRS-Os.Monstros-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/dYdEFAEU3HZKgtvtindshDpa2Iy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rlOQE3FBKzamw5ddBgCrZJ1RkQl.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Os Monstros
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO - 1964 a 1964
+[COLOR orange]COMÉDIA
+[COLOR orange]02 TEMPs - 70 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Os Monstros são uma família estranha, mas honesta.A sobrinha Marilyn, que é a única pessoa normal da casa, muito bonita e simpática, mas considerada como o "patinho feio" pela família.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -1142,15 +1172,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Starsky & Hutch (1975-1978) - INCOMPLETA[/B][/COLOR]</name>
+<name>[COLOR white][B]Starsky e Hutch - Justiça em Dobro (1975-1978) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C16-SRS-Starsky.Hutch-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/3SqcpDwdhFc1vyEa5nIysybCKpM.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/cZJhpP6jcUoRj27MUvfpwFNScly.jpg</fanart>
-<info>Assista a série Starsky & Hutch. 
-[COLOR orange][B]AÇÃO[/B][/COLOR]
-[COLOR orange][B]04 TEMPS - 92 EPs[/B][/COLOR]
-[COLOR orange][B]ANOS - 1975 a 1978[/B][/COLOR]</info>
+<info>[COLOR white]Assista aqui a série: 
+[B]Starsky e Hutch - Justiça em Dobro
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO - 1975 a 1978
+[COLOR orange]AÇÃO
+[COLOR orange]04 TEMPs - 92 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Eles não são nenhuma dupla de super-heróis que combatem o crime nas ruas de Los Angeles. Para os detetives Dave Starsky e Ken Hutch, trabalhar em dupla significa diminuir os riscos durante o trabalho.
+[/COLOR]</info>
 </channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
