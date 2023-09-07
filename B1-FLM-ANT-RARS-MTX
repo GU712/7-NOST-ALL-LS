@@ -1676,8 +1676,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR white][B]Viagem Fantástica (1966)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=DXxPDExSHfo$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Viagem Fantastica[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/10FCFN-FM/LS-Viagem.Fantastica.1966.DUD.mp4$nome=[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Viagem Fantastica - SD DUB[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/10FCFN-FM/LS-Viagem.Fantastica.1966.DUD.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/72PZgOOB5YBo02aclMyYlJr1fbs.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/lK2L7IhvPAooQt21x0JtA4phqET.jpg</fanart>
 <info>A viagem mais fantástica das telas</info>
@@ -1699,7 +1698,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR white][B]Waterloo - A Batalha de Napoleão (1970)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=JmRDwWiz6kw$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Waterloo - A Batalha de Napoleao[/B][/COLOR]</link>
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-FM/LS-Waterloo.A.Batalha.de.Napoleao.1970.HD.DUB.mkv$nome=[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Waterloo - A Batalha de Napoleao - HD DUB[/B][/COLOR]</link>
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-FM/LS-Waterloo.A.Batalha.de.Napoleao.1970.FHD.LEG.mkv$nome=[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Waterloo - A Batalha de Napoleao - FHD LEG[/B][/COLOR]</link>
 link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-FM/LS-Waterloo.1970.HD.DUAL+LEG.mkv$nome=[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Waterloo - A Batalha de Napoleao - FHD DUAL+LEG[/B][/COLOR]</link>
@@ -1716,8 +1714,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <item>
 <title>[COLOR white][B]Zulu (1964) [/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=CbdZMUON3Is$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Zulu[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-CL/Zulu/LS-Zulu.1964.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Zulu - FHD DUB+LEG[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-CL/Zulu/LS-Zulu.1964.FHD.DUAL+LEG.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9V7tl1kIb67ZPRRNlUdy3JvqEiA.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/41ZWAGMttCr74dq7sAeh44QSJTQ.jpg</fanart>
 <info>Em Natal, África do Sul, em 1879, um pequeno regimento britânico de apenas 105 soldados se recusa a abandonar sua posição e resiste bravamente ao ataque de 4000 guerreiros zulus. Baseado em fatos verídicos.</info>
