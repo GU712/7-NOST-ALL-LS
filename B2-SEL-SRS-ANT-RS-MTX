@@ -1070,7 +1070,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "P"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
-
 <channels>
 <channel>
 <name>[COLOR white][B]Papillon (2 Filmes)[/B][/COLOR]</name>
@@ -1198,6 +1197,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange][B]COMÉDIA[/B][/COLOR]
 [COLOR orange][B]07 TEMPS - 180 EPs[/B][/COLOR]
 [COLOR orange][B]ANOS - 1985 a 1991[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]S.W.A.T. (1975) - INCOMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C18-SRS-SWAT-OLD-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/u3DbvKamBWkchckwioak3PvN8j1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/subk3omLR8KaGaRYGMfJcvb8WDN.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]S.W.A.T.
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANO - 1975
+[COLOR orange]AÇÃO
+[COLOR orange]02 TEMPs - 38 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Quando você está com problemas, você chama a polícia. Quando a polícia está em apuros, eles chamam a S.W.A.T.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
