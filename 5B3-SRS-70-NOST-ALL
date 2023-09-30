@@ -1,1193 +1,553 @@
-<item>				
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
+<channels>
+<channel>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/main/5B3-SRS-70-NOST-ALL</externallink>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-NUMERAL			
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<item>				
-<title>[COLOR white][B]36 Horas no Inferno (1969)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.tubemusic/?video_id=PNzfjUaxJzk$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]36 Horas no Inferno[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-36.Horas.no.Inferno.1969.LEG-FIX..mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]36 Horas no Inferno - HD - LEG FIX[/B][/COLOR]</link>				
-<thumbnail>https://www.themoviedb.org/t/p/original/mEJVs5ibdvjBWOQ5h70xXVJ7qyY.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/67nGYnEYyt7SDVcuba4myPWFrl6.jpg</fanart>				
-<info>Fuzileiros navais americanos são enviados para uma ilha do Pacífico ocupada pelos japoneses. Mas vão encontrar forte resistência das forças inimigas sobreviventes.</info>				
-<genre>GUERRA</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>							
-<title>[COLOR white][B]100 Rifles (1969)[/B][/COLOR]</title>							
-<link>plugin://plugin.video.tubemusic/?video_id=v7PwDGfWWy0$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]100 Rifles[/B][/COLOR]</link>							
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:299D88483A546654516CED955EB4A2FB3342EE1C$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]100 Rifles - FHD DUAL[/B][/COLOR]</link>							
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-100.Rifles.1969.FHD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]100 Rifles - FHD DUB[/B][/COLOR]</link>							
-<thumbnail>https://www.themoviedb.org/t/p/original/yzpbZapaFsAOS9hy9oNeZ6dahht.jpg</thumbnail>							
-<fanart>https://www.themoviedb.org/t/p/original/cAKosbuS1RpLDRfx2qAiUn0ueQj.jpg</fanart>							
-<info>O mestiço Joe rouba um banco no Arizona, perseguido, tenta fugir para o México. Preso, ele acaba se unindo ao seu perseguidor e a uma linda índia na luta do povo Yaki contra a opressão do governo.</info>							
-<genre>WESTERN</genre>							
-</item>							
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "A"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<item>
-<title>[COLOR white][B]A Caminho do Oeste (1967)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=3vlKvqRINMc$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]A Caminho do Oeste[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-A.Caminho.do.Oeste.1967.HD.DUB+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Caminho do Oeste - HD DUB+LEG[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-A.Caminho.do.Oeste.1967.FHD.DUB+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Caminho do Oeste - FHD DUB+LEG[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/cexs9SGcB9JGfBBO1mKeFS1dzc8.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/zI9KXvQEkku5cmcwKnubOY5JfhJ.jpg</fanart>
-<info>O senador William J. Tadlock lidera um grupo de colonos de fronteira numa jornada de 2.500 km em busca de terras no Oregon para colonizar o Oeste Americano.</info>
-<genre>WESTERN</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR white][B]A Conquista do Oeste (1962)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=zUdV75GtYXc$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]A Conquista do Oeste[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-A.Conquista.do.Oeste.1962.HD.DUB+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Conquista do Oeste - HD DUB LEG[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-A.Conquista.do.Oeste.1962.HD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Conquista do Oeste - HD DUAL LEG[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/hkcKA1d0YPUM2Wr8MXtrYIUjXTq.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/e4VWYxYdtiW0zQ7clHqbLPmHKoB.jpg</fanart>
-<info>Um belo, heroico e grandioso épico que descreve a gênese da América em sua expansão até às últimas fronteiras.</info>
-<genre>WESTERN</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>				
-<title>[COLOR white][B]A Batalha da Grã-Bretanha (1969)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.tubemusic/?video_id=fEP1oSQWJ34$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]A Batalha da Gra-Bretanha[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-A.Batalha.da.Gra-Bretanha.1969.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Batalha da Gra-Bretanha - FHD DUAL+LEG[/B][/COLOR]</link>				
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rudRtopZAEGGARXEkLTrvA4zfcG.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/yDegO9fhCUCooGKfRyytvuN9y2K.jpg</fanart>				
-<info>A mais extraordinária batalha aérea da história, transformada num clássico filme de guerra.Em 1940, durante a Segunda Guerra Mundial, a RAF - Real Força Aérea britânica entra numa luta desesperada contra a Luftwaffe para impedir uma possível invasão das forças alemãs ao território inglês. Os soldados se engajam numa luta aérea pelo controle dos céus, e o que está em jogo é a sobrevivência da Inglaterra.</info>				
-<genre>GUERRA</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Batalha do Neretva (1969)  - HD LEG-FIX[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-A.Batalha.do.Neretva.1969.SD.Legfix.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/70fCvw1KkFfAwq5Q8vGIMQhPEi7.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/JWwdnKnv6ZgoAMfs6Hl3NV8YX2.jpg</fanart>
-<info>O brigadeiro-general Frank D. Merrill lidera os 3.000 voluntários americanos de sua 5307ª Unidade Composta (Provisória), também conhecida como "Malandros do Merrill", atrás das linhas japonesas através da Birmânia até Myitkyina, ultrapassando seus limites e travando batalhas em todas as frentes mais disputadas. (e 10 - Estimado 10 Anos)</info>
-<genre>GUERRA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>				
-<title>[COLOR white][B]À Beira do Inferno (1962)[/B][/COLOR]</title>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-A.Beira.do.Inferno.1962.SD.dub.mkv</link>				
-<thumbnail>https://i.ibb.co/nw0G3Vg/beira-do-inferno.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/9ONYpVoddAhTB092M8njkVsbccS.jpg</fanart>				
-<info>Herói da Marinha americana decide resistir à invasão japonesa da ilha de Guam. É a história verdadeira de George Tweed, um marinheiro americano que se tornou o único em serviço na ilha de Guam, durante os primeiros tempos da Segunda Guerra.</info>				
-<genre>GUERRA</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Brigada do Diabo (1968) - HD LEG[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/CM-ES/LS-The.Devils.Brigade.1968.HD.LEG.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/xVoNte7B2Jbqfop1YQzJBWjtHIp.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/wjZUj0TBqQVpAKRf3zu5pMGtsBt.jpg</fanart>
-<info>[COLOR white]Assista aqui o filme: 
-[B]A Brigada do Diabo
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]HD LEG
-[COLOR orange]ANO - 1968
-[COLOR orange]GUERRA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O que eles fizeram um ao outro não foi nada comparado ao que fizeram ao inimigo!
+<channels>
+<channel>
+<name>[COLOR white][B]A Ilha da Fantasia (1978) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C18-SRS-Ilha.da.Fantasia.OLD-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/59k2QxihoTsFxYuZfo375B2lKdi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tFXozuubURDnBXY4IOUwzSLQWT2.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]A Ilha da Fantasia
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS - 1978 a 1983
+[COLOR orange]FICÇÃO E FANTASIA
+[COLOR orange]07 TEMPS - 158 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Uma ilha paradisíaca onde qualquer desejo pode ser realizado. O anfitrião dessa ilha é o senhor Roarke, juntamente com seu auxiliar, o pequeno Tattoo, um anãozinho muito simpático.
 [/COLOR]</info>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Caminho do Oeste (1967)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-A.Caminho.do.Oeste.1967.HD.DUB+LEG.mkv$nome=[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Caminho do Oeste - HD DUB+LEG[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-A.Caminho.do.Oeste.1967.FHD.DUB+LEG.mkv$nome=[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Caminho do Oeste - FHD DUB+LEG[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/cexs9SGcB9JGfBBO1mKeFS1dzc8.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/zI9KXvQEkku5cmcwKnubOY5JfhJ.jpg</fanart>
-<info>O senador William J. Tadlock lidera um grupo de colonos de fronteira numa jornada de 2.500 km em busca de terras no Oregon para colonizar o Oeste Americano.</info>
-<genre>WESTERN</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Colina dos Homens Perdidos (1965) - HD DUAL+LEG[/B][/COLOR]</title>
-<link>>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/OC-RS/LS-A.Colina.Dos.Homens.Perdidos.(The.Hill).1965.HD.DUAL+LEG.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/dpHfqiAcMRVxrcsrd1GPzkmxMvX.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/tJQwpe0vXWuvWlNWhVjMfjzOPjC.jpg</fanart>
-<info>[COLOR white]Assista aqui o filme: 
-[B]A Colina dos Homens Perdidos
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUAL+LEG
-[COLOR orange]ANO - 1965
-[COLOR orange]GUERRA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um Campo disciplinar, má conduta, principalmente a deserção. Lá são obrigados diariamente a escalar uma colina, sob o sol escaldante.
-[/COLOR]</info>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Conquista do Oeste (1962)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-A.Conquista.do.Oeste.1962.HD.DUB+LEG.mkv$nome=[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Conquista do Oeste - HD DUB LEG[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-A.Conquista.do.Oeste.1962.HD.DUAL+LEG.mkv$nome=[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Conquista do Oeste - HD DUAL LEG[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/hkcKA1d0YPUM2Wr8MXtrYIUjXTq.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/e4VWYxYdtiW0zQ7clHqbLPmHKoB.jpg</fanart>
-<info>Um belo, heroico e grandioso épico que descreve a gênese da América em sua expansão até às últimas fronteiras.</info>
-<genre>WESTERN</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Defesa do Castelo (1969) - FHD LEG[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/OC-RS/LS-A.Defesa.do.Castelo.1969.FHD.LEG.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/gERA2rTFymgxteyqX6JUlyidMiE.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/ahmYPtrmAVANUaqaYA4lf0Hd7VG.jpg</fanart>
-<info>[COLOR white]Assista aqui o filme: 
-[B]A Defesa do Castelo
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD LEG
-[COLOR orange]ANO - 1969
-[COLOR orange]GUERRA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Durante a Batalha do Bulge, um conde anacrônico abriga um esquadrão desorganizado de americanos em seu castelo isolado, esperando que eles o defendam contra o avanço dos alemães.
-[/COLOR]</info>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Guerra dos Demônios (1969) - HD LEG[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-The.War.Devils.1969.HD.LEGFIX.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/jx0sIosNrQsXEZLlE2mQIRHhUqk.jpg</thumbnail>
-<fanart>https://m.media-amazon.com/images/S/pv-target-images/7150e131712bc7571abdefd12593c0710684fa55531744093c3e843e565b2d6e.jpg</fanart>
-<info>Um capitão alemão e um capitão americano se ajudam a sobreviver no deserto do norte da África. Eles se reencontram um ano depois, na França.</info>
-<genre>GUERRA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Invasão Secreta (1964) - HD LEG[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/CM-ES/LS-A.Invasao.Secreta.1964.HD-LEG.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/izpHDl5JB4JIkA8ZUfJq6WTtoA9.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/5L6NyLp1TowYfvM1TbTNvOTYPXL.jpg</fanart>
-<info>O Plano É Ousado, As Chances São Pequenas.</info>
-<genre>GUERRA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Marca da Forca (1968) - FHD DUAL+LEG[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-A.Marca.da.Forca.1968.FHD.DUAL+LEG.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/nASOz9NuLD3hHoB0ku9shjFal78.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/2jBvUy36WcidzXxZFwpA2UWRNpw.jpg</fanart>
-<info>Na Oklahoma de 1873, Jed Cooper é confundido com um trapaceiro, linchado e levado à forca.</info>
-<genre>WESTERN</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Noite dos Generais (1967) - FHD DUAL+LEG[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/CM-ES/LS-The.Night.of.the.Generals.1967.FHD.DUAL+LEG.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/84G9foLMUy5rV9BivJspkCWRMei.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/tdGkc8mTBNk1PNVzLFn2hEA3rIV.jpg</fanart>
-<info>Em 1942, uma prostituta polonesa é assassinada em Varsóvia. A suspeita recai sobre três generais de alto escalão.</info>
-<genre>GUERRA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Queda do Império Romano (1964) - HD DUB+LEG[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:FLMS/2EPC-FM/LS-A.Queda.do.Imperio.Romano.1964.HD.dub.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7bLJSoBxrqgPHJ8uRIwrjO1Crz5.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/wpTgHZCCfM3SffZvq6tCFdkkMz0.jpg</fanart>
-<info>[COLOR white]Assista aqui o filme: 
-[B]A Queda do Império Romano
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB+LEG
-[COLOR orange]ANO - 1964
-[COLOR orange]ÉPICOS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]No auge da expansão geográfica do império romano, o general Lívio comanda a política do imperador Marco Aurélio, que quer a pacificação de fronteiras
-[/COLOR]</info>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Patrulha da Esperança (1966) - FHD DUAL+LEG[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/OTGR/LS-A.Patrulha.da.Esperansa.1966.FHD.DUAL+LEG.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/gy5Xv7Xg6bHOX8mnhmXThyoa4d6.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/yjHm0EJnHBG3sLSScPmqxduKAJw.jpg</fanart>
-<info>O Exército francês envolvido em operações de contra insurgência, em ambientes urbanos e rurais.</info>
-<genre>GUERRA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Ponte de Remagen (1969) - FHD DUAL+LEG[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-A.Ponte.de.Remagem.1969.FHD.DUAL+LEG.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/hbJtJSbhcuqRg6lDmWuEdiK2dn.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/3ar6tWdgjxViSdpyc6pHMKFP93O.jpg</fanart>				
-<info>À medida que os exércitos aliados se aproximam, os nazistas decidem explodir a última ponte do Reno, deixando seus próprios homens no lado errado rio.</info>				
-<genre>GUERRA</genre>				
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Audazes e Malditos - 1969 - HD LEG FIX[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Audazes.e.Malditos.1960.FHD.LEGFIX.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jpi9dXkF4ZHUVxRDHjh6jJlrdun.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/pYJpaXhu6IFtw5qx6A1RyTJvUUJ.jpg</fanart>
-<info>Sergeant Rutledge. É um dos primeiros filmes de faroeste no qual o racismo é o ponto de inflexão. Um oficial negro é acusado do assassinato do comandante e de sua filha e tenta provar inocência mesmo após ser perseguido.</info>
-<genre>WESTERN</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B][COLOR white]As Duas Faces de um Crime (1996)[/COLOR][/B]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=AX4gmDNPVO8$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]As Duas Faces de um Crime[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54f98afd18644eeb701cd383f89a41f2530bdb94$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]As Duas Faces de um Crime - HD LEG[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:70fde3e6d1785a8a1419a9e5132fb6a2b77ca39c$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]As Duas Faces de um Crime - FHD LEG[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-As.Duas.Faces.de.um.Crime.1996.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]As Duas Faces de um Crime - FHD DUAL+LEG[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/6d8vnmdkyH8PkG30f29VLmvVRP2.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/a4f6y7gbMmMLrwzJZrwmcNmEBM1.jpg</fanart>
-<info>Em Chicago, um arcebispo (Stanley Anderson) assassinado com 78 facadas.</info>
-<genre>CRIME E DRAMA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "B"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Beau Geste (1966)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/6AVT-FM/LS-Beau.Geste.1966.FHD.DUB.LEGLIX.mp4$nome=[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Beau Geste - FHD DUB+LEG FIX[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/6AVT-FM/LS-Beau.Geste.1966.FHD.LEGFIX.mkv$nome=[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Beau Geste - FHD LEG FIX[/B][/COLOR]</link>				
-<thumbnail>https://www.themoviedb.org/t/p/original/sNrbpDwMDT0SSlOG8w3Xc8dpYZj.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/bfwAsokyvaBIxP7vus7aa0jLFwq.jpg</fanart>				
-<info>Em 1906, dois irmãos americanos se juntam à Legião Estrangeira Francesa e, liderados por um sádico sargento-mor, defendem um forte contra o ataque tuaregue.</info>				
-<genre>AVENTURA</genre>				
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "C"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Candelabro Italiano (1962) - SD DUAL+LEG[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-O.Candelabro.Italiano.1962.SD.DUAL+LEG.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/khjX4VfO0sf3pDqHw44yC6hSOOG.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/qUkhyZb1Sr4R3pz72fEXyRx1JBy.jpg</fanart>
-<info>Prudence e Don viajam juntos pela Itália e, naturalmente, surge o romance.</info>
-<genre>DRAMA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Cartago em Chamas (1960) - FHD DUAL+LEG[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-FM/LS-Cartago.em.Chamas.1960.FHD.DUAL+LEG.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1u0LBTgwqWz50AWMDrQCkDJmVaQ.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/pAPXLanSyUOFIHljHIAqmz26HFg.jpg</fanart>
-<info>[COLOR white]Assista aqui o filme: 
-[B]Cartago em Chamas
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 1960
-[COLOR orange]ÉPICOS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Roma e Cartago estão em conflito. Navios de guerra são enviando para a batalha sobre o controle de Cartago.
-[/COLOR]</info>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Cinco Semanas num Balão (1962) - HD DUAL LEG[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/FLMS/LS-Cinco.Semanas.Num.Balao.1962.HD.DUAL+LEG.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/uX6rzy5SwjMFO9TgHXNBp8nSfpS.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/tJBRyaTWzLXdn2vAmWd3KXWg4rc.jpg</fanart>
-<info>Com um elenco de primeira, um romance amalucado e maravilhosas paisagens, é diversão para toda a família da decolagem à aterrissagem</info>
-<genre>AVENTURA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Cleópatra (1963) - HD DUB[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-FM/LS-Cleopatra.1963.HD.dub.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/zGz6N0Gj9LWvrRrUTgkGqmxqr5s.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/zLGRtDG96DnPoE53DeMkatcqfEi.jpg</fanart>
-<info>[COLOR white]Assista aqui o filme: 
-[B]Cleópatra
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB
-[COLOR orange]ANO - 1963
-[COLOR orange]ÉPICOS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Cleópatra, rainha do Egito, sua luta para defender o império das ambições políticas e territoriais de Roma e seu relacionamento com Júlio César e Marco Antônio.
-[/COLOR]</info>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Comando Sullivan (1968) - FHD LEG FIX[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/CM-ES/LS-Commandos.1968.FHD.LEGFIX.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9hOEUX8s6RfI9QN1km4nLvJjEjA.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/r2BraoAWRcUCAd3356DzIHGMqZ2.jpg</fanart>				
-<info>Sete homens que ficaram entre o Afrika Korps de Rommel e a vitória final.</info>				
-<genre>GUERRA</genre>				
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Crepúsculo das Águias (1966) - FHD LEG FIX[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/1GR/LS-Crepusculo.das.Aguias.1966.FHD.LEG-FIX.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oY2WXQFWe98Lq9b3u7An065YI5r.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/g6fzxtuMPPx8KtQ2I6O6F2SPyfB.jpg</fanart>				
-<info>O tenente Bruno Stachel, um ousado piloto alemão da Primeira Guerra Mundial, ele precisará abater muitos aviões inimigos para ganhar a cobiçada Blue Max.</info>				
-<genre>GUERRA</genre>				
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Crepúsculo de Uma Raça (1964) - FHD DUB+LEG[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Crepusculo.de.uma.Raza.1964.FHD.DUB+LEG.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/kYc1NuT9Cvm6GHAdf5nlEXb3evl.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/iNAOupG7L1Z9zeDQh8aBBlfQacN.jpg</fanart>
-<info>Os Cheyennes partem em uma travessia de 2.400 km rumo à sua ancestral área de caça</info>
-<genre>WESTERN</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "D"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Desafio das Águias (1968)) - FHD DUAL+LEG[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/CM-ES/LS-O.Desafio.das.Aguias.1968.FHD.DUAL+LEG.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/xewMyCkxraKIWudPSt47IqbzxQy.jpg</thumbnail>						
-<fanart>https://www.themoviedb.org/t/p/original/n5KWtkoLK7Tv9GdUIwF4gqcC4XU.jpg</fanart>						
-<info>Um general dos Estados Unidos é feito prisioneiro pela SS, nos Alpes da Baviera. Um grupo de soldados aliados tem a missão de resgatá-lo.</info>						
-<genre>GUERRA</genre>						
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>				
-<title>[COLOR white][B]Desembarque Sangrento (1967)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.tubemusic/?video_id=W56J1_D0Zm8$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Desembarque Sangrento[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-Desembarque.Sangrento.1967.FHD.dub.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Desembarque Sangrento - FHD DUB[/B][/COLOR]</link>				
-<thumbnail>https://www.themoviedb.org/t/p/original/oQSGVlLFNat9xXFRm0y0PdQyIRx.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/c7lKsVMeFrbo5RRE0nWNQagCLw3.jpg</fanart>				
-<info>Americanos devem eliminar as forças japonesas entrincheiradas no terreno da ilha. Porém, como os inimigos japoneses estão muito bem equipados e com suas posições fortalecidas, eles tem uma árdua batalha pela frente,levados pela brutalidade do combate,a tropa se transforma em uma máquina de guerra,</info>				
-<genre>GUERRA</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR white][B]Deus e o Diabo na Terra do Sol (1964)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=QEsoB05RjGs$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Deus e o Diabo na Terra do Sol[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/FLMS/LS-Deus.e.o.Diabo.na.Terra.do.Sol.Parte.1.1964.HD.DUB.avi$nome=[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Deus e o Diabo na Terra do Sol - Parte 1 - HD DUB[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/FLMS/LS-Deus.e.o.Diabo.na.Terra.do.Sol.Parte.2.1964.HD.DUB.avi$nome=[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Deus e o Diabo na Terra do Sol - Parte 2 - HD DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qE7iccDSq7NImjFrV0tcm7BrDgX.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/rLVlLegxfZWPXIPE9eYjdkP1Nun.jpg</fanart>
-<info>Obra prima do Cinema Brasileiro digna de nãoser esquecida. </info>
-<genre>NACIONAL</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR white][B]Django (1966)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=HA0xG8ThyE4$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Django[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EEB3BE73C8D04317D0F931C5FA92C17B2F2B7815$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Django - FHD DUAL[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Django.1966.FHD.TRIAU+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Django - FHD DUAL[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/2F7s8OargNTqN0HP4zpwcdJzRYB.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/tY4ueSDPgmg65EAuCQVUF9MCv0S.jpg</fanart>
-<info>Django é um homem que arrasta consigo um caixão, onde dentro está escondida uma poderosa metralhadora. </info>
-<genre>WESTERN</genre>
-</item>
+</channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Doutor Jivago (1965) - FHD DUAL+LEG[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-FM/LS-Doutor.Jivago.1965.FHD.DUAL+LEG.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6PFPsg4Ybhgk1GImTX9NHu0kDE9.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/y3sPNxqVBIt97EZX568OpAWBpcl.jpg</fanart>
-<info>[COLOR white]Assista aqui o filme: 
-[B]Doutor Jivago
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 1965
-[COLOR orange]ÉPICOS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Conheça a história do doutor Yury Zhivago, que em plena guerra se viu apaixonado pela bela Lara Antipova, o amor impossível que move toda a história.
+<channels>
+<channel>
+<name>[COLOR white][B]A Mulher Biônica (1976) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C9-SRS-A.Mulher.Bionica-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/3F7UqtBXwNhOw6oUuK90xQs53R8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ii38ZGkxKJUuRMUlsrYYVwx5SDg.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]A Mulher Biônica
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS - 1976 a 1977
+[COLOR orange]FICÇÃO E FANTASIA
+[COLOR orange]03 TEMPS - 58  EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Depois de se recuperar completamente de sua quase mortal rejeição biônica, Jaime Sommers, o primeiro ciborgue feminino, é designado para missões de espionagem por conta própria.
 [/COLOR]</info>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
+</channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "E"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]El Cid (1961) - FHD DUB[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-FM/LS-El.cid.1961.FHD.dub.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/2bhGhYuYvY4xmpypBc8qkIjN5pY.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/pUAPMy6NqgWZbHxohyObnkKy1Bi.jpg</fanart>
-<info>[COLOR white]Assista aqui o filme: 
-[B]El Cid
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUB
-[COLOR orange]ANO - 1961
-[COLOR orange]ÉPICOS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Rodrigo Diaz, "El Cid" para os seus seguidores, que, sem comprometer o seu rigoroso sentido de honra, consegue tomar a iniciativa e expulsar os mouros da Espanha cristã.
+<channels>
+<channel>
+<name>[COLOR white][B]Ark II (1976) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C11-SRS-Ark.II-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/o3RC6RPrbyalYbawK2Z9i8TKsEd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uY0QpTmIMxiiXirxYrORD0jTVEH.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Ark II
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]01 TEMPS - 15 EPs
+[COLOR orange]FICÇÃO E FANTASIA
+[COLOR orange]01 TEMPS - 15 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]<TEXTO>
 [/COLOR]</info>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>							
-<title>[COLOR white][B]Era uma Vez no Oeste (1968)[/B][/COLOR]</title>							
-<link>plugin://plugin.video.tubemusic/?video_id=Wov74hCgXhk$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Era uma Vez no Oeste[/B][/COLOR]</link>							
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c19541c58d6d26063efcb40b6f4a8abcae3bc104$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Era uma Vez no Oeste - HD DUB[/B][/COLOR]</link>							
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fbbcacb01961df74cd140aa8402865a5a6970a6b$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Era uma Vez no Oeste - FHD DUAL[/B][/COLOR]</link>							
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Era.Uma.Vez.no.Oeste.1969.FHD.DUAL.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Era uma Vez no Oeste - FHD DUB[/B][/COLOR]</link>							
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3RymloPYcEPx30T1vTrz2cXaVnh.jpg</thumbnail>							
-<fanart>https://www.themoviedb.org/t/p/original/aKZ9hDmLJTaGSxWdhxqMTcvXmk4.jpg</fanart>							
-<info>Enquanto os construtores ferroviários marcham imparavelmente através do deserto de Arizona a caminho do mar, Jill chega à pequena cidade de Flagstone com a intenção de começar uma nova vida.</info>							
-<genre>WESTERN</genre>							
-</item>							
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-						
-<item>							
-<title>[COLOR white][B]Exército de 5 Homens (1969)[/B][/COLOR]</title>							
-<link>plugin://plugin.video.tubemusic/?video_id=KT8h85WCtbU$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Exercito de 5 Homens[/B][/COLOR]</link>							
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Exercito.de.5.Homens.1969.HD.DUB.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Exercito de 5 Homens - HD DUB+LEG[/B][/COLOR]</link>							
-<thumbnail>https://www.themoviedb.org/t/p/original/5NSCCCQn06UfkKap9rIXL5g7GPG.jpg</thumbnail>							
-<fanart>https://www.themoviedb.org/t/p/original/2nFLZUjewQrD9trKjZhSsOIdUpr.jpg</fanart>							
-<info>Durante a revolução mexicana, um misterioso homem conhecido como "Dutchman", chama três velhos amigos para uma missão perigosíssima, talvez...até mesmo suicida!</info>							
-<genre>WESTERN</genre>							
-</item>							
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "F"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<item>		
-<title>[COLOR white][B]Fugindo do Inferno (1963)[/B][/COLOR]</title>		
-<link>plugin://plugin.video.tubemusic/?video_id=r9Q_WESQUVw$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Fugindo do Inferno[/B][/COLOR]</link>		
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32cddfcc984516fce9660ed26fa4c8b3340bfa44$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Fugindo do Inferno - DUB [/B][/COLOR]</link>		
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Fugindo do Inferno - LEG [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/OC-RS/LS-Fugindo.Do.Inferno.1963.FHD.DUAL.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Fugindo do Inferno - FHD DUAL[/B][/COLOR]</link>		
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iTh8thzuxiM5FwCaxsSTpaix27L.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/1pz4ZArUTM1jrpR6XkYuDlEQncG.jpg</fanart>		
-<info>Em 1943 os nazistas decidem transferir os prisioneiros de guerra militares, que têm maior incidência em tentativas de fugas, para o mesmo campo, que foi projetado para impedir qualquer tipo de evasão. Mas isto foi um erro, pois apesar dos prisioneiros gozarem de certos privilégios, cada um era o melhor na sua "especialidade" e não pretendiam ficar presos até o final da guerra. Logo idealizam um audacioso plano de fuga, que previa a construção de três túneis, mas a idéia não era retirar do campo alguns prisioneiros mas sim duzentos e cinqüenta.</info>		
-<genre>GUERRA</genre>  		
-</item>		
+</channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "G"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<item>				
-<title>[COLOR white][B]Geronimo: Sangue de Apache (1962)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.tubemusic/?video_id=DDZlDp4y37I$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Geronimo - Sangue de Apache[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Geronimo-Sangue%20de%20Apache.%201962.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Geronimo - Sangue de Apache - FHD DUAL[/B][/COLOR]</link>				
-<thumbnail>https://www.themoviedb.org/t/p/original/mO8jTUR212MuRs2aMajCe95gZ3W.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/uCA5AOtGe1JYV3woAk3bX8B0cWB.jpg</fanart>				
-<info>Em 1883, os ApacheS liderados por Geronimo se rendem as tropas americanas, em troca de um território e alimento para seus guerreiros.</info>				
-<genre>WESTERN</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Guerra e Paz (1966) - FHD LEG[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-FM/LS-Guerra.e.Paz.1965.FHD.MULTI-LEG.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/2cuxbaWZ8Sq5B2Iv6tL01nKhPqg.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/fkYBugbHlyysZzWBjj2DVvjmRqe.jpg</fanart>
-<info>[COLOR white]Assista aqui o filme: 
-[B]Guerra e Paz
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD LEG
-[COLOR orange]ANO - 1966
-[COLOR orange]ÉPICOS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Cada vez mais próximas da russIa, as tropas de Napoleão Bonaparte prometem fazer valer os intentos expansionistas de seu líder, trazendo guerra para o solo russo.
-[/COLOR]</info>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "H"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Homens que São Feras (1968) - HD LEG[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/CM-ES/LS-Homens.que.Sao.Feras.1968.HD.LEG</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/uPonwsdNV1fPrfVLclU5CTl6jaG.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/oAfNTe4DhEfuu3vIZPZDHrxrXcO.jpg</fanart>
-<info>[COLOR white]Assista aqui o filme: 
-[B]Homens que São Feras
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]HD LEG
-[COLOR orange]ANO - 1968
-[COLOR orange]GUERRA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um pequeno bando de corajosos comandantes são enviados para sequestrar um importante comandante alemão em troca de um general americano que está sendo mantido em uma fortaleza alemã.
-[/COLOR]</info>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR white][B]Hotel Paradiso (1966)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=pHr54b8XsVM$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Hotel Paradiso[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/4CMD-FM/LS-Hotel.Paradiso.1966.SD.DUB+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Hotel Paradiso - SD DUB+LEG[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/fdq2lqPhQV5FJlSR4QsUhOWpyQm.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/ndh316IVlI21nFFFz8JyIYwJiyA.jpg</fanart>
-<info>Monsieur Feydeau precisa escrever uma nova peça e está com bloqueio criativo.</info>
-<genre>COMÉDIA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "I"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<item>
-<title>[COLOR white][B]Inferno no Deserto (1969)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=TQyQBichxXA$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Inferno no Deserto[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/CM-ES/%20LS-Inferno.no.Deserto.1969.HD.DUAL+LEG.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Inferno no Deserto - HD LEGFIX[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/CM-ES/%20LS-Inferno.no.Deserto.1969.FHD.DUAL+LEGFIX.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Inferno no Deserto - FHD LEGFIX[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/poqp0HLfNcshNvLRYYoqH1UD3Zg.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/bh5nH5yCbnX81fwIfhvxRoPWcDb.jpg</fanart>
-<info>Durante a guerra do deserto no norte da África, um grupo de comandos britânicos disfarçados de soldados italianos devem viajar atrás das linhas e destruir um depósito de petróleo Nazista.</info>
-<genre>GUERRA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "J"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<item>
-<title>[COLOR white][B]Jamais Foram Vencidos (1969)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=jQ0acvFQdPg$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Jamais Foram Vencidos[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Jamais.Foram.Vencidos.1969.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Jamais Foram Vencidos - FHD DUAL+LEG[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/izLoWztICLx9zmwQCbTjf6JnMgu.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/rPSewTPPQXdmp8y5Mreq5aOnzOL.jpg</fanart>
-<info>O ex Coronel Confederado James Langdon lidera um grupo de refugiados sulistas à procura de uma nova vida no México.</info>
-<genre>WESTERN</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Jasão e o Velo de Ouro (1963) - HD DUB[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-FM/LS-Jasao.e.o.Velo.de.Ouro.1963.FHD.DUAL+LEG.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/fbCrWcThUpxpw8CdCIpaXJ3mtHn.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/qX3gnd1YbwR3cmWbtgiJCFHTjO4.jpg</fanart>
-<info>[COLOR white]Assista aqui o filme: 
-[B]Jasão e o Velo de Ouro
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB
-[COLOR orange]ANO - 1963
-[COLOR orange]ÉPICOS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Para reconquistar seu trono. Jasão lidera uma equipe, que inclui o heroico Hércules, para ir atrás do artefato, enfrentando perigos enormes como um gigante feito de bronze.
-[/COLOR]</info>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR white][B]Juramento de Vingança (1965)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=mUJOhnKz424$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Juramento de Vinganza[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Major.Dundee.1965.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Juramento de Vinganza - HD DUAL+LEG[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ArLso3LdVcfNfEVZbqdbvouadNV.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/sFzD310ZjoS0AM2IbJIUqWhhRLv.jpg</fanart>
-<info>O oficial de cavalaria Amos Dundee lidera uma contingente de soldados do exército, prisioneiros confederados e batedores numa expedição ao México para destruir um bando de Apaches</info>
-<genre>WESTERN</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "K"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Khartoum (1966) - FHD DUAL+LEG[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-FM/LS-Khartoum.1966.FHD.DUAL+LEG.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/lcqulOKVAPkyEbvvYtPYgVQazWD.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/hzcMI9uh57SJPmykpnUf5YUJshs.jpg</fanart>
-<info>[COLOR white]Assista aqui o filme: 
-[B]Khartoum
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 1966
-[COLOR orange]ÉPICOS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Dizem que o Nilo ainda corre vermelho da Batalha de Khartoum!
-[/COLOR]</info>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "L"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Lawrence da Arábia (1962) - FHD DUAL+LEG[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-FM/LS-Lawrence.da.Arabia.1962.FHD.DUAL+LEG.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/aTWL47PtzOjQw6FAdOezZALiGWw.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/bCemdbdmGHjhJbvE5Z06rIeO1mx.jpg</fanart>	
-<info>[COLOR white]Assista aqui o filme: 
-[B]Lawrence da Arábia
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 1962
-[COLOR orange]ÉPICOS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O oficial britânico T.E. Lawrence é enviado à Arábia para encontrar o príncipe Faisal e servir de ligação entre árabes e ingleses na luta contra os turcos.
-[/COLOR]</info>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "M"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<item>							
-<title>[COLOR white][B]Meu Ódio Será Sua Herança (1969)[/B][/COLOR]</title>							
-<link>plugin://plugin.video.tubemusic/?video_id=4Vea6c2svYs$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Meu Odio Sera Sua Heranza[/B][/COLOR]</link>							
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Meu.Odio.Sera.Tua.Heransa.1969.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Meu Odio Sera Sua Heranza - FHD DUAL+LEG[/B][/COLOR]</link>							
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gFvHnMHYzKQh1bk0O6QFSEcwHzg.jpg</thumbnail>							
-<fanart>https://www.themoviedb.org/t/p/original/uNbsH45P4oKo2ZL4X1SNxBSTcZW.jpg</fanart>							
-<info>É 1913, e o “tradicional” oeste americano está morrendo. Entre os habitantes dessa época agonizante estão uma gangue conhecida como “o bando selvagem”. Depois de um assalto a um escritório ferroviário fracassado, a gangue segue para o México para fazer um último trabalho. Vendo seus tempos e vidas se afastando no século 20, a gangue aceita o emprego e acaba em uma última e brutalmente violenta resistência contra seus inimigos considerados corruptos, em uma pequena cidade mexicana governada por um general implacável.</info>							
-<genre>WESTERN</genre>  							
-</item>							
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>				
-<title>[B][COLOR white]Mortos Que Caminham - 1962 [/COLOR][/B]</title>				
-<link>plugin://plugin.video.tubemusic/?video_id=Vr3i7du511A$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Mortos Que Caminham[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-Mortos.que.Caminham.1962.FHD.LEGFIX.mp4$nome=[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Mortos Que Caminham  - FHD LEGFIX[/B][/COLOR]</link>				
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gj3SuPPTGcz4XnHL6jHr3G8K1h9.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/mUMQx4QbjzIyQ1gh4fHHg44pvGX.jpg</fanart>				
-<info>O brigadeiro-general Frank D. Merrill lidera os 3.000 voluntários americanos de sua 5307ª Unidade Composta (Provisória), também conhecida como "Malandros do Merrill", atrás das linhas japonesas através da Birmânia até Myitkyina, ultrapassando seus limites e travando batalhas em todas as frentes mais disputadas. (e 10 - Estimado 10 Anos)</info>				
-<genre>GUERRA</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "N"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<item>
-<title>[COLOR white][B]Não Me Mandem Flores (1964)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=nK4RMrGOkV4$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Nao Me Mandem Flores[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/4CMD-FM/LS-Nao.Me.Mandem.Flores.1964.SD.DUB.mkv$nome=[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Nao Me Mandem Flores - SD DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/oYaiY0Gs7oyTDrE5zhWW3iQ7yUY.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/qHdwxLaed7I6HMaagF9Jhwajr6y.jpg</fanart>
-<info>o hipocondríaco George Kimballconfunde como sendo seu um diagnóstico de outro paciente que está para morrer.</info>
-<genre>COMÉDIA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "O"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Colosso de Rodes (1961) - FHD DUB[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-FM/LS-O.Colosso.de.Rodes.1961.FHD.dub.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/2c4Ph9fyX5IzSs4qKw82V42VrpL.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/606bzfxrapnnIJA8P354u8tzqF3.jpg</fanart>
-<info>[COLOR white]Assista aqui o filme: 
-[B]O Colosso de Rodes
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUB
-[COLOR orange]ANO - 1961
-[COLOR orange]ÉPICOS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Darios, um herói militar grego, está visitando seu tio em Rodes que acabou de construir um enorme Colosso em homenagem a Apolo, Por acidente, Darios se envolve com rebeldes que querem tirar o rei Xerxes do poder.
-[/COLOR]</info>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>							
-<title>[COLOR white][B]O Dólar Furado (1965)[/B][/COLOR]</title>							
-<link>plugin://plugin.video.tubemusic/?video_id=Pi_K9Bc4Nac$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Dolar Furado[/B][/COLOR]</link>							
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-O.Dolar.Furado.1965.HD.DUB.mp4$nome=[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Dolar Furado - HD DUB[/B][/COLOR]</link>							
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-O.Dolar.Furado.1965.FHD.DUB.mkv$nome=[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Dolar Furado - FHD DUB[/B][/COLOR]</link>							
-<thumbnail>https://www.themoviedb.org/t/p/original/n5h587rc6olIitHdRVgoqxkc3OM.jpg</thumbnail>							
-<fanart>https://www.themoviedb.org/t/p/original/nz1yA8Mt61dO5PTQVdiNaBQljfP.jpg</fanart>							
-<info>Giuliano Gemma é um soldado que retorna da guerra para lutar uma outra em casa... </info>							
-<genre>WESTERN</genre>							
-</item>							
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>		
-<title>[B][COLOR white]O Expresso de Von Ryan (1965)[/COLOR][/B]</title>		
-<link>plugin://plugin.video.tubemusic/?video_id=m73YtZCKeeI$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Expresso de Von Ryan[/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/OC-RS/LS-O.Expresso.Von.Ryan.1965.FHD.DUB+LEG.mkv$nome=[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Expresso de Von Ryan - FHD DUB+LEG[/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/OC-RS/LS-O.Expresso.Von.Ryan.1965.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Expresso de Von Ryan - FHD DUAL+LEG[/B][/COLOR]</link>		
-<thumbnail>https://www.themoviedb.org/t/p/original/qYYyOPomT1lhZ5mQQBt3JUE1buq.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/eCjwiOqkW3igulp8A0pTD21WvDs.jpg</fanart>		
-<info>Ryan assume do major Eric Fincham (Trevor Howard), um oficial britânico, a posição de comando entre os prisioneiros do campo de concentração e passa a planejar uma ousada fuga. O plano é tomar um trem e fazê-lo atravessar a Itália em direção à Suíça, enfrentando uma forte perseguição nazista.</info>		
-<genre>OCUPAÇÃO E RESISTENCIA</genre>  		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Inferno é Para os Heróis (1962) - FHD DUAL+LEG FIX[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-Inferno.e.para.os.Herois.1962.FHD.DUAL+LEG.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/aOm1W8RNXev4RDgU0CiJcSvUVzZ.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/k9bR8mst8NAaxovPEVKypXKTKLG.jpg</fanart>
-<info>[COLOR white]Assista aqui o filme: 
-[B]O Inferno é Para os Heróis
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG FIX
-[COLOR orange]ANO - 1962
-[COLOR orange]GUERRA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um grupo de soldados cansados recebe a ordem de voltar para a linha de frente quando estavam a caminho da área de descanso.Enquanto a maioria dos homens se retiram de suas posições diante de uma casamata alemã, no lado mais distante de um campo de minas.
-[/COLOR]</info>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR white][B]O Homem do Prego (1965)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=4BA3K8kTzNs$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Homem do Prego[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/OC-RS/LS-Homem.do.prego.1964.HD.DUB.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Homem do Prego - HD DUB/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/g5VvIkNE9EqjteEwvYXNfMSr1dx.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/yeB31t1ej9h4jPGU5Ey7RXuHdao.jpg</fanart>
-<info>Único da família a escapar de um campo de concentração nazista, o judeu Sol Nazerman agora tenta reconstruir a vida nos EUA como comerciante.</info>
-<genre>DRAMA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>				
-<title>[B][COLOR white]O Mais Longo dos Dias (1962)[/COLOR][/B]</title>				
-<link>plugin://plugin.video.tubemusic/?video_id=AbOv1cpY7T4$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Mais Longo dos Dias[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-O.Mais.Longo.dos.Dias.1962.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Mais Longo dos Dias - FHD DUAL+LEG[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-O.Mais.Longo.dos.Dias.1962.FHD.LEGFIX.mp4$nome=[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Mais Longo dos Dias - FHD LEG FIX[/B][/COLOR]</link>				
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7R1taqXDOLhwetCvoGFp4ihICzs.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/8DynrJ8S0Ugmgsu7BDLsrsRlBMO.jpg</fanart>				
-<info>O maior ataque que o mundo já viu, acontecido no dia 6 de junho, ficou conhecido como o Dia D e desbancou o domínio nazista na Europa. A ofensiva, que envolveu mais de 3 milhões de homens, foi uma das mais ousadas e sangrentas estratégias militares da era moderna e marcou o início do fim da Segunda Guerra Mundial. Vencedor dos Oscar de Fotografia em Preto e Branco e Efeitos Especiais, foi indicado ainda à outras três categorias: Filme, Montagem e Direção de Arte em Preto e Branco.</info>				
-<genre>GUERRA</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>							
-<title>[B][COLOR white]O Ouro de Mackenna (1969)[/COLOR][/B]</title>							
-<link>plugin://plugin.video.tubemusic/?video_id=Q3XVYjhKU-U$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Ouro de Mackenna[/B][/COLOR]</link>							
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96a5a5b85fc19c720b9b6e229dada861b1b8b7f6$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Ouro de Mackenna - HD LEG[/B][/COLOR]</link>							
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7e5e0d3b37cc30b79fc3abaa2a4fe435efb9d482$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Ouro de Mackenna - FHD DUB[/B][/COLOR]</link>							
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-O.Ouro.de%20Mackenna.1969.FHD.DUAL.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Ouro de Mackenna - FHD DUAL[/B][/COLOR]</link>							
-<thumbnail>https://www.themoviedb.org/t/p/original/uChjCbOKpoREb3yZrG1p8L3GyC7.jpg</thumbnail>							
-<fanart>https://www.themoviedb.org/t/p/original/hrjCBBytcF9Fu0Bz4feGgPHiuAb.jpg</fanart>							
-<info>O bandido Colorado, sequestra McKenna, pois acredita que ele é a única pessoa viva que conhece o tortuoso caminho para o vale do ouro</info>							
-<genre>WESTERN</genre>							
-</item>							
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR white][B]O Trem (1964)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=x1r4-w_QJFM$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Trem[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-The.Train.1964.HD.LEG.mkv$nome=[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Trem - FHD DUAL[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7E3mcbgPVIpc92OnM7piozOX7B5.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/65Ixfe35wlVxgZdEIJUV2Zo7qfu.jpg</fanart>
-<info>Em 1944, um coronel alemão carrega um trem com tesouros de arte francesa para enviar para a Alemanha. A resistência deve pará-lo sem danificar a carga.</info>
-<genre>GUERRA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Vingador Silencioso (1968) - FHD DUB+LEG[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-O.Vingador.Silencioso.1968.FHD.DUB+LEG.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7RE9ICxxIqsYjMJKvUfNG5GIFPj.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/gojNFUyVh35yoJp4yXd387FL5J0.jpg</fanart>
-<info>[COLOR white]Assista aqui o filme: 
-[B]O Vingador Silencioso
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUB+LEG
-[COLOR orange]ANO - 1968
-[COLOR orange]WESTERN
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Depois que o marido de Pauline se torna vítima de Loco um caça-recompensas, ela contrata um matador de aluguel, Silence, para se vingar do facínora.
-[/COLOR]</info>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Ouro para os Imperadores (1963) - FHD DUAL+LEG[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-FM/LS-Ouro.para.os.Imperadores.1963.FHD.DUAL+LEG.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/j5NaHyPsIJDnGJFK29CGLU1nABp.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/4zND2AidurOBHmWUnEkS1TPNzJF.jpg</fanart>
-<info>[COLOR white]Assista aqui o filme: 
-[B]Ouro para os Imperadores
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 1963
-[COLOR orange]ÉPICOS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um arquiteto escravo da Gália é ordenado por um governador romano a liderar uma expedição, constantemente sob o risco de ataque dos guerreiros celtas, ao Vale do Sil para encontrar o ouro necessário para Roma.
-[/COLOR]</info>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os 300 de Esparta (1962) - FHD DUB[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-CL/300/LS-Os 300.de.Esparta.1962.FHD.dub.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/mqAK40EZNptH4SqccbrmlI5J768.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/rKNUFOUsjzh2SBNFX415p46iKp5.jpg</fanart>
-<info>[COLOR white]Assista aqui o filme: 
-[B]Os 300 de Esparta
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUB
-[COLOR orange]ANO - 1962
-[COLOR orange]ÉPICOS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Xerxes, o rei persa, colocou seu enorme império de escravos para esmagar um pequeno grupo de estados independentes gregos.
-[/COLOR]</info>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR white][B]Os Abutres Têm Fome (1970)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=PmXLlhwlAxk$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Os Abutres Tem Fome[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Os.Abutres.Tem.Fome.1970.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Os Abutres Tem Fome - FHD DUAL+LEG[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/rSe3luHwbHBexKzwB0wDM9tXJdg.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/gMGFCW5YCR0C958xxuKAoInUoiE.jpg</fanart>
-<info>México do século XIX, Clint Eastwood vive um mercenário americano que salva uma freira dos seus pretensos molestadores.</info>
-<genre>WESTERN</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Bravos Não se Rendem (1967) - HD LEG[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Os.Bravos.Nao.Se.Rendem.1967.HD.LEG.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ha6x7zXvJrgHiaXu5bQBcDaS7QS.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/ssfqvd7cAjiI488OI9CJbcRCkxr.jpg</fanart>
-<info>[COLOR white]Assista aqui o filme: 
-[B]Os Bravos Não se Rendem
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]HD LEG
-[COLOR orange]ANO - 1967
-[COLOR orange]WESTERN
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Este filme investiga a fundo os pensamentos do general Custer e revela as motivações que levaram ao caminho da glória e fracasso.
-[/COLOR]</info>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>						
-<title>[COLOR white][B]Os Canhões de Navarone (1961)[/B][/COLOR]</title>						
-<link>plugin://plugin.video.tubemusic/?video_id=1m_LIQRm3LI$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Os Canhoes de Navarone[/B][/COLOR]</link>						
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d573920615d077546821d704e3e1b0e6f8183470$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Os Canhoes de Navarone - DUB [/B][/COLOR]</link>						
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/CM-ES/LS-Os.Canhoes.de.Navarone.1961.FHD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Os Canhoes de Navarone - FHD DUB[/B][/COLOR]</link>						
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sWOcOmSdKXKsjgf3FLR2asyK68r.jpg</thumbnail>						
-<fanart>https://www.themoviedb.org/t/p/original/4hFaR2qCtpmFZKzk2rhOgekr0fM.jpg</fanart>						
-<info>Grécia, 1943. Dois mil soldados britânicos perderam-se em Kheros. Exaustos e indefesos, eles têm apenas uma semana para partir, pois em Berlim o supremo comando do eixo determinara fazer uma demonstração de força no Mar Egeu, para fazer a Turquia entrar na guerra do seu lado. A demonstração seria em Kheros, sem valor militar, mas próximo à costa da Turquia. O melhor armamento alemão seria usado e assim os britânicos seriam facilmente dominados, a não ser que pudessem fugir antes. Porém a única rota de fuga possível estava bloqueada, pois dois canhões enormes controlados por um radar estavam em Navarone, uma ilha vizinha. Assim, um grupo aliado tem a quase impossível missão de escalar uma parede de rocha em Navarone e invadir uma fortaleza nazista, onde estão os canhões, que se não forem destruídos vão afundar diversos navios aliados, pondo um fim na tentativa de resgatar os soldados britânicos.</info>						
-<genre>GUERRA</genre>  						
-</item>						
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Comancheros (1961) - FHD DUAL+LEG[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Os.Comancheros.1961.FHD.DUAL+LEG.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/55bX8AYfaEfvkaRYEJqVuG1cSLz.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/1maDoRCH1XhCyZN6HbifjRn8EiB.jpg</fanart>
-<info>[COLOR white]Assista aqui o filme: 
-[B]Os Comancheros
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 1961
-[COLOR orange]WESTERN
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O Capitão Cutter é um Texas Ranger determinado a encontrar e destruir um grupo de bandidos que vende armas para os índios e são chamados de Comancheros. Aprisiona um jogador de pôquer Paul Regret que acaba se transformando em seu aliado.
-[/COLOR]</info>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Doze Condenados (1967) - FHD DUAL+LEG[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/CM-ES/LS-Dirty.Dozen.1967.FHD.DUAL+LEG.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aLogpA6ZWJD1FTkyktSY2cLj6yR.jpg</thumbnail>						
-<fanart>https://www.themoviedb.org/t/p/original/eg4M9n90NdWMT4pu5H1V771O7sC.jpg</fanart>
-<info>[COLOR white]Assista aqui o filme: 
-[B]Os Doze Condenados
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 1967
-[COLOR orange]GUERRA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um major rebelde e condenados à morte , são enviados para uma perigosa missão em troca de perdão. Matar generais alemães que estarão em uma casa de repouso, na véspera do Dia D.
-[/COLOR]</info>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR white][B]Os Heróis de Telemark (1965)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=qWxW57Q20eQ$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Os Herois de Telemark[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/CM-ES/LS-The.Heroes.Of.Telemark.1965.FHD.LEG.mkv$nome=[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Herois de Telemark - FHD LEG[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/CM-ES/LS-The.Heroes.Of.Telemark.1965.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Herois de Telemark - FHD DUAL+LEG[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/8ImS5zscIdyVU18dgiwzhXPOKhY.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/wivkKkt2yOe3LDXABMl3VZW0NXu.jpg</fanart>
-<info>A resistência norueguesa tenta sabotar os esforços alemães para produzir um componente da bomba atômica durante a segunda guerra mundial.</info>
-<genre><GUERRA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>							
-<title>[B][COLOR white]Os Profissionais (1966)[/COLOR][/B]</title>							
-<link>plugin://plugin.video.tubemusic/?video_id=w9SSlNicCPc$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Os Profissionais[/B][/COLOR]</link>							
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c20747d833220a20f7774742eec9c40c606cb7f2$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Profissionais - HD LEG[/B][/COLOR]</link>							
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f37fcc450235c4b15a74911f338636542d33b71a$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Profissionais - FHD LEG[/B][/COLOR]</link>							
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Os.Profissionais.1966.FHD.DUB.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Os Profissionais - FHD DUB[/B][/COLOR]</link>							
-<thumbnail>https://www.themoviedb.org/t/p/original/xmdIp1L2PBqaSGZd7CJn5ZVqTZ8.jpg</thumbnail>							
-<fanart>https://www.themoviedb.org/t/p/original/h9qApa27FGXOaxK6gczeRE5O6Qi.jpg</fanart>							
-<info>Um rico rancheiro, contrata mercenários, para resgatar sua esposa Maria, que foi ao México e acabou sendo pega por Jesus Raza e seu bando. </info>							
-<genre>WESTERN</genre>							
-</item>							
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "P"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Piratas do Rio Sangrento (1962) - FHD DUAL+LEG[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/6AVT-FM/LS-Piratas.do.Rio.Sangrento.1962.FHD.DUAL+LEG.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/jrfah8hjzAxtPZHK2KIm3XVer7b.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/t56hWwJy2orkicUZfiPlt3eKuvz.jpg</fanart>
-<info>[COLOR white]Assista aqui o filme: 
-[B]Piratas do Rio Sangrento
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 1962
+<channels>
+<channel>
+<name>[COLOR white][B]As Panteras (1976) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C9-SRS-As.Panteras-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/hTy1z8KR5NhFBUAt65Br9TWyuod.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/brNDL0tNemrDcLwTPWYhAOvMuu6.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]As Panteras
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]05 TEMPS - 110  EPs
 [COLOR orange]AÇÃO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um homem, exilado por seu pai em uma colônia penal, retorna e tem que enfrentar os piratas que inadvertidamente conduziu a sua aldeia.
+[COLOR orange]ANOS - 1976 a 1980
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Lindas, inteligentes e ultrassofisticadas, as Charlie's Angels são tudo o que um homem poderia sonhar... e muito mais do que jamais poderiam lidar!
 [/COLOR]</info>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
+</channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "Q"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "R"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<item>
-<title>[COLOR white][B]Robin Hood – O Invencivel (1960)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Robin Hood O Invencivel[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/FLMS/LS-Robin.Hood.O.Invencivel.1960.FHD.DUB+LEG.mkv$nome=[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Robin Hood O Invencivel - FHD DUB+LEG[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/vPHu9hHdGiy5cHdz07K9LRQ81T4.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/rAKQ8oGh2ekRhdwFvXgoWkeFsbT.jpg</fanart>
-<info>Um Clássico das antigas apresentando o lendário Herói em sua luta por justiça.</info>
-<genre>AVENTURA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "S"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<item>				
-<title>[COLOR white][B]Se Meu Fusca Falasse (1968)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.tubemusic/?video_id=g56x2VLkiTs$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Se Meu Fusca Falasse[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:594801a5cd13374cb7a997bfefab881362ce1dfd$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Se Meu Fusca Falasse - HD DUAL[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0cbd3007e5851693726cd6b06643944dc94cbde3$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Se Meu Fusca Falasse - FHD LEG[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/4CMD-FM/LS-Herbie.Se.Meu.Fusca.Falasse.1968.SD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Se Meu Fusca Falasse - SD DUB[/B][/COLOR]</link>				
-<thumbnail>https://www.themoviedb.org/t/p/original/fAPiPlFQwBTYPIq30fxFKlTZ24d.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/w6PpUETms1qZc4WJUqR7PuHpbTT.jpg</fanart>				
-<info>Herbie, um Fusca com personalidade própria, é desprezado por um mau caráter que é dono de uma agência de automóveis de luxo e piloto de corridas, mas o Fusca é acolhido por um piloto boa praça e, em gratidão, o pequeno carro lhe dá diversas vitórias</info>				
-<genre>COMÉDIA</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>							
-<title>[COLOR white][B]Shalako (1968)[/B][/COLOR]</title>							
-<link>plugin://plugin.video.tubemusic/?video_id=YvsDQRfsvN0$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Shalako[/B][/COLOR]</link>													
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D700364065ED2EBD8AE460BA2BDEEC81172DE31F$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Shalako - FHD DUAL[/B][/COLOR]</link>							
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Shalako.1968.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Shalako - FHD DUAL+LEG[/B][/COLOR]</link>							
-<thumbnail>https://www.themoviedb.org/t/p/original/3uXbc6pXPOrgpW10ZxU6VOwvV2p.jpg</thumbnail>							
-<fanart>https://www.themoviedb.org/t/p/original/8TVvosxfCuTcms83HW4edlgszPs.jpg</fanart>							
-<info>Um grupo de aristocratas europeus estão em uma caçada no Novo México por volta do ano de 1880.Isso vai deixar os indios em pé de guerra</info>							
-<genre>WESTERN</genre>							
-</item>							
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>				
-<title>[B][COLOR white]Spartacus (1960)[/COLOR][/B]</title>				
-<link>plugin://plugin.video.tubemusic/?video_id=eMWsHUhmqVM$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Spartacus[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/FLMS/LS-Spartacus.1960.HD.DUB.mp4$nome=[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Spartacus - FHD DUB[/B][/COLOR]</link>				
-<thumbnail>https://www.themoviedb.org/t/p/original/prdCmV8GkDLpguwoxBQczFAwvci.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/kJaisj9uNIzjHum6XM9HD9yI8vu.jpg</fanart>				
-<info>Spartacus,nasceu escravo, e sonha com o fim da escravidão. Ele foi condenado à morte por morder um guarda.Mas seu destino é grandioso.</info>				
-<genre>ÉPICOS</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "T"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Taras Bulba (1962) - FHD LEG[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-FM/LS-Taras.Bulba.1962.FHD.LEG.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/8bnn12yMugSBIKlrhSuCOVJKrgH.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/laaodHo902FemL66r8Zvdq8jWmy.jpg</fanart>
-<info>[COLOR white]Assista aqui o filme: 
-[B]Taras Bulba
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD LEG
-[COLOR orange]ANO - 1962
-[COLOR orange]ÉPICOS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Ucrânia, século 16 ,um confronto entre o amor, a honra da família, e uma luta pela identidade nacional.
+<channels>
+<channel>
+<name>[COLOR white][B]Buck Rogers no Século 25 (1979) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C30-SRS-Buck.Rogers.no.Seculo.25-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/551l8ybr8TPIZozSteGVTs0si34.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9hjHVwtHFt03Y6kS9yFXoBI4WK0.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Buck Rogers no Século 25
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO - 1979 a 1981
+[COLOR orange]FICÇÃO E FANTASIA
+[COLOR orange]02 TEMPs - 37 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O astronauta do século 20, Buck Rogers, acorda no século 25 depois que um acidente estranho o coloca em animação suspensa por 500 anos. 
 [/COLOR]</info>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Thunderbirds - O Filme (1966) SD DUAL+LEG[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Thunderbirds/FLM/LS-Thunderbirds.em.Acao-O.Filme.1968.SD.DUAL+LEG .mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2k4fRtEW381NSDcTkP6nwEm9fWv.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/2ULcmRBUxzunUlQ1gFDrjnoCEPy.jpg</fanart>
-<info>[COLOR white]Assista aqui o filme: 
-[B]Thunderbirds
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB
-[COLOR orange]ANO - 1966
-[COLOR orange]ACTION-MOTION
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]As missões da equipe Resgate Internacional, uma organização cuja tecnologia avançada os ajuda nos resgates.
-[/COLOR]</info>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Thunderbird 6 - O Filme (1968) SD DUAL+LEG[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/7-ANM/SuperMarioNation/Thunderbirds/FLM/LS-Thunderbird.6.1968.SD.DUAL+LEG .mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1zxO00ycylxZ8lFET5uXNOtBCcE.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/zuIqNx6rq9mJyMUnNgkO9ygXtW3.jpg</fanart>
-<info>[COLOR white]Assista aqui o filme: 
-[B]Thunderbird 6
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB
-[COLOR orange]ANO - 1968
-[COLOR orange]ACTION-MOTION
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A equipe Tracy soma esforços para que Lady Penélope possa derrotar uma gangue internacional de terroristas que decidiram destruir o Resgate Internacional.
-[/COLOR]</info>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR white][B]Três Homens em Conflito (1966)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=dF8119NYeSQ$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Tres Homens em Conflito[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-CL/Leone.Sergio/LS-Tres.Homens.em.Conflito.1966.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Tres Homens em Conflito V.E. - FHD DUAL+LEG[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9JrwknFUbCZkr7av5dV4l1nLLIT.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/xnFmcq40R0umHHLXTpvOW5GTdMh.jpg</fanart>
-<info> Três homens juntam suas forças para tentar encontrar uma fortuna em ouro roubado.</info>
-<genre>WESTERN</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Tobruk (1967) - FHD DUAL+LEG[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/CM-ES/LS-Tobruk.1967.FHD.DUAL+LEG.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/81qAMb1KJVimQB1EWakxGbhfpLR.jpg</thumbnail>						
-<fanart>https://www.themoviedb.org/t/p/original/c1LRF2oDfwJ92XWAMS8Yaa0huw5.jpg</fanart>
-<info>[COLOR white]Assista aqui o filme: 
-[B]Tobruk
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 1967
-[COLOR orange]GUERRA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um oficial, deverá guiar esses comandos por 800 milhas do Saara para ajudar um planejado desembarque anfíbio de tropas que atacarão a enorme base de armazenamento de combustível alemão em Tobruk. Uma missão que enfrenta um obstáculo após o outro, e que descobre uma despercebida força blindada alemã pronta para ganhar a batalha do Egito
-[/COLOR]</info>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "U"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<item>				
-<title>[COLOR white][B]Uma Batalha no Inferno (1965)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.tubemusic/?video_id=XOEfLZ3GbX4$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Uma Batalha no Inferno[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2cf9ab3159924672ea234fa360b7f34459aa1d78$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Uma Batalha no Inferno - HD LEG[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4aa657f584a6ccf5ea636e4df3249107df714f8e$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Uma Batalha no Inferno - FHD LEG[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-Uma.Batalha.no.Inferno.1965.FHD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Uma Batalha no Inferno - FHD DUB[/B][/COLOR]</link>				
-<thumbnail>https://www.themoviedb.org/t/p/original/lgRxKCcZ5kFDcwIsCQOSWlhoABK.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/xw2nf5OoakDjBJRxmluU1ektWfy.jpg</fanart>				
-<info>O comando das Forças Aliadas já comemora o triunfo sobre as combalidas forças nazistas por toda a Europa. Quando remanescentes do quase derrotado exército nazista planejam um ataque surpresa às forças aliadas,</info>				
-<genre>GUERRA</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "V"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<item>
-<title>[COLOR white][B]Viagem Fantástica (1966)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/10FCFN-FM/LS-Viagem.Fantastica.1966.DUD.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/72PZgOOB5YBo02aclMyYlJr1fbs.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/lK2L7IhvPAooQt21x0JtA4phqET.jpg</fanart>
-<info>A viagem mais fantástica das telas</info>
-<genre>FICÇÃO E FANTASIA</genre>
-</item>
+</channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Vidas Secas (1963) - FHD DUB+LEG[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/1:/FLMS/9CRDR-FM/LS-Vidas.Secas.1963.FHD.DUB.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/l3McH3ArZ4QahrVAftSw8XVw9KU.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/ueG5XtHSttjNZdZ2scKWKeNXYFl.jpg</fanart>
-<info>[COLOR white]Assista aqui o filme: 
-[B]Vidas Secas
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUB+LEG
-[COLOR orange]ANO - 1963
+<channels>
+<channel>
+<name>[COLOR white][B]Casal 20 (1979) - INCOMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/C8-SRS-Casal.20-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/rK7eHDVQVYwwuxf91rmSNn6ykQn.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tX3SxtATzAvCGmta1mbzEZPYY3B.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Casal 20
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANO - 1979 a 1983
+[COLOR orange]AVENTURA
+[COLOR orange]05 TEMPS - 110 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Jonathan e Jennifer Hart formam um casal bem viajado com um talento e tanto para se deparar com mistérios em qualquer parte.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]CHiPs (1977) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C7-SRS-CHiPs-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/obrPwSPS0q9zK5e7xwlVGlAmWSg.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/A7Zx5z367TM0lQRgTQ63q0JGs02.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]CHiPs
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS - 1977 a 1983
+[COLOR orange]AÇÃO
+[COLOR orange]06  TEMPS - 139  EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]CHiPs é uma série dramática de televisão americana e acompanharam a vida de dois policiais de motocicleta da Patrulha Rodoviária da Califórnia.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Columbo (1971) - ATUALIZANDO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C10-SRS-Columbo-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/6EIe2NLAVvwpMzXhg2KdUfwlb7T.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/skWuseledUfSdS42GQaR5MPZpxS.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Columbo
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]10 TEMPS - 69  EPs
+[COLOR orange]CRIME E DRAMA
+[COLOR orange]ANOS - 1971 a 1990
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Columbo é uma premiada série policial dos anos 1970 estrelada pelo ator Peter Falk. A série revolucionou as histórias de detetives.
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Dallas (1978) - ATUALIZANDO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C28-SRS-Dallas-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/w8Frf2mO0DUVHmSRJWJWldntKCt.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/A0QkLmcoXn84mPbGjloa0RL9vKJ.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Dallas
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS - 1978 a 1990
 [COLOR orange]DRAMA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Fabiano, Sinhá Vitória, seus dois filhos e a cachorra Baleia vagam sem destino e já quase sem esperanças pelos confins do interior, sobrevivendo às forças da natureza e à crueldade dos homens.
+[COLOR orange]14 TEMPS - 358 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Dinheiro, vingança, sexo, paixão, sede de poder e intrigas familiares. Assim era Dallas, série que conquistou telespectadores por todo o mundo com seus melodramas e suspenses 
 [/COLOR]</info>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR white][B]Volta Meu Amor (1961)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=aMeBdaICj1I$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Volta Meu Amor[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/4CMD-FM/LS-Volta.Meu.Amor.1961.FHD.LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Volta Meu Amor - FHD LEG[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/uY5MvhzoH25LMTgEjRR2XtGLdMi.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/yU2SodKTpX1fcbOIhNBlgH8zUBg.jpg</fanart>
-<info>Uma série de mal-entendidos deixa um executivo de publicidade com uma campanha para o VIP.</info>
-<genre>COMÉDIA</genre>
-</item>
+</channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "X"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "Y"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "W"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "Z"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Zulu (1964) - FHD DUAL+LEG[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-FM/LS-Zulu.1964.FHD.dub.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9V7tl1kIb67ZPRRNlUdy3JvqEiA.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/41ZWAGMttCr74dq7sAeh44QSJTQ.jpg</fanart>
-<info>[COLOR white]Assista aqui o filme: 
-[B]Zulu
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 1964
-[COLOR orange]ÉPICOS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Em Natal, África do Sul, em 1879, um pequeno regimento britânico de apenas 105 soldados se recusa a abandonar sua posição e resiste bravamente ao ataque de 4000 guerreiros zulus. Baseado em fatos verídicos.
+<channels>
+<channel>
+<name>[COLOR white][B]Kojak (1973)[/B] - INCOMPLETA[/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C9-SRS-Kojak-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/gt0h2VxuDRucP1Y7o9nptdixMCZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lt6sueOPDt721p9nqtpXKa3VZGu.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Kojak
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]INCOMPLETA ATUALIZANDO
+[COLOR orange]ANOS - 1973 a 1978
+[COLOR orange]CRIME E DRAMA
+[COLOR orange]06 TEMPS - 125 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um detetive de polícia careca, chupando pirulito e com uma atitude impetuosa e justa luta contra o crime na cidade de Nova York
 [/COLOR]</info>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<item>
-<title>[COLOR black].[/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<item>
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE PROCURAVA ?[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<item>
-<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
-<link>ignoreme</link>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<item>
-<title>[COLOR orange][B]SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<channels>
+<channel>
+<name>[COLOR white][B]Kung Fu (1972) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/C5A-SRS-Kung.Fu-FHD-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/cOCOp9NjUUO4rdgYRAboMzIFl1B.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e3JxqeCqI59a0Dy8T8AJeqkhKGg.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Kung Fu
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO - 1972 a 1974
+[COLOR orange]AVENTURA
+[COLOR orange]03 TEMPs - 62 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A história de Kwai Chang Caine, um homem que passou anos vivendo em um templo Shaolin, mas que acaba fugindo para os Estados Unidos quando é acusado de assassinato
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Mulher Maravilha (1975) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/C7-SRS-Mulher.Maravilha.OLD-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/9X9NAZLFF2DjPUzckIuv9ExQ2KF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bgR5Sx9bknJZ3sldxroj1SNceI8.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Mulher Maravilha
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS - 1975 a 1978
+[COLOR orange]SUPER-HERÓIS
+[COLOR orange]03 TEMPS - 60 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]As aventuras da maior das super-heroínas.Diana Palmer é a Mulher Maravilha
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Muppet Show (1976) - INCOMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C43-SRS-Muppet.Show-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/b4fZBW47VSbPhBAznof9VRfZw6a.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ozCe0QARzN6lQzPshDrHC11WEDu.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Muppet Show
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANO - ANOS - 1976 a 1980
+[COLOR orange]COMÉDIA
+[COLOR orange]05 TEMPS - 120 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O Show dos Muppets foi um programa de televisão infanto-juvenil, estrelado pelos muppets, produzido por Jim Henson e sua equipe entre 1976 a 1981.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]O Elo Perdido (1974) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C15-SRS-O.Elo.Perdido.ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/eMMYJ3ozsr2zXwnZbSkKRxJOyyr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gGquYAYgedqAY96P3BuwZEgqGD5.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]O Elo Perdido
+[COLOR orange]Status[COLOR yellow]->[COLOR white]COMPLETA
+[COLOR orange][B]FICÇÃO E FANTASIA
+[COLOR orange][B]03 TEMPS - 43 EPs
+[COLOR orange][B]ANOS - 1974 a 1976
+[COLOR orange]SINOPSE[COLOR yellow]->[COLOR white][/B]Marshall e seus dois filhos, Will e Holly, fazem uma expedição de canoa, quando eles são pegos por um redemoinho e são levados para o elo perdido
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]O Homem de Seis Milhões de Dólares (1973)- ATUALIZANDO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C8-SRS-Steve.Austin-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/2ibfj81IVomgRXh4Lo1UuOBhe9n.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iJjKtF8cemXaBqGStQrC0YbAkFY.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]O Homem de Seis Milhões de Dólares
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS - 1973 a 1978
+[COLOR orange]FICÇÃO E FANTASIA
+[COLOR orange]05 TEMPS - 99  EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Steve Austin fica gravemente ferido num acidente, e levado para o hospital onde passa a submeter-se a uma operação de "reconstrução" que custa em torno de seis milhões de dólares.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]O Homem do Fundo do Mar (1977) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C3-SRS-Man.of.Atlantis-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/f5WOAtEMUdQMVQJKVfMge6GBaBQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/736cN8krZdzNtm1gsGtgEEZBSk2.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]O Homem do Fundo do Mar
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO - 1977
+[COLOR orange]FICÇÃO E FANTASIA
+[COLOR orange]02 TEMPS - 17 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um misterioso homem é encontrado nas praias com amnésia. Chamado de Mark Harris, cientistas descobrem ser ele uma espécie de anfíbio e acreditam que seja o último sobrevivente da cidade perdida de Atlântida.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]O Incrível Hulk (1977) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/C4-SRS-O.Incrivel.Hulk-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/iByskDYAql50lmEel8NdmAGFSty.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ldtJ6vUo8heez1HVD91Flpg7F5W.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]O Incrível Hulk
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS - 1977 a 1981
+[COLOR orange]SUPER-HERÓIS
+[COLOR orange]05 TEMPS - 96 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O Dr. David Banner é um brilhante cientista. Certo dia, um experimento em que ele está trabalhando sai terrivelmente errado, e o deixa com sérias consequências.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Os Gatões (1979) - ATUALIZANDO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/C11-SRS-Os.Gatoes-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/d1ipbzrZafBif65iq5ImSLtaFRW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yRXB3MBpqAh1HX3g0NhzRi6oFVn.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Os Gatões
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS - 1979 a 1984
+[COLOR orange]AVENTURA
+[COLOR orange]07 TEMPS - 147 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]No interior do estado da Geórgia, Tio Jesse, comanda um rancho onde ele produzia e comercializava uísque clandestino. Ele contava com a ajuda dos sobrinhos Bo Duke e Luke Duke e da bela sobrinha Daisy.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Os Pioneiros (1974) - ATUALIZANDO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C12-SRS-Os.Pioneiros-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/iPbWZcxiuMyzcoKjE7tzImyPpt.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nqr0zVSm76LkwvlVJHBXpygDx0f.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Os Pioneiros
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS - 1974 a 1982
+[COLOR orange]WESTERN
+[COLOR orange]10 TEMPS - 210 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A história se passa no século XIX e é protagonizado pelos Ingalls, uma família pura e unida que vivia numa pequena casa na pradaria, num pequeno povoado chamado Walnut Grove.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Os Waltons (1972) - ATUALIZANDO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESP-ALL/main/6-SEL-WALTONS-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/yFuTgqxBFfRcf4YX2QZ2L6vp0H9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ePMIf2Ba8oeyz9z9GpoyWFfbNaZ.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Os Waltons
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANO - 1972 a 1980
+[COLOR orange]DRAMA
+[COLOR orange]09 TEMPs - 221 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A vida de uma família nas montanhas da Virgínia dos anos 1930 e 1940 durante a depressão e a Segunda Guerra.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Planeta dos Macacos - A série (1974) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/A6B1-SRS-Plan.Macacos.LA-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/75n0DSkFFgeIZvtNkHqBjHzXCvd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/JrBiUtR2CwxZR5GMK5Z9dU7Wr4.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Planeta dos Macacos
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO - 1974
+[COLOR orange]FICÇÃO E FANTASIA
+[COLOR orange]01 TEMPs - 14 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A Terra é dominado pelos símios. No topo da estrutura estão os orangotangos: Legisladores, políticos e sábios, gorilas: soldados fortes e ferozes.E os escravos humanos.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Sítio do Picapau Amarelo (1977) - ATUALIZANDO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C25-SRS-Pica-Pau.Amarelo-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/xcOW5MVgZE897wgGMmYGD75dCFK.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8XMC1r9FzlGXaZqe5NESH2ehDtJ.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Sítio do Picapau Amarelo
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS - 1977 a 1986
+[COLOR orange]FICÇÃO E FANTASIA
+[COLOR orange]10 TEMPS - 1.550 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]No sítio do Picapau Amarelo a fantasia se mistura com a realidade, fazendo parte do cotidiano da menina Narizinho e de seu primo Pedrinho. Os adultos e as crianças compartilham aventuras em um mundo fantástico.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Starsky e Hutch - Justiça em Dobro (1975) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C16-SRS-Starsky.Hutch-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/3SqcpDwdhFc1vyEa5nIysybCKpM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cZJhpP6jcUoRj27MUvfpwFNScly.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Starsky e Hutch - Justiça em Dobro
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO - 1975 a 1978
+[COLOR orange]AÇÃO
+[COLOR orange]04 TEMPs - 92 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Eles não são nenhuma dupla de super-heróis que combatem o crime nas ruas de Los Angeles. Para os detetives Dave Starsky e Ken Hutch, trabalhar em dupla significa diminuir os riscos durante o trabalho.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]S.W.A.T. (1975) - INCOMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C18-SRS-SWAT-OLD-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/u3DbvKamBWkchckwioak3PvN8j1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/subk3omLR8KaGaRYGMfJcvb8WDN.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]S.W.A.T.
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANO - 1975
+[COLOR orange]AÇÃO
+[COLOR orange]02 TEMPs - 38 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Quando você está com problemas, você chama a polícia. Quando a polícia está em apuros, eles chamam a S.W.A.T.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channels>
+<channel>
+<name>[COLOR black].[/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/main/5B3-SRS-70-NOST-ALL</externallink>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/main/5B3-SRS-70-NOST-ALL</externallink>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]VOLTAR AO MENU NOSTALGIA - SÉRIES[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/5B-SRS-NSTLG-ALL</externallink>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]VOLTAR AO MENU NOSTALGIA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/5-SEL-NSTLG-ALL</externallink>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]VOLTAR AO MENU DE NOVIDADES DA SEMANA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7-SEL-NEWS-ALL</externallink>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]VOLTAR AO MENU DE ESPECIAIS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/4-SEL-ESPC-ALL</externallink>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]VOLTAR AO MENU DE GÊNEROS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2A-SEL-GEN-FLM-LS-ALL</externallink>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]VOLTAR AO MENU DE SÉRIES[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3-SEL-SRS-ALL</externallink>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]VOLTAR AO MENU DE FILMES[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2-SEL-FLMS-ALL</externallink>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]VOLTAR AO MENU GERAL[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
