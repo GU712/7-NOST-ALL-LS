@@ -16,16 +16,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "A"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
-<item>				
-<title>[COLOR white][B]A Cruz de Ferro (1977)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.tubemusic/?video_id=AonZdAfEQgA$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]A Cruz de Ferro[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-A.Cruz.de.Ferro.1977.FHD.DUAL.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Cruz de Ferro - FHD DUAL[/B][/COLOR]</link>				
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Cruz de Ferro (1977) - FHD DUAL[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-A.Cruz.de.Ferro.1977.FHD.DUAL.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/fR6pqh5aFn0fawsn7sR2zC15swx.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/edUMdGAWTwc6RA2uhvagZJkrhAw.jpg</fanart>				
-<info>Soldados alemães lutam para sobreviver na Segunda Guerra Mundial, contando com a liderança do condecorado Sgt. Steiner, mas um novo comandante busca apenas uma coisa: a Cruz de Ferro para honrar sua família.</info>				
-<genre>GUERRA</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<fanart>https://www.themoviedb.org/t/p/original/edUMdGAWTwc6RA2uhvagZJkrhAw.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]A Cruz de Ferro
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL
+[COLOR orange]ANO - 1977
+[COLOR orange]GUERRA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Soldados alemães lutam para sobreviver na Segunda Guerra Mundial, contando com a liderança do condecorado Sgt. Steiner, mas um novo comandante busca apenas uma coisa: a Cruz de Ferro para honrar sua família.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Águia Pousou (1976) - FHD DUAL+LEG[/B][/COLOR]</title>
@@ -102,8 +106,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/1GR/LS-Aguias.em.Duelo.1971.HD.LEG.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/b8tFCn9qnXzmexAIebdCfVFhHUW.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/7XLu9NWEN5VIGWtdzmhd6jFLijQ.jpg</fanart>
-<info>Manfred von Richtofen lidera um dos esquadrões da aviação alemã mais perigosos, durante a primeira guerra mundial. </info>
-<genre>GUERRA</genre>
+<info>[COLOR white]Assista aqui o filme: 
+[B]<NOMEDOFILME>
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]HD LEG
+[COLOR orange]ANO - 0000
+[COLOR orange]GUERRA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Manfred von Richtofen lidera um dos esquadrões da aviação alemã mais perigosos, durante a primeira guerra mundial.
+[/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -133,13 +142,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Ases do Espaço (1976) - HD DUB[/B][/COLOR]</title>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Ases do Espaço (1976) - HD LEG[/B][/COLOR]</title>
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/1GR/LS-Ases.do.Espaso.1976.HD.LEG-FIX.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/gYr1IgfWYTzJoEK8DbCtGX2o1qj.jpg</thumbnail>					
-<fanart>https://www.themoviedb.org/t/p/original/4yJhOfYa1jHFhSJ6frhju2pjCKu.jpg</fanart>					
-<info>Na Primeira Guerra Mundial, o alto índice de baixas entre os pilotos novatos do Royal Flying Corps coloca uma enorme pressão sobre os sobreviventes.</info>					
-<genre>GUERRA</genre>					
-</item>	
+<fanart>https://www.themoviedb.org/t/p/original/4yJhOfYa1jHFhSJ6frhju2pjCKu.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Ases do Espaço
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]HD LEG
+[COLOR orange]ANO - 1976
+[COLOR orange]GUERRA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Na Primeira Guerra Mundial, o alto índice de baixas entre os pilotos novatos do Royal Flying Corps coloca uma enorme pressão sobre os sobreviventes.
+[/COLOR]</info>
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
@@ -167,31 +181,36 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>						
-<title>[COLOR white][B]Assim Nascem os Heróis (1970)[/B][/COLOR]</title>						
-<link>plugin://plugin.video.tubemusic/?video_id=tl6LHhzmlHA$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Assim Nascem os Herois[/B][/COLOR]</link>						
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/CM-ES/LS-Assim.Nascem.os.Herois.1970.SD.DUB.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Assim Nascem os Herois - SD DUB[/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/CM-ES/LS-Assim.Nascem.os.Herois.1970.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Assim Nascem os Herois - FHD DUAL+LEG[/B][/COLOR]</link>	
-<link>https://z-28b3jxzl1og7.bitchute.com/OsqmkKQffiY2/kOnpP1yve4Xr.mp4$nome=[COLOR orange][B]SERVER ALT[COLOR yellow] -> [COLOR white]Assim Nascem os Herois - SD DUB[/B][/COLOR]</link>						
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Assim Nascem os Heróis (1970) - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/CM-ES/LS-Assim.Nascem.os.Herois.1970.FHD.DUAL+LEG.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tEFAiAdvhNp2HyoK1ZEIuoYello.jpg</thumbnail>						
-<fanart>https://www.themoviedb.org/t/p/original/arCqKhILuZNWXY6G4gmohKKYYGh.jpg</fanart>						
-<info>Durante a Segunda Guerra Mundial, em 1942, um oficial americano tem a difícil missão de destruir uma estação de rádio japonesa.</info>						
-<genre>GUERRA</genre>						
-</item>						
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<fanart>https://www.themoviedb.org/t/p/original/arCqKhILuZNWXY6G4gmohKKYYGh.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Assim Nascem os Heróis
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO - 1970
+[COLOR orange]GUERRA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Durante a Segunda Guerra Mundial, em 1942, um oficial americano tem a difícil missão de destruir uma estação de rádio japonesa.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>				
-<title>[COLOR white][B]Apocalypse Now (1979)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.tubemusic/?video_id=snDR7XsSkB4$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Apocalypse Now[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c50d403fcd632d7d018e9ed4894a2b6f0a5b6a29$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Apocalypse Now - DUB [/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/VIET/LS-Apocalypse.Now.1979.HD.dub.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Apocalypse Now - HD DUB[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/VIET/LS-Apocalypse.Now.1979.HD.LEGFIX.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Apocalypse Now - HD LEG FIX[/B][/COLOR]</link>				
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/k1lFbIu1HIGuFIWMkWMlRoKXM8q.jpg</fanart>				
-<info>Durante a guerra do Vietnã, o Capitão Willard recebe como missão ir ao Camboja para assassinar um Boina Verde renegado, o Coronel Kurtz. Este vive no meio de uma tribo local e é venerado como um deus. Mas, chegado ao seu destino, o Capitão Willard descobre que a sua missão é bem diferente do que imaginara.</info>				
-<genre>GUERRA</genre>  				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Apocalypse Now (1979)[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/VIET/LS-Apocalypse.Now.1979.HD.dub.mp4$nome=[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Apocalypse Now - HD DUB[/B][/COLOR]</link>				
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/VIET/LS-Apocalypse.Now.1979.HD.LEGFIX.mkv$nome=[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Apocalypse Now - HD LEG FIX[/B][/COLOR]</link>				
+<thumbnail><ICONE></thumbnail>
+<fanart><FUNDO></fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Apocalypse Now
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB LEG FIX
+[COLOR orange]ANO - 1979
+[COLOR orange]GUERRA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Capitão Willard recebe como missão ir ao Camboja para assassinar um Boina Verde renegado, o Coronel Kurtz. Este vive no meio de uma tribo local e é venerado como um deus. Mas, o Capitão Willard descobre que a sua missão é bem diferente do que imaginara.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "B"				
@@ -290,31 +309,38 @@ LETRA "F"
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 <item>
-<title>[COLOR white][B]Fantasma (1979)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=a1YV6YSQgSg$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Fantasma[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/11SPTR-FM/LS-Phantasm.1979.FHD.LEG.mkv$nome=[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Fantasma - FHD C/ LEG[/B][/COLOR]</link>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Fantasma (1979) - FHD LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/11SPTR-FM/LS-Phantasm.1979.FHD.LEG.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/nUky7CdiBQChKWB02AOFUHa5MbT.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/1wmFgrLRg9B3EhquWGXU4buYzeN.jpg</fanart>
-<info>É noite no cemitério... Lamentos suplicantes quebram o silêncio... O pesadelo começou!</info>
-<genre>SUSPENSE E TERROR</genre>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Fantasma
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD LEG
+[COLOR orange]ANO - 1979
+[COLOR orange]SUSPENSE E TERROR
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]É noite no cemitério.Lamentos suplicantes quebram o silêncio.O pesadelo começou.
+[/COLOR]</info>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "G"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 <item>
-<title>[COLOR white][B]Golpe Sujo (1978)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=h9b-yEQ71Js$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Golpe Sujo[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:87D6DC7B5869E5167CCB7D5F837A444008E57CB1$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Golpe Sujo - FHD DUB[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Goldie.Hawn/FLMS/LS-Golpe.Sujo.1978.FHD.DUB+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Golpe Sujo - FHD DUB[/B][/COLOR]</link>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Golpe Sujo (1978) - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/4CMD-FM/LS-Golpe.Sujo.1978.FHD.DUB+LEG.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/lALr3qzgkpkrQLvJiP18J2oFeUa.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/7SWWCLGXuSGvoN77iLLcDjFKeOs.jpg</fanart>
-<info>Uma bibliotecária que acidentalmente descobre um complô para assassinar o Papa Pio XIII</info>
-<genre>COMÉDIA</genre>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Golpe Sujo
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO - 1978
+[COLOR orange]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Uma bibliotecária que acidentalmente descobre um complô para assassinar o Papa Pio XIII
+[/COLOR]</info>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Grayeagle: Um Bravo Cheyenne (1977) - FHD DUB LEG FIX[/B][/COLOR]</title>
@@ -518,15 +544,19 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR white][B]No Mundo de 2020 (1973)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=mHkv3jddxHo$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]No Mundo de 2020[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/10FCFN-FM/LS-No.Mundo.de.2020.1973.HD.DUAL+LEG.mkv$nome=[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]No Mundo de 2020 - FHD DUAL[/B][/COLOR]</link>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]No Mundo de 2020 (1973) - HD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/10FCFN-FM/LS-No.Mundo.de.2020.1973.HD.DUAL+LEG.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/1AH9Sxg5RXWXn3jf81ngHuq2jzz.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/zj3EHWUJ1LdpbqGJqIMA6pQVlHO.jpg</fanart>
-<info>Em uma Terra futurista superpopulosa, um detetive da polícia de Nova York se vê marcado por assassinatos</info>
-<genre>FICÇÃO E FANTASIA</genre>
+<info>[COLOR white]Assista aqui o filme: 
+[B]No Mundo de 2020
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUAL+LEG
+[COLOR orange]ANO - 1973
+[COLOR orange]FICÇÃO E FANTASIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Em uma Terra futurista superpopulosa, um detetive da polícia de Nova York se vê marcado por assassinatos.
+[/COLOR]</info>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "O"				
@@ -544,15 +574,19 @@ item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR white][B]O Comando 10 De Navarone (1978)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=1fqnR05az6o$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Comando 10 De Navarone[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/CM-ES/LS-Force.10.From.Navarone.1978.HD.DUB+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Comando 10 De Navarone - HD DUB+LEG[/B][/COLOR]</link>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Comando 10 De Navarone (1978) - HD DUB+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/CM-ES/LS-Force.10.From.Navarone.1978.HD.DUB+LEG.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/3bFRwivCZuXx7fHWt4SpYaiHkNL.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/yVg3SI918BmztipQjySs3ZBGRm0.jpg</fanart>
-<info>Mallory e Miller são enviados à Iugoslávia em outra tarefa quase impossível. </info>
-<genre>GUERRA</genre>
+<info>[COLOR white]Assista aqui o filme: 
+[B]O Comando 10 De Navarone
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB+LEG
+[COLOR orange]ANO - 1978
+[COLOR orange]GUERRA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Mallory e Miller são enviados à Iugoslávia em outra tarefa quase impossível.
+[/COLOR]</info>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Destino do Poseidon (1972)[/B][/COLOR]</title>
@@ -575,8 +609,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-O.Expresso.da.Meia.Noite.1978.FHD.DUAL+LEG.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4feSaOwAhx4wx8so2kCsbX0xgWu.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/5hDT1BIABRWfVD5ECH69QQOJ3zr.jpg</fanart>
-<genre>CRIME E DRAMA</genre>
-<info>Billy Hayes visita a Turquia, ao traficar haxixe, é preso, e sua vida se transforma em um pesadelo, ele é brutalmente espancado e jogado em uma imunda prisão.</info>
+<info>[COLOR white]Assista aqui o filme: 
+[B]O Expresso da Meia-Noite
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO - 1978
+[COLOR orange]CRIME E DRAMA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Billy Hayes visita a Turquia, ao traficar haxixe, é preso, e sua vida se transforma em um pesadelo, ele é brutalmente espancado e jogado em uma imunda prisão.
+[/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -626,17 +665,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR white][B]Os Cowboys (1972)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=emjnjPfmoPI$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Os Cowboys[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-The.Cowboys.1972.FHD.DUB.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Os Cowboys - FHD DUB[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-The.Cowboys.1972.FHD.DUAL.LEGFIX.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Os Cowboys - FHD DUAL LEG FIXA[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-The.Cowboys.1972.FHD.LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Os Cowboys - FHD LEG [/B][/COLOR]</link>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Cowboys (1972)[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-The.Cowboys.1972.FHD.DUB.mkv$nome=[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Cowboys - FHD DUB[/B][/COLOR]</link>				
+<link>https://luminart.ls.lsnew.workers.dev/0:https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-The.Cowboys.1972.FHD.DUAL.LEGFIX.mkv$nome=[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Cowboys - FHD DUAL+LEG FIX[/B][/COLOR]</link>				
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-The.Cowboys.1972.FHD.LEG.mkv$nome=[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Cowboys - HD LEG[/B][/COLOR]</link>				
 <thumbnail>https://www.themoviedb.org/t/p/original/srdRiGV9tYFzWd2C4IjPJNtLrmr.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/dhZ0wrnc9f1fMLGn9N7CO2VQg1c.jpg</fanart>
-<info>Tudo o que eles queriam era a chance de serem homens... e ele deu a eles.</info>
-<genre>WESTERN</genre>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Os Cowboys
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD HD DUB DUAL+LEG FIX
+[COLOR orange]ANO - 1972
+[COLOR orange]WESTERN
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Tudo o que eles queriam era a chance de serem homens... e ele deu a eles.
+[/COLOR]</info>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
 <item>
 <title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Duelistas (1977) - FHD LEG FIX[/B][/COLOR]</title>
@@ -667,34 +710,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
+		
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Cowboys (1972)[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-The.Cowboys.1972.FHD.DUB.mkv$nome=[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Cowboys - FHD DUB[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-The.Cowboys.1972.FHD.DUAL.LEGFIX.mkv$nome=[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Cowboys - FHD DUAL+LEG FIX[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-The.Cowboys.1972.FHD.LEG.mkv$nome=[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Cowboys - HD LEG[/B][/COLOR]</link>				
-<thumbnail>https://www.themoviedb.org/t/p/original/srdRiGV9tYFzWd2C4IjPJNtLrmr.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/dhZ0wrnc9f1fMLGn9N7CO2VQg1c.jpg</fanart>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Meninos do Brasil (1978) - HD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/OC-RS/LS-Os.Meninos.do.Brazil.1978.HD.DUAL+LEG.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3d0PeVkewwkBO0yzNhoRlzhyXL1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3sjEoFwtHHlX6kdqJ8ZAUvt3kq6.jpg</fanart>
 <info>[COLOR white]Assista aqui o filme: 
-[B]Os Cowboys
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD HD DUB DUAL+LEG FIX
-[COLOR orange]ANO - 1972
-[COLOR orange]WESTERN
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Tudo o que eles queriam era a chance de serem homens... e ele deu a eles.
+[B]Os Meninos do Brasil
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUAL+LEG
+[COLOR orange]ANO - 1978
+[COLOR orange]GUERRA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O ensandecido médico Joseph Mengele, que fez milhares de experiências genéticas com judeus , vive no Paraguai e planeja o nascimento do 4º Reich.
 [/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-		
-<item>
-<title>[COLOR white][B]Os Meninos do Brasil (1978)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=PdjY_V_UsGE$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Os Meninos do Brasil[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/OC-RS/LS-Os.Meninos.do.Brazil.1978.HD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Os Meninos do Brasil - HD DUAL+LEG[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/3d0PeVkewwkBO0yzNhoRlzhyXL1.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/3sjEoFwtHHlX6kdqJ8ZAUvt3kq6.jpg</fanart>
-<info>O ensandecido médico Joseph Mengele (Gregory Peck), que fez milhares de experiências genéticas com judeus , vive no Paraguai e planeja o nascimento do 4º Reich</info>
-<genre>GUERRA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Últimos Machões (1976) - FHD DUB[/B][/COLOR]</title>
@@ -707,6 +737,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANO - 1976
 [COLOR orange]WESTERN
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]No início do século XX, alguns presos realizam uma fuga e criam uma gangue que cruza o deserto. Um desses homens é Zach Provo (Coburn), um meio índio que foi capturado por Sam Burgade (Heston) e enviado para a prisão durante a última parte do século XIX. Provo planeja sua vingança.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Orca: A Baleia Assassina (1977) - HD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/6AVT-FM/LS-Orca.A.Baleia.Assassina.1977.HD.DUB.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sPPE5rdxtv3yF4a9HkIyRVHV8Gp.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8ackkpqrNg1SwK907LgipITiBfd.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Orca: A Baleia Assassina
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB
+[COLOR orange]ANO - 1977
+[COLOR orange]AVENTURA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Após a trágica morte de sua companheira prenha por Nolan, capitão de um navio pescador. Cuja intenção era capturar um tubarão branco, mas o arpão acabou atingindo com tudo o animal. Inconformado, o macho levará toda a sua fúria e poder de morte para os pescadores.
 [/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -768,16 +813,34 @@ LETRA "S"
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
 <item>
-<title>[COLOR white][B]Só os Valentes Voltaram (1970)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=zgWFr9wv1oo$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]So os Valentes Voltaram[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/OC-RS/LS-The.McKenzieBreak.1970.HD+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]So os Valentes Voltaram - HD LEG[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/OC-RS/LS-The.McKenzie.Break.1970.FHD.LEGFIX.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]So os Valentes Voltaram - FHD LEGFIX[/B][/COLOR]</link>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Selvagens Cães de Guerra (1978) - HD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/OTGR/LS-Selvagens.Caes.de.Guerra.1978.HD.DUB.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uMOiXuIdHaqbbtim6XaO1FbDoPo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8vuWzNIClgKlhAWemJ76nElFdlz.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Selvagens Cães de Guerra
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB
+[COLOR orange]ANO - 1978
+[COLOR orange]GUERRA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Uma multinacional britânica pretende derrubar um ditador na África central. Então contrata um bando de mercenários em Londres e os envia para resgatar da prisão o democrático líder da oposição.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Só os Valentes Voltaram (1970) - FHD LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/OC-RS/LS-The.McKenzieBreak.1970.HD+LEG.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/nLNDK7bOoYP4wInxxbtfrbhbWfV.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/oA1ZRMcs5muKXVStdeB29tOfT4V.jpg</fanart>
-<info>Os prisioneiros de guerra alemães na Grã-Bretanha conspiram para escapar de seu campo de prisioneiros na Escócia. </info>
-<genre>GUERRA</genre>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Só os Valentes Voltaram
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD LEG
+[COLOR orange]ANO - 1970
+[COLOR orange]GUERRA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Os prisioneiros de guerra alemães na Grã-Bretanha conspiram para escapar de seu campo de prisioneiros na Escócia.
+[/COLOR]</info>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Sol Vermelho (1971) - FHD DUAL+LEG[/B][/COLOR]</title>
@@ -813,44 +876,54 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "T"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
-<item>				
-<title>[COLOR white][B]Tora! Tora! Tora! (1970)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.tubemusic/?video_id=kFUfY9bQMgI$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Tora! Tora! Tora![/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4fd6a426992d023531e019911fb484fa3170405e$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Tora! Tora! Tora! - HD LEG [/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81ed5fc7ce1cf5ec425231f0e4bf9e7507f54fe0$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Tora! Tora! Tora! - FHD DUB [/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-U-571-A.Batalha.do.Atlantico.2000.FHD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Tora! Tora! Tora! - FHD DUB[/B][/COLOR]</link>				
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Tora! Tora! Tora! (1970) - HD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-TORA.TORA.TORA.1970.FHD.dub.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9noF9I4LL8OvpIARtifKEQ6d8lK.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/czbiy4U4ZwZwsZwDLj3958Yv1Ma.jpg</fanart>				
-<info>Retrata de forma realista, quase documental, tanto do ponto de vista japonês como do norte americano, mostrando a preparação, os eventos e os erros que possibilitaram o ataque a Pearl Harbor em 7 de Dezembro de 1941, fato que forçou a entrada dos Estados Unidos da América na Segunda Guerra Mundial. O título do filme é o código utilizado em caso de sucesso do ataque japonês, que traduzido para o português significa 'Tigre! Tigre! Tigre!'.</info>				
-<genre>GUERRA</genre> 				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<fanart>https://www.themoviedb.org/t/p/original/czbiy4U4ZwZwsZwDLj3958Yv1Ma.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Tora! Tora! Tora!
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB
+[COLOR orange]ANO - 1970
+[COLOR orange]GUERRA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Pearl Harbor em 7 de Dezembro de 1941, fato que forçou a entrada dos Estados Unidos da América na Segunda Guerra Mundial. O título do filme é o código utilizado em caso de sucesso do ataque japonês, que traduzido para o português significa 'Tigre! Tigre! Tigre!'.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "U"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 <item>
-<title>[COLOR white][B]Uma Aventura na Arábia (1979)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=Is8j7EckESY$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Uma Aventura na Arabia[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/10FCFN-FM/LS-Uma.Aventura.na.Arabia.1979.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Uma Aventura na Arabia - FHD DUAL+LEG[/B][/COLOR]</link>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Uma Aventura na Arábia (1979) - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/10FCFN-FM/LS-Uma.Aventura.na.Arabia.1979.FHD.DUAL+LEG.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9dH9JDUQUygOSqCizzI1R10bnpj.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/8CGS8PWFW50zt8mWKxan99gQs41.jpg</fanart>
-<info>Um califa malvado oferece a mão de sua filha em casamento a um príncipe se ele puder completar uma busca perigosa por uma rosa mágica</info>
-<genre>FANTASIA</genre>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Uma Aventura na Arábia
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO - 1979
+[COLOR orange]FICÇÃO E FANTASIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um califa malvado oferece a mão de sua filha em casamento a um príncipe se ele puder completar uma busca perigosa por uma rosa mágica.
+[/COLOR]</info>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>				
-<title>[COLOR white][B]Uma Ponte Longe Demais (1977)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.tubemusic/?video_id=15uglPrn0Q0$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Uma Ponte Longe Demais[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-Uma.Ponte.Longe.Demais.1977.FHD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Uma Ponte Longe Demais - FHD DUB[/B][/COLOR]</link>				
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Uma Ponte Longe Demais (1977) - FHD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-Uma.Ponte.Longe.Demais.1977.FHD.dub.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/24vC6YybaZWgTxQaqIeTVa9Bf3S.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/26feWH2NF8XqxuMzfkJTp9T5dfQ.jpg</fanart>				
-<info>Os Aliados confidencialmente mandam para a Normandia um grande grupo de soldados para a operação Market Garden, cuja intenção era dar um fim para a Segunda Guerra Mundial, invadindo a Alemanha e destruindo as indústrias de guerra do 3º Reich.</info>				
-<genre>GUERRA</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<fanart>https://www.themoviedb.org/t/p/original/26feWH2NF8XqxuMzfkJTp9T5dfQ.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Uma Ponte Longe Demais
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUB
+[COLOR orange]ANO - 1977
+[COLOR orange]GUERRA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Os Aliados confidencialmente mandam para a Normandia um grande grupo de soldados para a operação Market Garden, cuja intenção era dar um fim para a Segunda Guerra Mundial, invadindo a Alemanha e destruindo as indústrias de guerra do 3º Reich.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Uma Razão para Viver, Uma Razão para Morrer (1972) - HD DUAL[/B][/COLOR]</title>
