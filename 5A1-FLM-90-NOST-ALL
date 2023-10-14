@@ -16,18 +16,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "A"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
-<item>		
-<title>[COLOR white][B]A Caçada ao Outubro Vermelho (1990)[/B][/COLOR]</title>		
-<link>plugin://plugin.video.tubemusic/?video_id=3C2tE7vjdHk$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Casada ao Outubro Vermelho[/B][/COLOR]</link>		
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f189b37715df45044cd4c1ac1c29925fa16ecc25$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Casada ao Outubro Vermelho - HD LEG[/B][/COLOR]</link>		
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:49162d426d402ec8ec2ff682e6a85012c7df9234$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Casada ao Outubro Vermelho - FHD DUAL[/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-A.Casada.ao.Outubro.Vermelho.1989.HD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Casada ao Outubro Vermelho - HD DUB[/B][/COLOR]</link>		
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Caçada ao Outubro Vermelho (1990) - HD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/OTGR/LS-A.Cazada.ao.Outubro.Vermelho.1989.HD.DUB.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/iMViugzRCgok8Of27cCN9yru8BD.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/dslIcDTlY0HbC57bKirTN0dtG7.jpg</fanart>		
-<info>Submarinos soviéticos recebem ordem de afundar o Outubro Vermelho e os americanos decidem fazer o mesmo, temendo que seu território esteja ameaçado.</info>		
-<genre>GUERRA</genre>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<fanart>https://www.themoviedb.org/t/p/original/dslIcDTlY0HbC57bKirTN0dtG7.jpg</fanart>	
+<info>[COLOR white]Assista aqui o filme: 
+[B]A Caçada ao Outubro Vermelho
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB
+[COLOR orange]ANO - 1990
+[COLOR orange]GUERRA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Submarinos soviéticos recebem ordem de afundar o Outubro Vermelho e os americanos decidem fazer o mesmo, temendo que seu território esteja ameaçado.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Ilha da Garganta Cortada (1995) - FHD DUAL+LEG[/B][/COLOR]</title>
@@ -40,6 +42,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANO - 1995
 [COLOR orange]AVENTURA
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Morgan é a filha de um pirata que segue os passos do pai. Quando ele morre, ela herda o navio, uma tripulação de bandidos e um terço de um mapa do tesouro. Ela parte pelo Caribe em busca das riquezas, mas o mapa está em latim.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Ilha do Tesouro (1990)  - SD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/6AVT-FM/LS-A.Ilha.do.Tesouro.1990.SD.DUB.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mIj8UjP9qYxQd1pLeudjmrV3PFv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zwHa06o9uF1mLb3aDmQOV8YsrZo.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]A Ilha do Tesouro
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUB
+[COLOR orange]ANO - 1990
+[COLOR orange]AVENTURA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O jovem Jim Hawkins conhece o capitão Billy Bones, que morre na pousada enquanto ela é cercada por bucaneiros. Ele acaba ficando com o mapa do tesouro de Billy Bones para o qual os bucaneiros vieram, e parte numa aventura em busca de uma ilha misteriosa para encontrar o tesouro.
 [/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -59,18 +76,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>		
-<title>[COLOR white][B]A Lista de Schindler (1993)[/B][/COLOR]</title>		
-<link>plugin://plugin.video.tubemusic/?video_id=tSHqEBhQx8M$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]A Lista de Schindler[/B][/COLOR]</link>		
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ddc0a35cb4b7558231eaac3e3896f95b461160e3$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]A Lista de Schindler - DUB [/B][/COLOR]</link>		
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]A Lista de Schindler - LEG [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/OC-RS/LS-A.Lista.de.Schindler.1993.FHD.dub.LFC.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Lista de Schindler - FHD DUB LEG FRC[/B][/COLOR]</link>		
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Lista de Schindler (1993) - FHD DUB+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/OC-RS/LS-A.Lista.de.Schindler.1993.FHD.dub.LFC.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bGhhNzJYDsuLruNN5bJ2PvLcMiq.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/1saP2R4xkC7PHqOkbvcjrJhkLJg.jpg</fanart>		
-<info>O alemão Oskar Schindler viu na mão de obra judia uma solução barata e viável para lucrar com negócios durante a guerra. Com sua forte influência dentro do partido nazista, foi fácil conseguir as autorizações e abrir uma fábrica. O que poderia parecer uma atitude de um homem não muito bondoso, transformou-se em um dos maiores casos de amor à vida da História, pois este alemão abdicou de toda sua fortuna para salvar a vida de mais de mil judeus em plena luta contra o extermínio </info>		
-<genre>GUERRA</genre> 		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<fanart>https://www.themoviedb.org/t/p/original/1saP2R4xkC7PHqOkbvcjrJhkLJg.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]A Lista de Schindler
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUB+LEG
+[COLOR orange]ANO - 1993
+[COLOR orange]GUERRA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Oskar Schindler viu na mão de obra judia uma solução barata para lucrar com negócios na guerra. Com forte influência dentro do partido nazista, foi fácil conseguir abrir uma fábrica. O que poderia parecer uma atitude ruim, transformou-se em um dos maiores casos de amor à vida da História, pois este alemão abdicou de toda sua fortuna para salvar a vida de mais de mil judeus em plena luta contra o extermínio.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Odisséia (1997) - HD DUB[/B][/COLOR]</title>
@@ -83,6 +102,36 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANO - 1997
 [COLOR orange]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Após dez anos, a Guerra de Troia chega ao fim e o herói Odisseu faz uma viagem de volta para casa.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Sombra e a Escuridão (1996) - HD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/6AVT-FM/LS-A.Sombra.e.a.Escuridao.1996.HD.DUB.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rQIxgAeOyltdrSNVGVhimGjX2hL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5W6bg86btcUxntzebVD0VBSPuW3.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]A Sombra e a Escuridão
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB
+[COLOR orange]ANO - 1996
+[COLOR orange]AVENTURA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um engenheiro vai para a África construir uma ponte, mas acaba se deparando com dois leões assassinos que aterrorizam os operários, pois várias vítimas são feitas e mesmo com a chegada de um experiente caçador, as mortes continuam.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Trincheira (1999) - FHD LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/FLMS/3GRR-FM/1GR/LS-A.Trincheira.1999.FHD.LEG.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hCyxu6dvcWPjdVK0C2EECKFD0nl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mEHAW9gFZgxGF55BlW9nof7FJNs.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]A Trincheira
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD LEG
+[COLOR orange]ANO - 1999
+[COLOR orange]GUERRA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]The Trench conta a história de um grupo de jovens soldados britânicos nas vésperas da Batalha do Somme, no verão de 1916, a pior derrota da história militar britânica.
 [/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -113,18 +162,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>				
-<title>[COLOR white][B]Além da Linha Vermelha (1998)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.tubemusic/?video_id=mKl5_OxKBn8$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Alem da Linha Vermelha[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c45c821ab97b3093f52ec25009b1f0137adf17b$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Alem da Linha Vermelha - HD DUB [/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:960dc73149fa3775053d41181733f98ed5ba2a89$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Alem da Linha Vermelha - FHD LEG [/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-Alem.da.Linha.Vermelha.1998.FHD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Alem da Linha Vermelha - FHD DUB[/B][/COLOR]</link>				
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Além da Linha Vermelha (1998) - FHD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-Alem.da.Linha.Vermelha.1998.FHD.dub.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5eLYQdn91L3GRyanPDWT9iSgEie.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/qLnvCSNw1XqPOW2Lt4KC7nNV9EE.jpg</fanart>				
-<info>Durante a Segunda Guerra Mundial, fica claro que o resultado da batalha de Guadalcanal influenciará fortemente o avanço japonês no Pacífico. Assim, um grupo de jovens soldados é enviado para lá, trazendo alívio para as esgotadas unidades da marinha. Lá os recém-chegados conhecem um terror que nem imaginavam, mas no meio deste desespero surgem fortes laços de amor e amizade.</info>				
-<genre>GUERRA</genre> 				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<fanart>https://www.themoviedb.org/t/p/original/qLnvCSNw1XqPOW2Lt4KC7nNV9EE.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Além da Linha Vermelha
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUB
+[COLOR orange]ANO - 1998
+[COLOR orange]GUERRA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Durante a Segunda Guerra Mundial, fica claro que o resultado da batalha de Guadalcanal influenciará fortemente o avanço japonês no Pacífico. Assim, um grupo de jovens soldados é enviado para lá, trazendo alívio para as esgotadas unidades da marinha.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>	
 <title>[COLOR white][B]Alien 3 (1992)[/B][/COLOR]</title>	
@@ -190,17 +241,19 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B][COLOR white]As Duas Faces de um Crime (1996)[/COLOR][/B]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=AX4gmDNPVO8$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]As Duas Faces de um Crime[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54f98afd18644eeb701cd383f89a41f2530bdb94$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]As Duas Faces de um Crime - HD LEG[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:70fde3e6d1785a8a1419a9e5132fb6a2b77ca39c$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]As Duas Faces de um Crime - FHD LEG[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-As.Duas.Faces.de.um.Crime.1996.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]As Duas Faces de um Crime - FHD DUAL+LEG[/B][/COLOR]</link>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]As Duas Faces de um Crime (1996) - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-As.Duas.Faces.de.um.Crime.1996.FHD.DUAL+LEG.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/6d8vnmdkyH8PkG30f29VLmvVRP2.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/a4f6y7gbMmMLrwzJZrwmcNmEBM1.jpg</fanart>
-<info>Em Chicago, um arcebispo (Stanley Anderson) assassinado com 78 facadas.</info>
-<genre>CRIME E DRAMA</genre>
+<info>[COLOR white]Assista aqui o filme: 
+[B]As Duas Faces de um Crime
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO - 1996
+[COLOR orange]CRIME E DRAMA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Em Chicago, um arcebispo é assassinado com 78 facadas.
+[/COLOR]</info>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]As Loucas Aventuras de James West (1999) - HD DUB[/B][/COLOR]</title>
@@ -235,15 +288,19 @@ LETRA "B"
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 <item>
-<title>[COLOR white][B]Baile Perfumado (1997)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=RC_Ff6jUPgM$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Baile Perfumado[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Baile.Perfumado.1996.FHD.DUB.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Baile Perfumado - FHD DUB[/B][/COLOR]</link>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Baile Perfumado (1997) - FHD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Baile.Perfumado.1996.FHD.DUB.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ynveHqkW4nO6dHgerwCnMsrM5ve.jpg</thumbnail>
 <fanart>https://imagens1.ne10.uol.com.br/blogsne10/social1/uploads/2015/05/recife_02_baile.jpg</fanart>
-<info>O mascate libanês Benjamin Abrahão decide filmar Lampião e todo seu bando, pois acredita que este filme o deixará muito rico</info>
-<genre>CRIME E DRAMA</genre>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Baile Perfumado
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUB
+[COLOR orange]ANO - 1997
+[COLOR orange]CRIME E DRAMA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O mascate libanês Benjamin Abrahão decide filmar Lampião e todo seu bando, pois acredita que este filme o deixará muito rico.
+[/COLOR]</info>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Batalha de Honra (1993) - SD DUB[/B][/COLOR]</title>
@@ -264,18 +321,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "C"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
-<item>				
-<title>[COLOR white][B]Cabo do Medo (1991)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.tubemusic/?video_id=mPsOIhZJug4$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Cabo do Medo[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a12436579a7bba05c7a51b759289386b8a651d66$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Cabo do Medo - HD LEG[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:078d1e2774742785fca265b5cec0198c2b8076ec$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Cabo do Medo - FHD DUAL[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Cape.Fear.1991.FHD.DUAL.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Cabo do Medo - FHD DUAL[/B][/COLOR]</link>				
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Cabo do Medo (1991) - FHD DUAL[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Cape.Fear.1991.FHD.DUAL.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/AfUtnysJQGFH5mZsoQNjle9Nibg.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/ntgpger7OwFNlEldxuvvFHDKzjW.jpg</fanart>				
-<info>O advogado Sam Bowden retém provas que poderiam livrar o agressor sexual Max Cady das acusações de estupro, ele passa 14 anos na prisão. Max,se dedica a perseguir e destruir a família Bowden.</info>				
-<genre>CRIME E DRAMA</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<fanart>https://www.themoviedb.org/t/p/original/ntgpger7OwFNlEldxuvvFHDKzjW.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Cabo do Medo
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL
+[COLOR orange]ANO - 1991
+[COLOR orange]CRIME E DRAMA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O advogado Sam Bowden retém provas que poderiam livrar o agressor sexual Max Cady das acusações de estupro, ele passa 14 anos na prisão. Max,se dedica a perseguir e destruir a família Bowden.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>							
 <title>[COLOR white][B]Cavalgada dos Proscritos (1980)[/B][/COLOR]</title>							
@@ -399,8 +458,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/4CMD-FM/LS-E.Pura.Sorte.1991.FHD.LEG.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/3ZFbRfsSa04TTHzqcEFZtk6YYPe.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/c6DUP4WP18Ei5nUZK6EfNDiFKoy.jpg</fanart>
-<genre>COMÉDIA</genre>
-<info>Filha de milionário desaparece no México. Ele arruma um sujeito sem sorte para viver os mesmos passos da filha e reencontrá-la.</info>
+<info>[COLOR white]Assista aqui o filme: 
+[B]É Pura Sorte
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD LEG
+[COLOR orange]ANO - 1991
+[COLOR orange]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Filha de milionário desaparece no México. Ele arruma um sujeito sem sorte para viver os mesmos passos da filha e reencontrá-la.
+[/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -423,58 +487,69 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "F"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
-<item>				
-<title>[B][COLOR white]Fé Demais não Cheira Bem (1992)[/COLOR][/B]</title>				
-<link>plugin://plugin.video.tubemusic/?video_id=rP6VDQ2J3QM$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Fe Demais nao Cheira Bem [/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4kkuddjhep7gwtdmucokztjixjks6url$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Fe Demais nao Cheira Bem  - HD DUB[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27683cc18606a832793557db7609aa3a558af63f$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Fe Demais nao Cheira Bem  - FHD LEG[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/4CMD-FM/LS-Fe.Demais.Nao%20Cheira%20Bem.1992.HD.DUB.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Fe Demais nao Cheira Bem  - DUB - LEGFIX[/B][/COLOR]</link>				
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Fé Demais não Cheira Bem (1992) - HD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/4CMD-FM/LS-Fe.Demais.Nao.Cheira.Bem.1992.HD.DUB.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/sEOMXU84ndcVaUoTQiacVwuctEP.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/pBHFf9kNRzGUY8G6ZLO2YnwYauz.jpg</fanart>				
-<info>Jonas Nightengale é um falso pregador de fé, que usa todos seus truques com a Bíblia na mão de forma a atrair as pessoas para seus cultos. </info>				
-<genre>COMÉDIA</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<fanart>https://www.themoviedb.org/t/p/original/pBHFf9kNRzGUY8G6ZLO2YnwYauz.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Fé Demais não Cheira Bem
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB
+[COLOR orange]ANO - 1992
+[COLOR orange]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Jonas Nightengale é um falso pregador de fé, que usa todos seus truques com a Bíblia na mão de forma a atrair as pessoas para seus cultos.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR white][B]Filhos da Guerra (1990)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=nAlbpuQixHU$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Filhos da Guerra[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/OC-RS/LS-Europa.Europa..1990.SD.LEGFIX.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Filhos da Guerra - SD LEG FIX[/B][/COLOR]</link>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Filhos da Guerra (1990) - SD LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/OC-RS/LS-Europa.Europa..1990.SD.LEGFIX.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/jRr8h2KuFCxQGzaewyCiFR4TgIa.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/46cEGaYfPBc9kxdhMbgmn0e1856.jpg</fanart>
-<info>Para escapar do holocausto um garoto judeu tera que se tornar um herói nazista.</info>
-<genre>DRAMA</genre>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Filhos da Guerra
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]SD LEG
+[COLOR orange]ANO - 1990
+[COLOR orange]GUERRA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Para escapar do holocausto um garoto judeu tera que se tornar um herói nazista.
+[/COLOR]</info>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 			
-<item>				
-<title>[COLOR white][B]Fogo Contra Fogo (1995)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.tubemusic/?video_id=0xbBLJ1WGwQ$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Fogo Contra Fogo[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a6c127e066a8c115026ed3ca7fa9844f1bb08a37$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Fogo Contra Fogo - HD DUAL[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f6a29c40433798d7100ea06b5289fb4b31ec5d47$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Fogo Contra Fogo - FHD DUAL[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Fogo.Contra.Fogo.1995.FHD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Fogo Contra Fogo - FHD DUB[/B][/COLOR]</link>				
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Fogo Contra Fogo (1995) - FHD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Fogo.Contra.Fogo.1995.FHD.dub.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/cv1ZuY874Q0uqFkURO8hjI2471z.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/kMRdsjSHifqGZPfHdZIS8YfNMk0.jpg</fanart>				
-<info>Em Los Angeles um assalto no qual são roubados US$ 1,6 milhão de títulos ao portador e três policiais são mortos. Um detetive assume o caso. Apesar de contar com poucas pistas, lidando com ladrões profissionais e ter problemas em sua vida pessoal, ele tenta impedir que esta quadrilha continue operando.</info>				
-<genre>CRIME E DRAMA</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<fanart>https://www.themoviedb.org/t/p/original/kMRdsjSHifqGZPfHdZIS8YfNMk0.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Fogo Contra Fogo
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUB
+[COLOR orange]ANO - 1995
+[COLOR orange]CRIME E DRAMA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Em Los Angeles um assalto no qual são roubados US$ 1,6 milhão de títulos ao portador e três policiais são mortos. Um detetive assume o caso. Apesar de contar com poucas pistas, lidando com ladrões profissionais e ter problemas em sua vida pessoal, ele tenta impedir que esta quadrilha continue operando.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "G"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 <item>
-<title>[COLOR white][B]Gaiola das Loucas (1996)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=jgqbeGgENH4$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Gaiola das Loucas[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AE6730F2CE89C1BCBF0580EE2D8B7C99C80FA286$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Gaiola das Loucas - FHD LEG[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/4CMD-FM/LS-The.Birdcage.1996.FHD.LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Gaiola das Loucas - FHD DUAL+LEG[/B][/COLOR]</link>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Gaiola das Loucas (1996) - FHD LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/4CMD-FM/LS-The.Birdcage.1996.FHD.LEG.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/esSA2kSLCl91mjyz0JBkBijHchq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/amwSpaWcG06C7i65d8z44wgJ8lC.jpg</fanart>
-<info>O dono de um drag nightclub é um homossexual assumido e vive com a estrela da sua casa noturna "Gaiola das Loucas".</info>
-<genre>COMÉDIA</genre>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Gaiola das Loucas
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD LEG
+[COLOR orange]ANO - 1996
+[COLOR orange]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O dono de um drag nightclub é um homossexual assumido e vive com a estrela da sua casa noturna "Gaiola das Loucas".
+[/COLOR]</info>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Gerônimo: Uma Lenda Americana (1993) - FHD DUAL+LEG[/B][/COLOR]</title>
@@ -500,30 +575,38 @@ LETRA "I"
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 <item>
-<title>[COLOR white][B]Império do Crime (1991)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=If3aoYJeVTU$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Imperio do Crime[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Imperio.do.Crime.1991.FHD.DUB+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Imperio do Crime - FHD DUAL[/B][/COLOR]</link>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Império do Crime (1991) - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Imperio.do.Crime.1991.FHD.DUB+LEG.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8pp91WBWeEHogSJbgTtjz2jjkRh.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/mA9W30ULHSq4EEOaPygxOxBYMy8.jpg</fanart>
-<info>Eles não recebiam ordens... Eles assumiram a máfia americana em Nova York.</info>
-<genre>CRIME E DRAMA</genre>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Império do Crime
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO - 1991
+[COLOR orange]CRIME E DRAMA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Eles não recebiam ordens.Eles assumiram a máfia americana em Nova York.
+[/COLOR]</info>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "J"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 <item>
-<title>[COLOR white][B]Jogando as Fichas Fora (1994)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=__rpV2VjaME$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Jogando as Fichas Fora[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Blue.Chips.1994.HD.LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Jogando as Fichas Fora - HD LEG[/B][/COLOR]</link>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Jogando as Fichas Fora (1994) - HD LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Blue.Chips.1994.HD.LEG.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/tO71i4Ob64tchCRBB5MoqonPKAF.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/gJwq4j1UXpSs4AwKIAuEClSz68n.jpg</fanart>
-<info>Pete Bell, um treinador de basquete universitário está sob muita pressão. </info>
-<genre>DRAMA</genre>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Jogando as Fichas Fora
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]HD LEG
+[COLOR orange]ANO - 1994
+[COLOR orange]CRIME E DRAMA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Pete Bell, um treinador de basquete universitário está sob muita pressão.
+[/COLOR]</info>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>	
 <title>[COLOR white][B]Jovens Demais para Morrer (1990)[/B][/COLOR]</title>	
@@ -596,15 +679,19 @@ LETRA "M"
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 <item>
-<title>[COLOR white][B]Marcas de Batom (1992)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=fmYw5JZ-6LM$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Marcas de Batom[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Marcas.de.Batom.1992.SD.DUB.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Marcas de Batom - FHD DUAL[/B][/COLOR]</link>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Marcas de Batom (1992) - SD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Marcas.de.Batom.1992.SD.DUB.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/2CAMutFQsJ659K8lB6YIqfGR7T3.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/oZWJAHTYzM5sRNptmZXyIffzK6h.jpg</fanart>
-<info>Ninguém está acima de suspeita.</info>
-<genre>CRIME E DRAMA</genre>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Marcas de Batom
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO - 1992
+[COLOR orange]CRIME E DRAMA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Ninguém está acima de suspeita.
+[/COLOR]</info>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>				
 <title>[COLOR white][B]Missão: Impossível (1996)[/B][/COLOR]</title>				
@@ -643,42 +730,49 @@ LETRA "O"
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 <item>
-<title>[COLOR white][B]O Engano (1991)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=ywRy1vBQSSU$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Engano[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Goldie.Hawn/FLMS/LS-O.Engano.1991.FHD.DUAL.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Engano - FHD DUAL[/B][/COLOR]</link>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Engano (1991) - FHD DUAL[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/11SPTR-FM/LS-O.Engano.1991.FHD.DUAL.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/hL6iFhKp4C3EsAdMHKdABrOiSHl.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/4VxtZORDRxVc7uz0JWlHV1DSuQR.jpg</fanart>
-<info>Bem-sucedida restauradora de arte é casada com um marido devotado. ele morre em um acidente e ela descobre que ele usava um nome falso. </info>
-<genre>SUSPENSE</genre>
+<info>[COLOR white]Assista aqui o filme: 
+[B]O Engano
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL
+[COLOR orange]ANO - 1991
+[COLOR orange]SUSPENSE E TERROR
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Bem-sucedida restauradora de arte é casada com um marido devotado. ele morre em um acidente e ela descobre que ele usava um nome falso.
+[/COLOR]</info>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>				
-<title>[COLOR white][B]O Estranho Mundo de Jack (1993)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.tubemusic/?video_id=Ie3lhEebWW4$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Estranho Mundo de Jack[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28975a6bb5f9d9270189420df2f3b6cf11502a3d$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Estranho Mundo de Jack - HD DUAL[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:daac08b7f811c3b202775e0591e4a89a4ac7a6be$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Estranho Mundo de Jack - FHD DUAL[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-FM/LS-O.Estranho.Mundo.de.Jack.1993.HD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Estranho Mundo de Jack - FHD DUB[/B][/COLOR]</link>				
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pyMGhuAWC7nYyolKJlFbT7pp02K.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/neEX66q5eYH8vgZIG09pOuj462w.jpg</fanart>				
-<info>Jack Skellington é um ser fantástico que vive na Cidade do Halloween, um local cercado por criaturas fantásticas. Lá, todos passam o ano organizando o Halloween do ano seguinte mas, após mais um Halloween, Jack se mostra cansado de fazer aquilo todos os anos. Assim, ele deixa os limites da Cidade do Halloween e vagueia pela floresta. Por acaso acha alguns portais, sendo que cada um leva até um tipo festividade. Jack acaba atravessando o portal do Natal, onde vê demonstrações do espírito natalino. Ao retornar para a Cidade do Halloween, sem ter compreendido o que viu, ele começa a convencer os cidadãos a sequestrarem o Papai Noel e fazerem seu próprio Natal. Apesar de argumentos fortes de sua leal namorada Sally contra o projeto, o Papai Noel é capturado. Mas os fatos mostrarão que Sally estava totalmente certa.</info>				
-<genre>ANIMAÇÃO</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR white][B]O Fantasma (1996)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=_K3sWMT6Pi4$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Fantasma[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RGFG76NYSUNUOM4QMNATCTJ6UWHYMG5P$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Fantasma - HD DUB[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OILCRY3LSGEEDBIDQKDS54QR54DYA7KD$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Fantasma - FHD DUAL[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/8SPH-FM/LS-O.Fantasma.1996.HD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Fantasma - HD DUAL+LEG[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/8SPH-FM/LS-O.Fantasma.1996.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Fantasma - FHD DUAL+LEG[/B][/COLOR]</link>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Estranho Mundo de Jack (1993) - HD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-FM/LS-O.Estranho.Mundo.de.Jack.1993.HD.dub.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pyMGhuAWC7nYyolKJlFbT7pp02K.jpg</thumbnail>				
+<fanart>https://www.themoviedb.org/t/p/original/neEX66q5eYH8vgZIG09pOuj462w.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]O Estranho Mundo de Jack
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB
+[COLOR orange]ANO - 1993
+[COLOR orange]ANIMAÇÃO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Jack acaba atravessando o portal do Natal, onde vê demonstrações do espírito natalino. Ao retornar para a Cidade do Halloween, sem ter compreendido o que viu, ele começa a convencer os cidadãos a sequestrarem o Papai Noel e fazerem seu próprio Natal. Apesar de argumentos fortes de sua leal namorada Sally contra o projeto, o Papai Noel é capturado. Mas os fatos mostrarão que Sally estava totalmente certa.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Fantasma (1996) - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/8SPH-FM/LS-O.Fantasma.1996.FHD.DUAL+LEG.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/td0c6GMsap7we9mB678wdk52FxW.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/eMlnH5OlX93Bp4WezvMXMNix6Of.jpg</fanart>
-<info>Há 400 anos, o Fantasma protege a selva de Bengala. </info>
-<genre>SUPER-HERÓIS</genre>
+<info>[COLOR white]Assista aqui o filme: 
+[B]O Fantasma
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO - 1996
+[COLOR orange]SUPER-HERÓIS
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Há 400 anos, o Fantasma protege a selva de Bengala.
+[/COLOR]</info>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Fugitivo (1993) - HD DUB[/B][/COLOR]</title>
@@ -695,18 +789,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>				
-<title>[B][COLOR white]O Gigante de Ferro (1999)[/COLOR][/B]</title>				
-<link>plugin://plugin.video.tubemusic/?video_id=OTnu-cGP17w$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Gigante de Ferro[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95765a339fb2f4c830996b24b06e6ff483b2fdff$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Gigante de Ferro - HD DUAL[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:017642fbb9957eda1f0507fa0075183f089395f4$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Gigante de Ferro - FHD DUAL[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-FM/LS-O.Gigante.de.Ferro.1999.HD.DUB.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Gigante de Ferro - HD DUB[/B][/COLOR]</link>				
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Gigante de Ferro (1999) - HD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-FM/LS-O.Gigante.de.Ferro.1999.HD.DUB.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/a8StQ8dmVQ94THFTrMVHuMp5QKw.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/vIjAutSlijLMVvsbUjpD83qOYY4.jpg</fanart>				
-<info>Em 1957, um robô alienígena gigante aterrissa perto da pequena cidade de Rockwell,. Hogarth, um garoto de nove anos, encontra o robô e os dois ficam amigos. </info>				
-<genre>ANIMAÇÃO</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<fanart>https://www.themoviedb.org/t/p/original/vIjAutSlijLMVvsbUjpD83qOYY4.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]O Gigante de Ferro
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB
+[COLOR orange]ANO - 1999
+[COLOR orange]ANIMAÇÃO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Em 1957, um robô alienígena gigante aterrissa perto da pequena cidade de Rockwell,. Hogarth, um garoto de nove anos, encontra o robô e os dois ficam amigos.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Homem da Máscara de Ferro (1998) - HD DUB[/B][/COLOR]</title>
@@ -761,18 +857,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>		
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>				
-<title>[COLOR white][B]O Resgate do Soldado Ryan (1998)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.tubemusic/?video_id=ffN5ty0hZYA$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Resgate do Soldado Ryan[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3596cf8c7f58b817cc50b88bb071850a4059238a$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]O Resgate do Soldado Ryan - HD DUAL [/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7624b3b273602dac9fc9ddaf4e33312ac72cf447$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]O Resgate do Soldado Ryan - FHD DUAL [/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-O.Resgate.do.Soldado.Ryan.1998.FHD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Resgate do Soldado Ryan - FHD DUB[/B][/COLOR]</link>				
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Resgate do Soldado Ryan (1998) - FHD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-O.Resgate.do.Soldado.Ryan.1998.FHD.dub.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dxEyyh7XOr1h1pHyrOvdpscmnAG.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/gr5YD5dnF0QbIF00ovdb9AtXa7g.jpg</fanart>				
-<info>Ao desembarcar na Normandia, no dia 6 de junho de 1944, capitão Miller (Tom Hanks) recebe a missão de comandar um grupo do segundo batalhão para o resgate do soldado James Ryan, caçula de quatro irmãos, dentre os quais três morreram em combate. Por ordens do chefe George C. Marshall, eles precisam procurar o soldado e garantir o seu retorno, com vida, para casa.</info>				
-<genre>GUERRA</genre> 				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<fanart>https://www.themoviedb.org/t/p/original/gr5YD5dnF0QbIF00ovdb9AtXa7g.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]O Resgate do Soldado Ryan
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUB
+[COLOR orange]ANO - 1998
+[COLOR orange]GUERRA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Ao desembarcar na Normandia, no dia 6 de junho de 1944, capitão Miller recebe a missão de comandar um grupo do segundo batalhão para o resgate do soldado James Ryan, caçula de quatro irmãos, dentre os quais três morreram em combate.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Último dos Moicanos (1992) - FHD DUAL+LEG[/B][/COLOR]</title>
@@ -804,18 +902,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>				
-<title>[COLOR white][B]O Último Matador (1996)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.tubemusic/?video_id=6tkvgAv7LNc$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Ultimo Matador[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:25671d17f26ba50ba383ea5513e3f11942340205$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Ultimo Matador - HD DUAL[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:081d71c8fb3294f0ec511e136463f2bcd29253e8$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Ultimo Matador - HD LEG[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-O.Ultimo.Matador.1996.HD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Ultimo Matador - HD DUB[/B][/COLOR]</link>				
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Último Matador (1996) - HD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-O.Ultimo.Matador.1996.HD.dub.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ulA2FivZe7CxJcvzXSue4z6CMNT.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/qfQGDBUuILDkRL5CPa897NAqcTZ.jpg</fanart>				
-<info>John Smith é um pistoleiro que, chega a cidade de Jericó, no Texas. Uma cidade-fantasma desde que duas violentas gangues expulsaram todas as pessoas decentes. Smith percebe a oportunidade de jogar uma gangue contra a outra e ganhar uma bolada de dinheiro como matador de aluguel.</info>				
-<genre>CRIME E DRAMA</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<fanart>https://www.themoviedb.org/t/p/original/qfQGDBUuILDkRL5CPa897NAqcTZ.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]O Último Matador
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB
+[COLOR orange]ANO - 1996
+[COLOR orange]CRIME E DRAMA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]John Smith é um pistoleiro que, chega a cidade de Jericó, no Texas. Uma cidade-fantasma desde que duas violentas gangues expulsaram todas as pessoas decentes. Smith percebe a oportunidade de jogar uma gangue contra a outra e ganhar uma bolada de dinheiro como matador de aluguel.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Últimos Fora-da-Lei (1993) - FHD DUAL+LEG[/B][/COLOR]</title>
@@ -847,6 +947,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "P"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Para Wong Foo, Obrigado por Tudo! Julie Newmar (1995) - FHD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/4CMD-FM/LS-To.Wong.Foo.Thanks.For.Everything.1995.FHD.DUB.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yWVWQXESEkT2Yov3I9PmSpIc6OM.jpg</thumbnail>				
+<fanart>https://www.themoviedb.org/t/p/original/hSwniAgIxXJtvKXJv8IQfwUcvjD.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Para Wong Foo, Obrigado por Tudo! Julie Newmar
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUB
+[COLOR orange]ANO - 1995
+[COLOR orange]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Três drag queens viajam pelo interior dos Estados Unidos, quando o carro em que estão quebra e elas ficam encalhadas numa cidadezinha onde nada acontece. Ou acontecia.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Procurado (1997) - FHD DUAL+LEG[/B][/COLOR]</title>
@@ -893,17 +1008,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "Q"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
-<item>				
-<title>[COLOR white][B]Quando os Bravos se Calam (1998)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.tubemusic/?video_id=gaHLvme40yo$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Quando os Bravos se Calam[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6BBCB5C483AED5A1092C2C5475CDF860005DF8DE$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Quando os Bravos se Calam - FHD LEG[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-Quando.os.Bravos.Se.Calam.1998.FHD.LFIX.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Quando os Bravos se Calam - FHD LEG-FIX[/B][/COLOR]</link>				
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Quando os Bravos se Calam (1998) - FHD LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-Quando.os.Bravos.Se.Calam.1998.FHD.LFIX.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/65qqVZqOn2vdfv0esZ3I6wUsfV9.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/geIFh6bBbJmJGnQDBLy3LlNOLPA.jpg</fanart>				
-<info>O soldado Manning se destacou na 2ª Guerra nos campos de batalha. Promovido a capitão por ato de bravura, ele concebe arrojado plano para destruir grupo de tanques alemães, mas é gravemente ferido no confronto.</info>				
-<genre>GUERRA</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<fanart>https://www.themoviedb.org/t/p/original/geIFh6bBbJmJGnQDBLy3LlNOLPA.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Quando os Bravos se Calam
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD LEG
+[COLOR orange]ANO - 1998
+[COLOR orange]GUERRA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O soldado Manning se destacou na 2ª Guerra nos campos de batalha. Promovido a capitão por ato de bravura, ele concebe arrojado plano para destruir grupo de tanques alemães, mas é gravemente ferido no confronto.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Queima de Arquivo (1996) - HD DUB[/B][/COLOR]</title>
@@ -955,72 +1073,88 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
-<item>				
-<title>[COLOR white][B]Stalingrado - A Batalha Final (1993)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.tubemusic/?video_id=kDAAXmRaNzg$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Stalingrado - A Batalha Final[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-Stalingrad.1993.FHD.legfix.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Stalingrado - A Batalha Final - DUB - LEG FIX[/B][/COLOR]</link>				
-<link>https://z-28b3jxzl1og7.bitchute.com/OsqmkKQffiY2/B2lQkMNG4QRv.mp4$nome=[COLOR orange][B]SERVER ALT[COLOR yellow] -> [COLOR white]Stalingrado - A Batalha Final - DUB - LEG FIX[/B][/COLOR]</link>				
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Stalingrado - A Batalha Final (1993) - FHD LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-Stalingrad.1993.FHD.legfix.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rB78VDAOK94KJWp9ofgE3GSQEor.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/cTHccDdFHmFef6RKtjoWmIyrSke.jpg</fanart>				
-<info>Tendo como ponto de vista o oficial alemão Hans von Witzland (Thomas Kretschmann) e seu batalhão, o filme aborda a batalha de Stalingrado que ocorreu entre 1942 e 1943 durante a Segunda Guerra Mundial. A sangrenta batalha foi a primeira grande derrota da Alemanha nazista. </info>				
-<genre>GUERRA</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<fanart>https://www.themoviedb.org/t/p/original/cTHccDdFHmFef6RKtjoWmIyrSke.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Stalingrado - A Batalha Final
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD LEG
+[COLOR orange]ANO - 1993
+[COLOR orange]GUERRA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O oficial alemão Hans von Witzland e seu batalhão, enfrentam a batalha de Stalingrado que ocorreu entre 1942 e 1943 durante a Segunda Guerra Mundial. A sangrenta batalha foi a primeira grande derrota da Alemanha nazista.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "T"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
-<item>				
-<title>[COLOR white][B]Tempo Esgotado (1995)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.tubemusic/?video_id=DAj4NRw3IeY$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Tempo Esgotado[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Tempo.Esgotado.1995.SD.DUB.ts$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Tempo Esgotado - SD DUB[/B][/COLOR]</link>				
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Tempo Esgotado (1995) - SD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Tempo.Esgotado.1995.SD.DUB.ts</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/vB7zrVslVgGPEqKXh8Q4qVRdqbN.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/u1JzntSiNw9vUCqYIOcNDajWwdZ.jpg</fanart>				
-<info>Um homem comum e inexpressivo é forçado a uma situação em que é instruído a matar um político para salvar sua filha sequestrada.</info>				
-<genre>CRIME E DRAMA</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<fanart>https://www.themoviedb.org/t/p/original/u1JzntSiNw9vUCqYIOcNDajWwdZ.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Tempo Esgotado
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO - 1995
+[COLOR orange]CRIME E DRAMA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um homem comum e inexpressivo é forçado a uma situação em que é instruído a matar um político para salvar sua filha sequestrada.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>				
-<title>[COLOR white][B]Titanic (1997)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.tubemusic/?video_id=0uWkF-gz7jI$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Titanic[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ea7bec55a1cedb97207833347e5d60d5b0328e3$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Titanic - HD DUAL[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0804d193020861dc018ddcefb81ecb9129a3c14e$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Titanic - FHD DUAL[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Titanic.1997.FHD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Titanic - FHD DUB[/B][/COLOR]</link>				
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Titanic (1997) - FHD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Titanic.1997.FHD.dub.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/cwRgiAjXREMbfr270MDZ73kQqIf.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/yDI6D5ZQh67YU4r2ms8qcSbAviZ.jpg</fanart>				
-<info>Um artista pobre e uma jovem rica se conhecem e se apaixonam na fatídica jornada do Titanic, em 1912.</info>				
-<genre>CRIME E DRAMA</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<fanart>https://www.themoviedb.org/t/p/original/yDI6D5ZQh67YU4r2ms8qcSbAviZ.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Titanic
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUB
+[COLOR orange]ANO - Titanic (1997)
+[COLOR orange]CRIME E DRAMA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um artista pobre e uma jovem rica se conhecem e se apaixonam na fatídica jornada do Titanic, em 1912.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "U"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 <item>
-<title>[COLOR white][B]Um Assassino à Solta (1997)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=Hf-8EANH1N8$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Um Assassino a Solta[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:012AE586A8AA00BC3B4D50B0EA3016826E6764D9$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Um Assassino a Solta - HD DUAL[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Um.Assassino.a.Solta.1997.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Um Assassino a Solta - FHD DUAL[/B][/COLOR]</link>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Um Assassino à Solta (1997) - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Um.Assassino.a.Solta.1997.FHD.DUAL+LEG.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/mJYfvl1TpcE3PxbAKTM1Gplag9o.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/awC7dHRsq1z5vlBcbV42CAeTUrF.jpg</fanart>
-<info>Agente do FBI é escalado para caçar assassino em série que aterroriza uma pequena cidade do Texas.</info>
-<genre>CRIME E DRAMA</genre>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Um Assassino à Solta
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO - 1997
+[COLOR orange]CRIME E DRAMA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Agente do FBI é escalado para caçar assassino em série que aterroriza uma pequena cidade do Texas.
+[/COLOR]</info>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR white][B]Um Gigante de Talento (1994)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=jGMoF9Qji0w$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Um Gigante de Talento[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/4CMD-FM/LS-Um.Gigante.de.Talento.1994.HD.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Um Gigante de Talento - SD DUB[/B][/COLOR]</link>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Um Gigante de Talento (1994) - HD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/4CMD-FM/LS-Um.Gigante.de.Talento.1994.HD.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/djPPaXIf5d9PRpmSXXLYonAkIFe.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/z25QroFHstdSqVuQfeGqpLu49DK.jpg</fanart>
-<info>Um treinador de basquete descobre o jovem Saleh, um talentoso craque africano.</info>
-<genre>COMÉDIA</genre>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Um Gigante de Talento
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB
+[COLOR orange]ANO - 1994
+[COLOR orange]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um treinador de basquete descobre o jovem Saleh, um talentoso craque africano.
+[/COLOR]</info>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]U.S. Marshals - Os Federais (1998) - FHD DUB[/B][/COLOR]</title>
@@ -1041,18 +1175,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "V"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
-<item>				
-<title>[COLOR white][B]Vida de Inseto (1998)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.tubemusic/?video_id=znXehHytQcM$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Vida de Inseto [/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f1619d92647d3aad4b2ec1fa8db61ddef4eea13f$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Vida de Inseto - HD DUB[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:72d2c69d8820b0d15ef3bac34ff689333b4a98be$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Vida de Inseto - FHD LEG[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-FM/LS-Vida.de.Inseto.1998.FHD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Vida de Inseto - FHD DUB[/B][/COLOR]</link>				
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Vida de Inseto (1998) - FHD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/7ANM-FM/LS-Vida.de.Inseto.1998.FHD.dub.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/78DguPOgZwaYmXA3lHNrCEsYO4d.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/57N1OIMvx8cE9AW1hP55fCCdKuk.jpg</fanart>				
-<info>Flik é uma formiga cheia de ideias e sempre causa problemas na sua colônia. Seu último acidente foi destruir os alimentos que seriam usados para pagamento ao gafanhoto Hopper. Agora, Hopper está exigindo o dobro, senão a colônia será aniquilada. Para evitar o desastre, Flik tenta recrutar combatentes para defender o local, e quando encontra um bando de insetos voadores, ele acredita que encontrou a sua salvação.</info>				
-<genre>ANIMAÇÃO</genre>  				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<fanart>https://www.themoviedb.org/t/p/original/57N1OIMvx8cE9AW1hP55fCCdKuk.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Vida de Inseto
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUB
+[COLOR orange]ANO - 1998
+[COLOR orange]ANIMAÇÃO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Flik é uma formiga cheia de ideias e sempre causa problemas na sua colônia. Seu último acidente foi destruir os alimentos que seriam usados para pagamento ao gafanhoto Hopper. Agora, Hopper está exigindo o dobro, senão a colônia será aniquilada. Para evitar o desastre, Flik encontra um bando de insetos voadores, ele acredita que encontrou a sua salvação.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "X"				
