@@ -215,8 +215,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Falcão dos Mares
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB - HD LEG FIX
-[COLOR orange]ANO - 1951
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1951
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Em 1807, o Capt. Hornblower da marinha britânica é enviado em uma missão secreta para desviar aliados espanhóis de Napoleão.
 [/COLOR]</info>
 </item>
@@ -291,8 +291,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Júlio César
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]SD DUAL+LEG
-[COLOR orange]ANO - 1953
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1953
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Em Roma, César é assassinado, pois os senadores alegam que sua ambição o transformaria em um tirano.
 [/COLOR]</info>
 </item>
@@ -371,9 +371,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]O Cálice Sagrado
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]SD DUB
-[COLOR orange]ANO - 1954
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1954
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um artesão grego é encarregado de moldar a taça de Cristo em prata e esculpir em torno de sua borda os rostos dos discípulos e do próprio Jesus. Ele viaja para Jerusalém e, eventualmente, para Roma para completar a tarefa.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Cangaceiro (1953) - SD DUB+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/FLMS/9CRDR-FM/LS-O.Cangaceiro.1953.SD.DUB+LEG-LS.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3BRWdbuaoyRlyMLQ3ovVKicBJtZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3gYTDrDCgT7LEteSVBfdqbhuKWS.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]O Cangaceiro 
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]SD DUB+LEG
+[COLOR orange]ANO - 1953
+[COLOR orange]CRIME E DRAMA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Ao assaltar uma vila o bando do capitão Galdino sequestra uma jovem professora, e a paixão de um membro importante do bando por ela pode criar problemas para todos do grupo.
 [/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -392,6 +407,22 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Egípcio (1954) - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/A-DRV-1/FLMS/2EPC-FM/LS-O.Egipcio.1954.FHD.DUAL+LEG-LS.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bbUENOF8i5yNjMK3rKZTAe8VM9V.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tpLJQaasSewlEG8lqPHw81mvrIo.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]O Egípcio 
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1954
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]No Egito antigo, Sinhue, um órfão pobre, se torna um médico brilhante e é indicado para servir o novo faraó. Conforme Sinhue descobre as intrigas e segredos da corte da turbulenta 18a. dinastia, ele tem as respostas que procurava há muitos anos.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
 item>				
 <title>[COLOR white][B]O Manto Sagrado - 1953[/B][/COLOR]</title>				
@@ -457,8 +488,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Os Dez Mandamentos
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUB
-[COLOR orange]ANO - 1956
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1956
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A épica vida de Moisés , desde quando foi colocado nas águas em um cesto e foi adotado por uma princesa egípcia, até quando descobre sua real condição e decide liderar seu povo que, escravizado pelos egípcios, anseia pela liberdade.
 [/COLOR]</info>
 </item>
@@ -472,8 +503,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Os Cavaleiros da Távola Redonda
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB
-[COLOR orange]ANO - 1953
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1953
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O recém coroado rei da Inglaterra, Arthur Pendragon dedica seu reinado e a irmandade dos Cavaleiros da Távola Redonda aos ideais de paz e justiça. 
 [/COLOR]</info>
 </item>
@@ -512,8 +543,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Quo Vadis
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD HD DUB DUAL LEG
-[COLOR orange]ANO - 1951
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1951
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]As atrocidades de Nero são cada vez mais ultrajantes e, quando ele queima Roma e culpa os cristãos, Marcus salva Lygia e a família dela. Nero captura todos os cristãos e os atira aos leões mas, no final, Marcus, Lygia e o cristianismo prevalecerão.
 [/COLOR]</info>
 </item>
@@ -546,8 +577,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Rebelião na Índia
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD LEG
-[COLOR orange]ANO - 1953
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1953
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Históra passada no século 19, na Índia, sobre o capitão Alan King, oficial britânico de origem hindu que luta contra o preconceito no exército
 [/COLOR]</info>
 </item>
@@ -571,6 +602,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "S"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Salomão e a Rainha de Sabá (1959) - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/A-DRV-1/FLMS/2EPC-FM/LS-Salomao.e.a.Rainha.de.Saba.1959.FHD.DUAL+LEG-LS.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1ULjuB9F8TeRbEcCDhBOzEAkc5F.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fpWIXlNObDjhKvkSsmfiZTliyTF.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Salomão e a Rainha de Sabá 
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1959
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Salomão enfrenta ameaças vindas de seu irmão ciumento e despossuído Adonias, o faraó egípcio e a intrigante rainha de Sabá. Pouco antes de sua morte no antigo Israel, o rei Davi teve uma visão de Deus dizendo que seu filho mais novo, Salomão, deveria sucedê-lo como rei.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Sangue de Pistoleiro (1958) - FHD DUB[/B][/COLOR]</title>
@@ -629,8 +675,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Terra dos Faraós
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB+LEG
-[COLOR orange]ANO - 1955
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1955
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]No antigo Egito um faraó, ao retornar de uma campanha vitoriosa, decide construir uma pirâmide, onde será enterrado juntamente com seu tesouro, que espera desfrutar em uma segunda vida. 
 [/COLOR]</info>
 </item>
@@ -642,14 +688,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Ulysses (1954) - HD LEG[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/1:/FLMS/2EPC-FM/LS-Ulysses.1954.HD.LEG.mkv</link>
+<link>https://luminart.ls.lsnew.workers.dev/2:/FLMS/2EPC-FM/LS-Ulysses.1954.HD.LEG.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/cQMpqH0NnxQS7Uax95hPKXy33mB.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/e9M2FYOLUFJkLWaH2nl8RxuGiwD.jpg</fanart>
 <info>[COLOR white]Assista aqui o filme: 
 [B]Ulysses
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]HD LEG
-[COLOR orange]ANO - 1954
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1954
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Ulysses realiza, após 10 anos de guerra na batalha por Tróia, a uma jornada por terra e mar para tentar voltar para casa, em Ítaca, e para sua esposa Penélope
 [/COLOR]</info>
 </item>
@@ -697,8 +743,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Vikings, Os Conquistadores
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB+LEG
-[COLOR orange]ANO - 1958
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1958
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Einar e Eric são meio-irmãos, um é o príncipe e herdeiro do trono inglês; o outro é o filho bastardo de um selvagem viking. Até que em um ataque surpresa, os Vikings sequestram a princesa Morgana, o que faz Einar e Eric tentarem recuperá-la.
 [/COLOR]</info>
 </item>
