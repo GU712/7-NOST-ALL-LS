@@ -209,17 +209,35 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Mulher Maravilha (1975) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/C7-SRS-Mulher.Maravilha.OLD-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/9X9NAZLFF2DjPUzckIuv9ExQ2KF.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/bgR5Sx9bknJZ3sldxroj1SNceI8.jpg</fanart>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Mulher Maravilha (1975-1978) - FHD COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/C2B1-SRS-Mulher.Maravilha.1975.FHD-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/uOnakoQhq7jEWZm1B7v7QcVk4cG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qwPc8zjwUYTcpKWzvw7ux4cwClB.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]Mulher Maravilha
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS - 1975 a 1978
-[COLOR orange]SUPER-HERÓIS
-[COLOR orange]03 TEMPS - 60 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]As aventuras da maior das super-heroínas.Diana Palmer é a Mulher Maravilha
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1975 a 1978
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 60 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Uma super-heroína guerreira de origem greco-romana, alter ego da Princesa Diana de Themyscira, ilha oculta, também conhecida como Ilha Paraíso, local da civilização de amazonas.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Mulher Maravilha (1975-1978) - HD COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/C2B2-SRS-Mulher.Maravilha.1975.HD-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/uOnakoQhq7jEWZm1B7v7QcVk4cG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qwPc8zjwUYTcpKWzvw7ux4cwClB.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Mulher Maravilha
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1975 a 1978
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 60 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Uma super-heroína guerreira de origem greco-romana, alter ego da Princesa Diana de Themyscira, ilha oculta, também conhecida como Ilha Paraíso, local da civilização de amazonas.
 [/COLOR]</info>
 </channel>
 </channels>
