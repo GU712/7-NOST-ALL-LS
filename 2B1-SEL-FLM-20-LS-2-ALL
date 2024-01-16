@@ -1,1 +1,30 @@
-2B1-SEL-FLM-20-LS-2-ALL
+#EXTM3U
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" ,[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" ,[COLOR orange][B]FILMES ANOS 20[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5xSYGU8fBOJIK5UN5nnIYkcqza6.jpg" ,[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]Em Busca do Ouro (1925)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1920/Em.Busca.do.Ouro.(1925).FHD.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oUGO7ZTjXdMfsfK8dm1wgiGXVfT.jpg" ,[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]O Circo (1928)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1920/O.Circo.(1928).FHD.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oUGO7ZTjXdMfsfK8dm1wgiGXVfT.jpg" ,[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]O Circo (1928)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1920/O.Circo.(1928).FHD.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8DR5wvUYaSF234MnDi9ruEQOIdJ.jpg" ,[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]O Garoto (1921)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1920/O.Garoto.(1921).FHD.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eQokuAbdbmx1KICBtvQdm4V7SeC.jpg" ,[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]O Imigrante (1917)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1920/O.Imigrante.(1917).HD.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/i2MZq8ZImPjLZ2DP0TstX14ZVx6.jpg" ,[COLOR orange][B]S-AV-2[COLOR yellow] -> [COLOR white]Vida de Cachorro (1918)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1920/Vida.de.Cachorro.(1918).HD.mp4
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR black][B].[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR orange][B]NAO ENCONTROU O QUE BUSCAVA ?[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
