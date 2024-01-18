@@ -61,7 +61,8 @@ Solicite ao SUPORTE AO USUÁRIO .
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
+<channels>
+<channel>
 <name>[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Anos 50 (Filmes)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/main/2B4-SEL-FLM-50-LS-2-ALL</externallink>
 <thumbnail>https://i.ibb.co/V38rxzZ/FLM-ICON-DEC-50-NOST.png</thumbnail>
