@@ -1,1 +1,230 @@
-2B2-SEL-FLM-30-LS-2-ALL
+#EXTM3U
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" ,[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V38rxzZ/FLM-ICON-DEC-50-NOST.png" ,[COLOR orange][B]FILMES ANOS 50[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]12 Homens e Uma Sentença[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/12.Homens.e.Uma.Sentensa.mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]12 Homens e Uma Sentença[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/12.Homens.e.Uma.Sentensa.mp4
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A 20 Milhões de Milhas da Terra (1957)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/A.20.Milhoes.de.Milhas.da.Terra.(1957).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Bandeira Negra (1952)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/A.Bandeira.Negra.(1952).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Batalha do Rio da Prata (1956)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/A.Batalha.do.Rio.da.Prata.(1956).mp4
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Bela Adormecida (1959)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/A.Bela.Adormecida.(1959).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Besta da Caverna Assombrada (1959)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/A.Besta.da.Caverna.Assombrada.(1959).mp4
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Caravana da Morte (1955)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/A.Caravana.da.Morte.(1955).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Dama e o Vagabundo (1955)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/A.Dama.e.o.Vagabundo.(1955).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Defesa do Castelo (1969)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/A.Defesa.do.Castelo.(1969).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Dez Segundos do Inferno (1959)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/A.Dez.Segundos.do.Inferno.(1959).mp4
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Flor do Pântano (1957)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/A.Flor.do.Pantano.(1957).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Malvada (1950)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/A.Malvada.(1950).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Ponte do Rio Kwai (1957)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/A.Ponte.do.Rio.Kwai.(1957).mp4
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Ponte do Rio Kwai (1957)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/A.Ponte.do.Rio.Kwai.(1957).mp4
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Princesa de Samarkanda (1951)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/A.Princesa.de.Samarkanda.(1951).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Princesa e o Plebeu (1953)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/A.Princesa.e.o.Plebeu.(1953).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Raposa do Deserto (1951)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/A.Raposa.do.Deserto.(1951).mp4
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Serpente do Nilo (1953)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/A.Serpente.do.Nilo.(1953).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Vênus de Bagdá (1953)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/A.Venus.de.Bagda.(1953).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Vênus de Bagdá (1953)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/A.Venus.de.Bagda.(1953).mp4
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Vingança dos Piratas (1951)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/A.Vingansa.dos.Piratas.(1951).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Volta ao Mundo em 80 Dias (1956)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/A.Volta.ao.Mundo.em.80.Dias.(1956).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Alice no País das Maravilhas (1951)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Alice.no.Pais.das.Maravilhas.(1951).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Amargo Triunfo (1957)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Amargo.Triunfo.(1957).mp4
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Antro de Desalmados (1959)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Antro.de.Desalmados.(1959).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Artistas e Modelos (1955)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Artistas.e.Modelos.(1955).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]As Neves do Kilimanjaro (1952)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/As.Neves.do.Kilimanjaro.(1952).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]As Pontes de Toko Ri (1954)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/As.Pontes.de.Toko.Ri.(1954).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Ate o Ultimo Homem (1951)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Ate.o.Ultimo.Homem.(1951).mp4
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Ben-Hur (1959)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Ben-Hur.(1959).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Ben-Hur (1959)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Ben-Hur.(1959).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Cabeça de Praia (1954)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Cabeza.de.Praia.(1954).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Cantando na Chuva (1952)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Cantando.na.Chuva.(1952).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Captain Horatio Hornblower R N (1951)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Captain.Horatio.Hornblower.R.N.(1951).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Caçador da Fronteira (1957)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Cazador.da.Fronteira.(1957).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Cinderela (1950)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Cinderela.(1950).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Crepúsculo dos Deuses (1950)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Crepusculo.dos.Deuses.(1950).mp4
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Crimes Vingados (1956)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Crimes.Vingados.(1956).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Demetrius e os Gladiadores (1954)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Demetrius.e.os.Gladiadores.(1954).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Demetrius e os Gladiadores (1954)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Demetrius.e.os.Gladiadores.(1954).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Depois do Vendaval The Quiet Man (1952)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Depois.do.Vendaval.The.Quiet.Man.(1952).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Depois do Vendaval The Quiet Man (1952)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Depois.do.Vendaval.The.Quiet.Man.(1952).mp4
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Ferias de Amor Pic Nic (1955)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Ferias.de.Amor.Pic.Nic.(1955).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Flechas de Fogo (1950)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Flechas.de.Fogo.(1950).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Flor de Sangue (1951)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Flor.de.Sangue.(1951).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Glória Feita de Sangue (1957)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Gloria.Feita.de.Sangue.(1957).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Guerra dos Mundos (1953)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Guerra.dos.Mundos.(1953).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Guerra dos Mundos (1953)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Guerra.dos.Mundos.(1953).mp4
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Horizonte de Glórias (1951)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Horizonte.de.glorias.(1951).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Irmão contra Irmão (1958)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Irmao.contra.irmao.(1958).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Ivanhoé (1952)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Ivanhoe.(1952).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Janela Indiscreta (1954)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Janela.Indiscreta.(1954).mp4
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Jim Das Selvas O Homem Crocodilo (1954)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Jim.Das.Selvas.O.Homem.Crocodilo.(1954).mp4
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Johnny Guitar (1954)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Johnny.Guitar.(1954).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Knights of the Round Table (1953)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Knights.of.the.Round.Table.(1953).avi
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Marcelino Pao e Vinho (1955)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Marcelino.Pao.e.Vinho.(1955).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Mares Violentos (1955)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Mares.Violentos.(1955).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Meus Dois Carinhos (1957)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Meus.Dois.Carinhos.(1957).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Mohawk A Lenda dos Iroquis (1956)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Mohawk.A.Lenda.dos.Iroquis.(1956).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Museu de Cera (1953)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Museu.de.Cera.(1953).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Natal Branco (1954)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Natal.Branco.(1954).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Náufragos do Titanic (1953)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Naufragos.do.Titanic.(1953).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Nunca Fui Santa (1956)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Nunca.Fui.Santa.(1956).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Corsário sem Pátria (1958)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/O.Corsario.sem.Patria.(1958).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Egípcio (1954)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/O.Egipcio.(1954).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Filho Pródigo (1955)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/O.Filho.Prodigo.(1955).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Gavião do Deserto (1950)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/O.Gaviao.do.Deserto.(1950).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Gavião e a Flecha (1950)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/O.Gaviao.e.a.Flecha.(1950).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Meninão (1955)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/O.Meninao.(1955).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Morro da Traição (1954)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/O.Morro.da.Traisao.(1954).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Prisioneiro de Casbah (1953)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/O.Prisioneiro.de.Casbah.(1953).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Rio das Almas Perdidas (1954)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/O.Rio.das.Almas.Perdidas.(1954).avi
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Rio das Almas Perdidas (1954)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/O.Rio.das.Almas.Perdidas.(1954).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Vale dos Reis (1954)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/O.Vale.dos.Reis.(1954).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Velho e o Mar (1958)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/O.Velho.e.o.Mar.(1958).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Xerife de Queixo Quebrado (1958)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/O.Xerife.de.Queixo.Quebrado.(1958).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Onde Impera a Traição (1952)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Onde.Impera.a.Traisao.(1952).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Os Deuses Vencidos (1958)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Os.Deuses.Vencidos.(1958).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Os Dez Mandamentos (1956)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Os.Dez.Mandamentos.(1956).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Os Homens Rãs (1951)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Os.Homens.Ras.(1951).mp4
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Os Sete Samurais (data)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Os.Sete.Samurais.(data).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Os Trabalhos de Hércules (1958)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Os.Trabalhos.de.Hercules.(1958).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Paixão de Beduino (1951)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Paixao.de.Beduino.(1951).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Papai Batuta (1950)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Papai.Batuta.(1950).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Peter Pan (1953)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Peter.Pan.(1953).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Quo Vadis (1951)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Quo.Vadis.(1951).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Rei Circo (1954)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Rei.Circo.(1954).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Rio Bravo (1959)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Rio.Bravo.(1959).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Rios de Aventura (1955)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Rios.de.Aventura.(1955).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Robin Hood O Justiceiro (1952)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Robin.Hood.O.Justiceiro.(1952).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Sangue de Bárbaros (1956)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Sangue.de.Barbaros.(1956).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Sangue de Bárbaros (1956)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Sangue.de.Barbaros.(1956).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Sea Devils (1953)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Sea.Devils.(1953).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Sete Noivas para Sete Irmãos (1954)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Sete.Noivas.para.Sete.Irmaos.(1954).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Simbad e a Princesa (1958)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Simbad.e.a.Princesa.(1958).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Sofrendo Bola (1953)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Sofrendo.Bola.(1953).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]The Chaplin Revue (1959)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/The.Chaplin.Revue.(1959).mp4
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]The Cruel Sea (1953)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/The.Cruel.Sea.(1953).mp4
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]The Last Days of Pompeii (1959)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/The.Last.Days.of.Pompeii.(1959).avi
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Ultimato a Terra The 27th Day (1957)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Ultimato.a.Terra.The.27th.Day.(1957).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Ulysses (1954)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Ulysses (1954).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Ulysses (1954)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Ulysses.(1954).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Vikings os Conquistadores (1958)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Vikings.os.Conquistadores.(1958).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Warlock (1959)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Warlock.(1959).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Winchester 73 (1950)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1950/Winchester.73.(1950).mkv
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR black][B].[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR orange][B]NAO ENCONTROU O QUE BUSCAVA ?[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
