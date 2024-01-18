@@ -1,1 +1,93 @@
-2B2-SEL-FLM-30-LS-2-ALL
+#EXTM3U
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" ,[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TgzD3T4/FLM-ICON-DEC-40-NOST.png" ,[COLOR orange][B]FILMES ANOS 40[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Caixinha de Surpresas (1945)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1940/A.Caixinha.de.Surpresas.(1945).avi
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Felicidade Não Se Compra (1946)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1940/A.Felicidade.Nao.Se.Compra.(1946).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Gaivota Negra (1944)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1940/A.Gaivota.Negra.(1944).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Patrulha de Bataan (1943)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1940/A.Patrulha.de.Bataan.(1943).mp4
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Rainha do Nilo Legendado (1945)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1940/A.Rainha.do.Nilo.Legendado.(1945).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Alo Amigos (1942)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1940/Alo.Amigos.(1942).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]As Aventuras de Ichabod e Sr. Sapo (1949)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1940/As.Aventuras.de.Ichabod.e.Sr.Sapo.(1949).avi
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]As Aventuras de Ichabod e Sr. Sapo (1949)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1940/As.Aventuras.de.Ichabod.e.Sr.Sapo.(1949).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Back to Battan (1945)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1940/Back.to.Battan.(1945).mp4
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Bambi (1942)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1940/Bambi.(1942).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Califórnia (1947)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1940/California.(1947).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Cidadão Kane (1941)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1940/Cidadao.Kane.(1941).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Cidadão Kane (1941)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1940/Cidadao.Kane.(1941).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Como e Bom Se Divertir (1947)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1940/Como.e.Bom.Se.Divertir.(1947).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Dumbo (1941)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1940/Dumbo.(1941).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]E o Vento Levou (1940)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1940/E.o.Vento.Levou.(1940).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Fantasia (1940)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1940/Fantasia.(1940).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Frankenstein Encontra o Lobisomem (1943)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1940/Frankenstein.Encontra.o.Lobisomem.(1943).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Gavião do Mar (1940)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1940/Gaviao.do.Mar.(1940).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Gilda (1946)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1940/Gilda.(1946).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Joana D'Arc (1948)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1940/Joana.D.Arc.(1948).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Joana D'Arc (1948)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1940/Joana.D.Arc.(1948).mp4
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Kismet (1944)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1940/Kismet.(1944).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Minha Amiga Flicka (1943)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1940/Minha.Amiga.Flicka.(1943).mp4
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Música Maestro (1946)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1940/Musica.Maestro.(1946).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Céu Mandou Alguem (1948)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1940/O.Ceu.Mandou.Alguem.(1948).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Filho Do Sol (1947)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1940/O.Filho.Do.Sol.(1947).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Grande Ditador (1940)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1940/O.Grande.Ditador.(1940).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Grande Segredo (1946)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1940/O.Grande.Segredo.(1946).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Homem que Eu Amo-Raquel a Escrava Branca (1948)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1940/O.Homem.que.Eu.Amo.Raquel.a.Escrava.Branca.(1948).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Tesouro de Sierra Madre (1948)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1940/O.Tesouro.de.Sierra.Madre.(1948).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Tesouro de Sierra Madre (1948)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1940/O.Tesouro.de.Sierra.Madre.(1948).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Pinóquio (1940)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1940/Pinoquio.(1940).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Simbad O Marujo (1947)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1940/Simbad.O.Marujo.(1947).mp4
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]The Black Swan (1942)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1940/The.Black.Swan.(1942).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Virtude Selvagem (1946)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1940/Virtude.Selvagem.(1946).avi
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Você Já foi a Bahia (1944)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1940/Voce.Ja.foi.a.Bahia.(1944).mkv
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR black][B].[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR orange][B]NAO ENCONTROU O QUE BUSCAVA ?[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
