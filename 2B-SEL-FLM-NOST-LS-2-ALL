@@ -95,7 +95,8 @@ Solicite ao SUPORTE AO USUÁRIO .
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
+<channels>
+<channel>
 <name>[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Anos 70 (Filmes)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/main/2B6-SEL-FLM-70-LS-2-ALL</externallink>
 <thumbnail>https://i.ibb.co/bP6YdmH/FLM-ICON-DEC-70-NOST.png</thumbnail>
