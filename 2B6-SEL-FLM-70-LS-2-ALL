@@ -7,152 +7,144 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Águia Pousou (1976)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hDe09vAcmDdEjtDN1i4koLC6Or.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Águia Pousou (1976)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/A.Aguia.Pousou.(1976).mp4
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Batalha do Planeta dos Macacos (1973)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rq6MQqiUR0hOMW9kpV1YLMbsq7E.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Batalha do Planeta dos Macacos (1973)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/A.Batalha.do.Planeta.dos.Macacos.(1973).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Fantástica Fabrica De Chocolate (1971)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yDg8b2FgDQCVkLEkrUtqP6sdRew.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Conquista do Planeta dos Macacos (1971)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Conquista.do.Planeta.dos.Macacos.(1971).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/noanwChjqswpEz5FTaqdbztfSsB.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Fantástica Fabrica De Chocolate (1971)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/A.Fantastica.Fabrica.De.Chocolate.(1971).mp4
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Fera das Neves (1977)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4gInqbka2DIc34Z5bsczWRTRcjc.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Fera das Neves (1977)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/A.Fera.das.Neves.(1977).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Grande Ofensiva Breakthrough (1979)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oUnZj3II0ZKidH8ihA2OZBbXEUW.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Grande Batalha (1978)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Il.grande.attacco.(1978).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/aQ7SfP4nTOoH5rp4gYKz2zecwH4.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Grande Ofensiva Breakthrough (1979)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/A.Grande.Ofensiva.Breakthrough.(1979).mp4
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Lenda Do Revólver Dourado (1979)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/seijqdegdx7uZfNskG99MsLFGhe.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Lenda Do Revólver Dourado (1979)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/A.Lenda.Do.Revolver.Dourado.(1979).mp4
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Marca do Dragão (1977)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kiYMJISu7s3PIqsUkl9gdqoGz9o.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Marca do Dragão (1977)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/A.Marca.do.Dragao.(1977).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Montanha Enfeitiçada (1975)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rYPR61n0Q2pT8IDqoHo801AH75g.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Montanha Enfeitiçada (1975)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/A.Montanha.Enfeitizada.(1975).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Nova Furia do Dragão (1976)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3ftGge6Ak0TUu9YxQSYkfaowdvD.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Nova Furia do Dragão (1976)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/A.Nova.Furia.do.Dragao.(1976).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Nova Viagem de Simbad (1973)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w0Ov7NX3RPkkpgnSgVGgo95lPZq.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Nova Viagem de Simbad (1973)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/A.Nova.Viagem.de.Simbad.(1973).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Profecia (1976)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uHemQhtg5n5jPYMLeFFTPfMsvFE.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Profecia (1976)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/A.Profecia.(1976).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Sombra das Pirâmides (1972)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rFWLTry85eBzVHDfRhJaq0uXdOo.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Sombra das Pirâmides (1972)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/A.Sombra.das.Piramides.(1972).mp4
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Terra que o Tempo Esqueceu (1975)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bljPkrtRFev26M1ejZyEsnUVXEB.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Terra que o Tempo Esqueceu (1975)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/A.Terra.que.o.Tempo.Esqueceu.(1975).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Terra que o Tempo Esqueceu (1975)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bljPkrtRFev26M1ejZyEsnUVXEB.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Terra que o Tempo Esqueceu (1975)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/A.Terra.que.o.Tempo.Esqueceu.(1975).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Terra que o Tempo Esqueceu (1975)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bljPkrtRFev26M1ejZyEsnUVXEB.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Terra que o Tempo Esqueceu (1975)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/A.Terra.que.o.Tempo.Esqueceu.(1975).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Viagem dos Condenados (1976)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uXlQ4sJ48pJ3BAITeowdGSOy2cL.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Viagem dos Condenados (1976)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/A.Viagem.dos.Condenados.(1976).mp4
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Aristogatas (1970)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/feu311aXpDoSQC7tNZ6HpE7I1aw.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Aristogatas (1970)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Aristogatas.(1970).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]As Extra Aventuras de Winnie the Pooh (1977)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/drmonezw1z24j1LD5haP56QRIbs.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]As Extra Aventuras de Winnie the Pooh (1977)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/As.Extra.Aventuras.de.Winnie.the.Pooh.(1977).avi
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]As Novas Aventuras do Fusca (1974)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lgbnrrCSFJcR4IHczzV5YPSWHqO.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]As Novas Aventuras do Fusca (1974)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/As.Novas.Aventuras.do.Fusca.(1974).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Ases do Espaço (1976)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gYr1IgfWYTzJoEK8DbCtGX2o1qj.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Ases do Espaço (1976)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Ases.do.Espazo.(1976).mp4
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Assassino A Preço Fixo (1972)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pI8PJMrvwBvG5t7kAhoinz9Kdld.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Assassino A Preço Fixo (1972)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Assassino.A.Prezo.Fixo.(1972).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Assim Nascem os Heróis (1970)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tEFAiAdvhNp2HyoK1ZEIuoYello.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Assim Nascem os Heróis (1970)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Assim.Nascem.os.Herois.(1970).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Aventura na Arábia (1979)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vsNDuUmcIOUAIcZE8yQEDTv3SLG.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Aventura na Arábia (1979)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Aventura.na.Arabia.(1979).avi
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Benji O Adorável Benji (1977)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uVeTZ7BxoWtLUfRIFCOLEhW7PYZ.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Benji (1977)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Benji.O.Adoravel.Benji.(1977).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Bernardo e Bianca (1977)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/Aw8xLg2gTcI0NUpOgZkTFvma6vb.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Bernardo e Bianca (1977)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Bernardo.e.Bianca.(1977).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Canhões para Córdoba (1970)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/enqUfGrXdfmvsgfOrT2mp1KGemH.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Canhões para Córdoba (1970)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Canhoes.para.Cordoba.(1970).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Capone O Gangster (1975)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/g2AoLfKPTFTGTFxvDDegFPLWAsV.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Capone O Gangster (1975)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Capone.O.Gangster.(1975).mkv
 #EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Centralsul o Bairro Proibido (1972)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Centralsul.o.Bairro.Proibido.(1972).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Cidade em Chamas (1979)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/djIDHmCzMy7q4FyW569LyqnW6zM.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Cidade em Chamas (1979)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Cidade.em.Chamas.(1979).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Cidade Violenta (1970)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v91MyjVJxE3f0WgPJ7yQIIuIDQA.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Cidade Violenta (1970)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Cidade.Violenta.(1970).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Conquista do Planeta dos Macacos (1971)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Conquista.do.Planeta.dos.Macacos.(1971).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Contatos Imediatos do Terceiro Grau (1977)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4LYyBpRyQo9FesHvS6SEWwtTynW.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Contatos Imediatos do Terceiro Grau (1977)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Contatos.Imediatos.do.Terceiro.Grau.(1977).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Cross of Iron (1977)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7uBV4ZkpYl8RNJtIs7qTFOC4T8B.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Cross of Iron (1977)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Cross.of.Iron.(1977).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Desejo de Matar 1 (1974)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wuCwVUhQ4cfBlxqvJTUuBGpW3hy.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Desejo de Matar 1 (1974)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Desejo.de.Matar.1.(1974).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Elvis E Assim (1970)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8qwwp5fOPNXDfaqta5x34nDXEDI.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Elvis E Assim (1970)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Elvis.E.Assim.(1970).mp4
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Fortaleza Proibida (1976)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3n53aKJScyFYyIPx9bZpq6VRCwq.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Fortaleza Proibida (1976)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Fortaleza.Proibida.(1976).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Fuga para Athena (1979)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uieooFl9anJtnLVXFcB1mtOqCQo.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Fuga para Athena (1979)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Fuga.para.Athena.(1979).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Garras de Louva a Deus (1978)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vrH7cRQ8PuvNTSCmPfna83sVa3t.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Garras de Louva a Deus (1978)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Garras.de.Louva.a.Deus.(1978).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Grease Nos Tempos da Brilhantina (1978)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7ReGmRHrW4u84CrRvsln1PfkSfJ.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Grease Nos Tempos da Brilhantina (1978)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Grease.Nos.Tempos.da.Brilhantina.(1978).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Halloween A Noite do Terror (1978)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ozkOzFITxLmp5nkjvuawQaRHNF3.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Halloween A Noite do Terror (1978)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Halloween.A.Noite.do.Terror.(1978).mp4
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Herbie Um Fusca em Monte Carlo (1977)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/m0bVwjKjYlw91ITbRHO1xmtIzS3.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Herbie Um Fusca em Monte Carlo (1977)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Herbie.Um.Fusca.em.Monte.Carlo.(1977).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Homens Mortos Nao Fazem Sombra (1970)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Homens.Mortos.Nao.Fazem.Sombra.(1970).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Horror em Alto Mar (1977)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cNVTpufp7wC8zAAw7IFamHiRjuu.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Horror em Alto Mar (1977)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Horror.em.Alto.Mar.(1977).mp4
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Il grande attacco (1978)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Il.grande.attacco.(1978).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Invasores de Corpos (1978)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Invasores.de.Corpos.(1978).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Inverno de Sangue em Veneza (1973)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mL2EtHbasWpgrJ9gilPELhevymV.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Inverno de Sangue em Veneza (1973)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Inverno.de.Sangue.em.Veneza.(1973).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Jesus de Nazaré Parte 1 (1977)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/irXQmurOdZ759J2ki4wrfxR5KMg.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Jesus de Nazaré Parte 1 (1977)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Jesus.de.Nazare.Parte.1.(1977).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Jesus de Nazaré Parte 2 (1977)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/irXQmurOdZ759J2ki4wrfxR5KMg.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Jesus de Nazaré Parte 2 (1977)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Jesus.de.Nazare.Parte.2.(1977).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Jesus de Nazaré Parte 3 (1977)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/irXQmurOdZ759J2ki4wrfxR5KMg.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Jesus de Nazaré Parte 3 (1977)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Jesus.de.Nazare.Parte.3.(1977).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Joe Kidd (1972)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gwVL6a6ZPijqM5hB4n2Ztg1akWY.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Joe Kidd (1972)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Joe.Kidd.(1972).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Keoma (1976)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/25xyFHy1j6qXGTUGWUjnIGEairs.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Keoma (1976)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Keoma.(1976).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]King Kong (1976)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iYj7pTMEyCvB0TFFdAf5jMDVEG9.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]King Kong (1976)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/King.Kong.(1976).mp4
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]King Kong Dublado (1976)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iYj7pTMEyCvB0TFFdAf5jMDVEG9.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]King Kong Dublado (1976)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/King.Kong.Dublado.(1976).mp4
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Laranja Mecânica (1971)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tNgmc9kKLPYn78yTWZ50omc4QVb.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Laranja Mecânica (1971)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Laranja.Mecanica.(1971).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Laranja Mecânica (1971)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tNgmc9kKLPYn78yTWZ50omc4QVb.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Laranja Mecânica (1971)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Laranja.Mecanica.(1971).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Loucuras de Verão (1973)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nuTqifFwXdGeTOzpWQwFtzDw5KF.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Loucuras de Verão (1973)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Loucuras.de.Verao.(1973).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Loucuras Invisíveis (1972)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4gprEhpuvVfgKI0tRyEqg1swyX4.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Loucuras Invisíveis (1972)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Loucuras.Invisiveis.(1972).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Mad Max (1979)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jHJ5xxRjXUfZ6lQHcwibAzepPf2.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Mad Max (1979)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Mad.Max.(1979).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Massacre da Serra Elétrica (1974)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Massacre.serra.eletrica.(1974).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Monty Python em Busca do Cálice Sagrado (1975)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9tUXBsKviJ5imWAouP5HBiZVTNV.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Monty Python em Busca do Cálice Sagrado (1975)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Monty.Python.em.Busca.do.Calice.Sagrado.(1975).mp4
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]No Coração da Terra (1976)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fcDE2HcKO4WAV7kXlfF86PCjKHy.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]No Coração da Terra (1976)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/No.Corazao.da.Terra.(1976).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]No Mundo de 2020 (1973)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ze59A2Y8haRlEZ1VwQFVGPLmlg7.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]No Mundo de 2020 (1973)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/No.Mundo.de.2020.(1973).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Carro A Máquina do Diabo (1977)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kkU0NbnWGZOQKMjVkiAFOZm39VH.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Carro A Máquina do Diabo (1977)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/O.Carro.A.Maquina.do.Diabo.(1977).mp4
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Céu Pode Esperar (1978)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rxvAV1sH49CDXCw40rua9O898is.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Céu Pode Esperar (1978)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/O.Ceu.Pode.Esperar.(1978).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Chamado 2 (2005)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/O.Chamado.2.(2005).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Exorcista DC (1973)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/z8X9sQ64GPGeJi5hWQsqDqEVMan.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Exorcista (1973)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/O.Exorcista.DC.(1973).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Exorcista Dublado 1080p 1973[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/z8X9sQ64GPGeJi5hWQsqDqEVMan.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Exorcista (1973) FHD[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/O.Exorcista.Dublado.1080p.1973.mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Expresso da Meia Noite (1978)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/aLXyg8Vjtv8bprQ8MmSQotHNlVv.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Expresso da Meia Noite (1978)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/O.Expresso.da.Meia.Noite.(1978).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Fabuloso Ladrão de Bagdá (1978)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/n8tRSntGJM81ipKg4JHa8I9AjVl.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Fabuloso Ladrão de Bagdá (1978)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/O.Fabuloso.Ladrao.de.Bagda.(1978).avi
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Filho de Ali Babá (1952)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/O.Filho.de.Ali.Baba.(1952).mkv
 #EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Guarda Costas (1978)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/O.Guarda.Costas.(1978).mkv
 #EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Homem Cobra (1973)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/O.Homem.Cobra.(1973).avi
 #EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Instrutor da Morte (1979)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/O.Instrutor.da.Morte.(1979).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2hXkFRUU0eN60QLu8jANRwbhEgQ.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Massacre da Serra Elétrica (1974)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Massacre.serra.eletrica.(1974).mkv
 #EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Mestre Invencível (1978)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/O.Mestre.Invencivel.(1978).mkv
 #EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Mundo dos Aventureiros (1970)[/B][/COLOR]
@@ -173,12 +165,16 @@ https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/O.Trem.do.Inferno.(1975).m
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Operacao.Franca.(1971).mp4
 #EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Os 12 Trabalhos de Asterix (1976)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Os.12.Trabalhos.de.Asterix.(1976).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/64pCc2onLRxFt73ZaFeZvzZHeI9.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Os Cadáveres não Fazem Sombra (1970)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Homens.Mortos.Nao.Fazem.Sombra.(1970).mkv
 #EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Os Cinco Venenos de Shaolin  (1978)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Os.Cinco.Venenos.de.Shaolin..(1978).mkv
 #EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Os Embalos de Sábado a Noite (1977)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Os.Embalos.de.Sabado.a.Noite.(1977).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Os Invasores de Corpos (1978)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/x3hXjVonuaUk9Kb5LvjpRamSFRP.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Os Invasores de Corpos (1978)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Os.Invasores.de.Corpos.(1978).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/x3hXjVonuaUk9Kb5LvjpRamSFRP.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Os Invasores de Corpos (1978)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Invasores.de.Corpos.(1978).mkv
 #EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Os Smurfs E A Flauta Mágica (1975)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1970/Os.Smurfs.E.A.Flauta.Magica.(1975).avi
 #EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Papillon (1973)[/B][/COLOR]
