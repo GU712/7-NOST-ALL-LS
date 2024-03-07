@@ -7,7 +7,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fDePIZD4IEbqgtoQmiBNR7kMLtx.jpg ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Bruma Assassina (1980)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fDePIZD4IEbqgtoQmiBNR7kMLtx.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Bruma Assassina (1980)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1980/A.Bruma.Assassina.(1980).mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bFZ8kzisyRWoGLwAKO9Y2wRIdWE.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Floresta das Esmeraldas (1985)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1980/A.Floresta.das.Esmeraldas.(1985).mkv
@@ -31,15 +31,15 @@ https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1980/A.Hora.do.Pesadelo.5.O.Mai
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1980/A.Lenda.do.Demo.(1989).mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/724kXHDFaSJw1WdYX2qi5XkYMLb.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Lenda dos Defensores de Atena (1988)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1980/A.Lenda.dos.Defensores.de.Atena.(1988).mp4
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Mosca (1986)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dQWmNTzZBRuxDGiLsuKuPXJQES1.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Mosca (1986)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1980/A.Mosca.(1986).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Pequena Sereia (1989)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bl0XvEAEJ2mSUzNFuieyu1gvTXs.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Pequena Sereia (1989)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1980/A.Pequena.Sereia.(1989).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Primeira Transa de Jonathan (1985)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6sRIOGh1ltePR2SBcrz5zIRjUV.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Primeira Transa de Jonathan (1985)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1980/A.Primeira.Transa.de.Jonathan.(1985).mp4
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Profecia 3 O Conflito Final (1981)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ziRicazl5R5LgalKWT8aNjnu7CX.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Profecia 3 O Conflito Final (1981)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1980/A.Profecia.3.O.Conflito.Final.(1981).mkv
-#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Ratinha Valente (1982)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/j0ZJb39B4c0nRALLuzgoGuevUOW.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Ratinha Valente (1982)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1980/A.Ratinha.Valente.(1982).avi
 #EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Testemunha (1985)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/2:/FLM.DEC/1980/A.Testemunha.(1985).mkv
