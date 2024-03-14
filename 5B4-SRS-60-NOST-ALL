@@ -30,16 +30,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Agente 86 (1965-1969) ATUALIZANDO[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Agente 86 (1965-1969) ATUALIZANDO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C15-SRS-Agente.86-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/czVnqeZZVBoniOO3iYB3nSvuSWO.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/6ahKNfvLGWYDlhUfSagJfClXkoi.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]Agente 86
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]ANO - 1965 a 1969
-[COLOR orange]COMÉDIA
-[COLOR orange]05 TEMPs - 138 EPs
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1965 a 1969
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPs - 138 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O mundo da Espionagem não seria tão engraçado sem o AGENTE 86.
 [/COLOR]</info>
 </channel>
@@ -66,13 +66,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Bonanza (1959-1973) - ATUALIZANDO[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Bonanza (1959-1973) - INCOMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C8-SRS-Bonanza-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/Afbpw3U5hJCsteIZbsGV34wrPpp.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/sgCr36Emd8PgdUghmkxJ2uA1KHM.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]Bonanza
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1959 a 1973
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]14 TEMPS - 430 EPs
@@ -84,16 +84,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Chaparral (1967) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Chaparral (1967-1971) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C10-SRS-Chaparral-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/13MqGrDjk9KfCSt7emHf1nUsZyz.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/uK8TlYFhat6hFYSGTwJMO9Uu2WN.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]Chaparral
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS - 1967 a 1971
-[COLOR orange]WESTERN
-[COLOR orange]04 TEMPS - 98 EPs
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1967 a 1971
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPS - 98 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A família Cannon se esforça para manter o negócio de gado vivo em sua fazenda no Arizona, na década de 1870.
 [/COLOR]</info>
 </channel>
@@ -102,16 +102,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Combate (1962-1966) - INCOMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Combate (1962-1966) - INCOMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2C-LS-GRR-ALL/main/C7-SRS-Combat-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/2FQKBkUvvWhfjpXr5THFLEW3E7e.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/45a4XsUzaNoOAEHsrDEPznZTMGk.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]Combate
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANOS - 1962 a 1966
-[COLOR orange]GUERRA
-[COLOR orange]05 TEMPs - 152 EPs
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1962 a 1966
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]GUERRA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPs - 152 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]As vidas sombrias de um esquadrão de soldados americanos que lutavam contra os alemães na França durante a Segunda Guerra Mundial.
 [/COLOR]</info>
 </channel>
@@ -120,16 +120,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Daktari (1966) - INCOMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Daktari (1966) - INCOMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/C14-SRS-Daktari-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/snopJzlOhhjG5LKkW2SZ6A9YA0W.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/3hKMKPAWzbsjqFQkjg7I22kiJTu.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]Daktari
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANO - 1966
-[COLOR orange]AVENTURA
-[COLOR orange]04 TEMPs - 071 EPs
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]ANO - 1966
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 071 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Marshall Thompson como Dr. Marsh Tracy, um veterinário do fictício Centro de Estudos de Comportamento Animal Wameru na África Oriental.
 [/COLOR]</info>
 </channel>
@@ -138,17 +138,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Daniel Boone (1964) - ATUALIZANDO[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Daniel Boone (1964-1970) - ATUALIZANDO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C7-SRS-Daniel.Boone-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/lL4XDk4wRELIqciMtjcrD4TQ5m6.jpg</thumbnail>
-<fanart>https://infantv.com.br/infantv/wp-content/uploads/2016/08/danielboone_ft.jpg</fanart>
+<fanart>https://www.themoviedb.org/t/p/original/3q8UvO6eeIlFn7DkJ1MexFrselE.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]Daniel Boone
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]ANOS - 1964 a 1970
-[COLOR orange]WESTERN
-[COLOR orange]06 TEMPS - 165  EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Daniel Boone é uma série de televisão norte-americana, do gênero western, produzida pela 20th Century Fox Television e estrelada por Fess Parker no papel de Daniel Boone.
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1964 a 1970
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]06 TEMPS - 165  EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Daniel Boone era um pioneiro, caçador e aventureiro que se estabeleceu com sua família na fronteira dos Estados Unidos, a leste do Mississipi, nos idos de 1770. Em suas muitas aventuras, Boone enfrenta todos os perigos de uma região ainda selvagem pronta para ser descoberta.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -156,17 +156,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Guerra, Sombra e Água Fresca (1965) - COMPLETA [/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Guerra, Sombra e Água Fresca (1965-1970) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C21-SRS-Guerra.S.A.Fresca-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/a97Q8f3dWiaMg2nq79zG5oZVotp.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]Guerra, Sombra e Água Fresca
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS - 1965 a 1970
-[COLOR orange]COMÉDIA
-[COLOR orange]06 TEMPS - 168 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Ambientada durante a Segunda Guerra Mundial, a série mostra as peripécias de um grupo de prisioneiros no Campo 13, narradas com muito bom humor. 
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1965 a 1970
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]06 TEMPS - 168 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]As peripécias de um grupo de prisioneiros no Campo 13, narradas com muito bom humor. Eles se passam por prisioneiros de guerra, mas na verdade, são agentes secretos a serviço dos Aliados.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -210,17 +210,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Missão Impossível (1966) - ATUALIZANDO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C17-SRS-Missao.Impossivel-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/oVhJQdIc0MpGEgrxGyjtu09ZVMr.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/tqb56e4o7AMzyXZJF086sgkeqcb.jpg</fanart>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Missão: Impossível (1966-1972) - ATUALIZANDO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C19-SRS-Missao.Impossivel-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/bAnCcwe70IXHRwUgsRJT4ZlQ47o.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/djaw0GHKFdscur3MZlH6nTjeSGk.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
-[B]NOMEDASERIE
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]ANO - ANOS - 1966 a 1972
-[COLOR orange]CRIME E DRAMA
-[COLOR orange]07 TEMPS - 171  EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O agente Jim Phelps lidera a Impossible Missions Force (IMF), uma agência ultra-secreta, e precisa escolher a equipe que vai trabalhar a cada missão.
+[B]Missão: Impossível
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1966 a 1972
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]07 TEMPs - 000 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O agente Jim Phelps lidera a Impossible Missions Force (IMF), uma agência ultra-secreta, e precisa escolher a equipe que vai trabalhar a cada missão.Sempre disfarçado e com a ajuda de recursos tecnológicos, ele vai enfrentar diversos perigos para desvendar crimes e prender bandidos.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -246,17 +246,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]O Agente da U.N.C.L.E. (1964) - ATUALIZANDO[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Agente da U.N.C.L.E. (1964-1967) - ATUALIZANDO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C14-SRS-O.Agente.da.Uncle-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/rhodITgyqIuLIgIcdCDd7DkbZP9.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/8h5ux2XmtevHqxJj6vRE2Zr9a0E.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]O Agente da U.N.C.L.E.
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]ANOS - 1964 a 1967
-[COLOR orange]AÇÃO
-[COLOR orange]04 TEMPS - 105 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Os agentes Napoleon Solo e Illya Kuryakin trabalham para um serviço secreto de inteligência sob os auspícios da ONU
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1964 a 1967
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPS - 105 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Os agentes Napoleon Solo e Illya Kuryakin trabalham para um serviço secreto de inteligência sob os auspícios da ONU.Juntos, eles operam a partir de uma base secreta sob as ruas da cidade de Nova York, e acessam através de vários negócios secretos.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -300,16 +300,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]O Túnel do Tempo (1966) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Túnel do Tempo (1966) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C7-SEL-O.TUNEL.DO.TEMPO-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/thbpL3Z98gcgdl5mbV0md231ymf.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]O Túnel do Tempo
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO - 1966
-[COLOR orange]FICÇÃO E FANTASIA
-[COLOR orange]01 TEMP - 30 EPs
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1966
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO E FANTASIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 30 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Dois cientistas de um projeto do governo norte-americano que produz uma máquina do tempo, se perdem no tempo e são monitorados por uma equipe que permanece no laboratório e os acompanham em seus deslocamentos
 [/COLOR]</info>
 </channel>
@@ -336,16 +336,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Os Monkees (1966-1967) - INCOMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Monkees (1966-1967) - INCOMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C28-SRS-The.Monkees-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/4d5DWhXb16EgXRLrbEx5qq6lL8F.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]Os Monkees
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANOS - 1966 a 1967
-[COLOR orange]COMÉDIA
-[COLOR orange]02 TEMPs - 58 EPs
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1966 a 1967
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 58 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]As trapalhadas e aventuras de uma banda de rock, Os Monkees
 [/COLOR]</info>
 </channel>
@@ -354,16 +354,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Os Monstros (1964-1964) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Monstros (1964-1964) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C44-SRS-Os.Monstros-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/dYdEFAEU3HZKgtvtindshDpa2Iy.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/rlOQE3FBKzamw5ddBgCrZJ1RkQl.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]Os Monstros
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO - 1964 a 1964
-[COLOR orange]COMÉDIA
-[COLOR orange]02 TEMPs - 70 EPs
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white][COLOR orange]1964 a 1964
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 70 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Os Monstros são uma família estranha, mas honesta.A sobrinha Marilyn, que é a única pessoa normal da casa, muito bonita e simpática, mas considerada como o "patinho feio" pela família.
 [/COLOR]</info>
 </channel>
@@ -372,17 +372,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Perdidos no Espaço (1965) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C6-SRS-Perdidos.no.Espaso-OLD-ALL</externallink>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Perdidos no Espaço (1965- 2021) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C6-SEL-PERDIDOS.NO.ESPASO-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/zMuDMDb0PiZczctZ0INzFwhfKFQ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/upqfQF1LBPf7IRZao0sxt1BHZlx.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]Perdidos no Espaço
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS - 1965 a 1967
-[COLOR orange]FICÇÃO E FANTASIA
-[COLOR orange]03 TEMPS - 84  EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]No ano 1997 a família Robinson, e seu adorável robô, é enviada para o espaço em uma difícil missão: encontrar um outro planeta habitável, pois a terra está sofrendo com a superpopulação.
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1965 a 1967
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO E FANTASIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 84 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A família Robinson é enviada a uma missão de 5 anos no espaço para encontrar um novo planeta para colonizar, mas a viagem é sabotada por um agente de um governo inimigo, o Dr. Zachary Smith.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -390,16 +390,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Tarzan (1966-1967) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B5B1-SRS-Tarzan.A.Serie.1966-ALL</externallink>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Tarzan (1966-1967) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESP-ALL/main/8B1-SRS-Tarzan.A.S%C3%A9reie.1966-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/keL3WMJW45o7rd5aKDPMG3bgf1p.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/m5hwoZJVMBxHQ5RpKwvqN1NlUIF.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]Tarzan
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO - 1966 a 1967
-[COLOR orange]AVENTURA
-[COLOR orange]02 TEMPs - 57 EPs
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1966 a 1967
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 57 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]No coração da selva, uma criança foi encontrada e criada pelos grandes macacos. O menino recebeu o nome de Tarzan
 [/COLOR]</info>
 </channel>
@@ -444,16 +444,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Vigilante Rodoviário (1962) - INCOMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Vigilante Rodoviário (1962) - INCOMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C38-SRS-Vigilante.Rodoviario-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/jEgC5T5cO3NrST9s9tWXKioImd0.jpg</thumbnail>
 <fanart>https://tinyurl.com/vigl-rodhttps://tinyurl.com/vigl-rod
 <info>[COLOR white]Assista aqui a série: 
 [B]Vigilante Rodoviário
-[COLOR orange]Status[COLOR yellow] -> [COLOR white] - INCOMPLETA
-[COLOR orange]ANO - 1962
-[COLOR orange]CRIME E DRAMA
-[COLOR orange]03 TEMPs - 38 EPs
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1962
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME E DRAMA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 38 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O heroico Inspetor Carlos e seu fiel cão Lobo combatendo o crime. O personagem principal é membro da Policia Rodoviária e a história é ambientada nas estradas paulistas.
 [/COLOR]</info>
 </channel>
