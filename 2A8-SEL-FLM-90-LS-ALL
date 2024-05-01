@@ -240,31 +240,35 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>	
-<title>[COLOR white][B]Alien 3 (1992)[/B][/COLOR]</title>	
-<link>plugin://plugin.video.tubemusic/?video_id=KUTaNMJJBa8$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Alien 3[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26eb91d54625f5832a819b6e02b59828a7a8ffb9$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Alien 3 - HD LEG[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4537dd7c38250d61bdcfd785a80249c470bb49dc$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Alien 3 - FHD DUAL[/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Alien/LS-Alien.3-1992.SD.dub.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Alien 3 - SD DUB[/B][/COLOR]</link>	
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Alien 3 (1992) - FHD DUAL[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Alien/LS-1992.Alien.3.FHD.DUAL.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/oBBdeybjF1dUxE7GFxurp2TxiT3.jpg</thumbnail>	
 <fanart>https://www.themoviedb.org/t/p/original/nEmOmbCWBXS3tHU2N49z693KDK.jpg</fanart>	
-<info>Ripley é encarregada de ir a um planeta colônia penal de segurança máxima. Onde o Alien, que está matando tudo o que se move,menos ela. </info>	
-<genre>FICÇÃO</genre>	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<info>[COLOR white]Assista aqui o filme: 
+[B]Alien 3
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1992
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Ripley é encarregada de ir a um planeta que é usado como colônia penal de segurança máxima. Onde o Alien, esta matando tudo o que se move, menos a própria tenente Ripley, que aparentemente não é atacada pelo monstro.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
-<item>	
-<title>[COLOR white][B]Alien: A Ressurreição (1997)[/B][/COLOR]</title>	
-<link>plugin://plugin.video.tubemusic/?video_id=-qJjiq72WOo$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Alien: A Ressurreisao[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05fc89738ae78fac9c2fdf1ab7691edb23eb87f1$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Alien: A Ressurreisao - HD LEG[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05fc89738ae78fac9c2fdf1ab7691edb23eb87f1$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Alien: A Ressurreisao - FHD DUAL[/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Alien/LS-Alien.4-A.Ressurreisao.1997.HD.dub.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Alien: A Ressurreisao - HD DUB[/B][/COLOR]</link>	
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Alien: A Ressurreição (1997) - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Alien/LS-1997.Alien.A.Ressurresao.HD.DUAL+LEG.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/amyRbmL84H9m8wk0g46ZHhpMJTE.jpg</thumbnail>	
-<fanart>https://www.themoviedb.org/t/p/original/zQI8yxl61JTpjCB3MrTbcQBOT82.jpg</fanart>	
-<info>Duzentos anos após seu suicídio, Ripley acorda. Cientistas conseguiram tirar a rainha alienígena de seu corpo e criaram alienígenas que escaparam, provocando terror. Eles precisam ser detidos.</info>	
-<genre>FICÇÃO</genre>	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<fanart>https://www.themoviedb.org/t/p/original/zQI8yxl61JTpjCB3MrTbcQBOT82.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Alien: A Ressurreição
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1997
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Duzentos anos após seu suicídio, Ripley acorda. Cientistas conseguiram tirar a rainha alienígena de seu corpo e criaram alienígenas que escaparam, provocando terror. Eles precisam ser detidos.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Alta Voltagem (1997) - HD DUB[/B][/COLOR]</title>
@@ -1203,19 +1207,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>		
-<title>[COLOR white][B]O Predador 2: A Caçada Continua (1990)[/B][/COLOR]</title>		
-<link>plugin://plugin.video.tubemusic/?video_id=V5914DExriw$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Predador 2 - A Cazada Continua[/B][/COLOR]</link>		
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D12461933392716BCE074E49E5732933099CDC30$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Predador 2 - A Cazada Continua - HD DUAL[/B][/COLOR]</link>		
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A094F34E2C2F6BCED9A85F1D06719BD2A862370C$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Predador 2 - A Cazada Continua - FHD DUAL[/B][/COLOR]</link>		
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99C9F31F5BAD88EBA35ADF3CBCAAC6A8818F4E3C$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Predador 2 - A Cazada Continua - UFHD 4K DUAL[/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Predador/LS-Predador.2.A.Cazada.Continua.1990.FHD.DUL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Predador 2 - A Cazada Continua - FHD DUAL+LEG[/B][/COLOR]</link>		
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Predador 2: A Caçada Continua (1990) - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Predador/LS-1990.Predador.2.A.Cazada.Continua.1990.FHD.DUAL+LEG.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/sTaSUR11QJZKqQQ40dGahiWQWZw.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/tqYAfDloa6YgZpKnVJ401Xu4ky.jpg</fanart>		
-<info>Silencioso. Invisível. Invencível. Ele está na cidade com alguns dias para matar.</info>		
-<genre>FICÇÃO E FANTASIA</genre>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<fanart>https://www.themoviedb.org/t/p/original/tqYAfDloa6YgZpKnVJ401Xu4ky.jpg</fanart>	
+<info>[COLOR white]Assista aqui o filme: 
+[B]O Predador 2: A Caçada Continua
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1990
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um alienígena predador, invisível e equipado com armas poderosas, desembarca em Los Angeles, devastada pelo conflito de gangues de traficantes rivais, para iniciar seu festival de matança, deixando um rastro de corpos mutilados em seu caminho.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Príncipe das Mulheres (1992) - FHD DUAL+LEG[/B][/COLOR]</title>
@@ -1523,6 +1528,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Spartacus (1960) - HD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/FLMS/2EPC-FM/LS-Spartacus.1960.HD.DUB.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/nqU4xAn3ygWA4fvXSBufRwdGhpr.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/5M0IxNneSK9K1K5fvB5ra4YIyy6.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Spartacus
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]HD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1960
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Spartacus, um homem que nasceu escravo, labuta para o Império Romano enquanto sonha com o fim da escravidão. Ele foi condenado à morte por morder um guarda em uma mina na Líbia. Mas seu destino foi mudado por um lanista (negociante e treinador de gladiadores), que o comprou para ser treinado nas artes de combate e se tornar um gladiador. 
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>
 <title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Stalingrado - A Batalha Final (1993) - FHD LEG[/B][/COLOR]</title>
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-Stalingrad.1993.FHD.legfix.mp4</link>
