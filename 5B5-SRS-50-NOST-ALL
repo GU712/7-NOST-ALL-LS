@@ -30,17 +30,35 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Batman Antigo P.B. (1943) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/B1B2-SRS-ESP-Batman.1943-ALL</externallink>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Batman Antigo P.B. (1943) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D8B1-SRS-Batman.1943-ALL</externallink>
 <thumbnail>https://4.bp.blogspot.com/-EZPgSrY2wBs/Uhm-e8mnPmI/AAAAAAAAN_o/lrhm5fz-gIc/s1600/esse+gde.jpg</thumbnail>
 <fanart>http://3.bp.blogspot.com/-2FkEVkrDBLY/Uhnj0jjqJDI/AAAAAAAAN_4/hEZhNZrydkg/s1600/Lewis+Wilson+-+Batman.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
+<info>[COLOR white]Assista aqui a série:
 [B]Batman Antigo P.B.
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO - 1943
-[COLOR orange]SUPER-HERÓIS
-[COLOR orange]01 TEMPS - 15 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Uma série bem antiga do Paladino da Justiça.
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1943
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 15 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A primeira série do justiceiro encapuzado, ainda em preto e branco.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Batman and Robin (1949) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D8B3-SRS-Batman.and.Robin.1949-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/411pEyeqP5rLS6Zc9batSRL0c8G.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jO1VKpa6JDh6pV7MLKWh7zfvuNm.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Batman and Robin
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1949
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 15 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Uma série antiga onde já entrava em cena , Robin , o ajudante do Batman. 
 [/COLOR]</info>
 </channel>
 </channels>
