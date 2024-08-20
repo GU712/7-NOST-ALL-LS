@@ -77,13 +77,14 @@ Solicite ao SUPORTE AO USUÁRIO .
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
-<name>[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Anos 60 (Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/main/2B5-SEL-FLM-60-LS-2-ALL</externallink>
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Anos 1960 a 1969 (Filmes)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/main/2B5-SEL-FLM-60a69-LS-4-ALL</externallink>
 <thumbnail>https://i.ibb.co/MMJtBwy/FLM-ICON-DEC-60-NOST.png</thumbnail>
 <fanart>https://i.ibb.co/ncLC302/FAN-DEC-NOSTALGIA.png</fanart>
 <info>[COLOR white]Conheça filmes por década : 
-[B]Anos 60
+[B]Anos 1960 a 1969
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir os filmes que temos dos anos 60.
 Não encontrou o que queria ?
