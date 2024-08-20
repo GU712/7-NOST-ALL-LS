@@ -110,13 +110,14 @@ Solicite ao SUPORTE AO USUÁRIO .
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
-<name>[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Anos 80 (Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/main/2B7-SEL-FLM-80-LS-2-ALL</externallink>
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Anos 1970 a 1979 (Filmes)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/main/2B7-SEL-FLM-80a89-LS-4-ALL</externallink>
 <thumbnail>https://i.ibb.co/RHXhJXy/FLM-ICON-DEC-80-NOST.png</thumbnail>
 <fanart>https://i.ibb.co/ncLC302/FAN-DEC-NOSTALGIA.png</fanart>
 <info>[COLOR white]Conheça filmes por década : 
-[B]Anos 80
+[B]Anos 1980 a 1989
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir os filmes que temos dos anos 80.
 Não encontrou o que queria ?
