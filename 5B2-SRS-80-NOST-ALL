@@ -120,17 +120,35 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]A Super Máquina (1982) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Super Máquina (1982-1985) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C1-SRS-A.Super.Maquina-OLD-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/egcnrKBq0N3VQMuOY52BZCHU8YG.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/lcvImPWyoEd3Jr3W5sd5jxAw1PZ.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
-[B]NOMEDASERIE
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS - 1982 a 1985
-[COLOR orange]AÇÃO
-[COLOR orange]04 TEMPS - 90 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Michael Long é um policial que foi ferido com um tiro no rosto durante uma investigação. Wilton Knight é um inventor que criou uma fundação para combater o crime. 
+[B]A Super Máquina
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1982 a 1985
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPS - 90  EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Michael Knight, e cria o carro K.I.T.T., que possui avançada inteligência artificial. O novo Michael e a Super Máquina tornam-se, então, grandes defensores da justiça nesta memorável série dos anos 1980.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS3[COLOR yellow] -> [COLOR white]Contos da Cripta (1989-1996) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/C7-SRS-Contos.da.Cripta.1989-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/q7zDnrLffXBejrCPmFDnHwkJC9D.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/nwtdRZHTlDqYwuJDc7oVQueHY2l.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Contos da Cripta
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1989 a 1996
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]07 TEMPs - 93  EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Cada episódio conta uma história individual, apresentada pelo Guardião da Cripta. O guardião aparece no início e no final de cada episódio como uma espécie de alívio cômico, contando a essência da história e fazendo diversas tiradas sarcásticas relacionadas ao tema.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -275,6 +293,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 13 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Jesse Mach, perde o seu melhor amigo e é ferido no joelho, impedido de continuar pilotando motos. é transferido para Relações Públicas e passaria o resto da sua carreira examinando pilhas de papéis se Norman Tuttle, um engenheiro do Governo, não o tivesse escolhido para fazer parte do projeto secreto Moto Laser.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Mestre (1984)  - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C19-SRS-O.Mestre.1984-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/cWLOrJYSv14DIcSjcjLCQKiKLSz.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/diq2uLSDIIilNXX5iRpwHFrmRxd.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]O Mestre 
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1984
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 13 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um velho mestre ninja e seu jovem aluno viajam em uma van personalizada ajudando pessoas necessitadas ao longo do caminho.
 [/COLOR]</info>
 </channel>
 </channels>
