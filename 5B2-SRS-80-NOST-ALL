@@ -358,8 +358,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Sangue, Suor e Lágrimas (1983) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2C-LS-GRR-ALL/main/C14-SRS-Sangue.Suor.Lagrimas.1983-ALL</externallink>
+<name>[COLOR white][B]Sangue, Suor e Lágrimas (1983) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2C-LS-GRR-ALL/main/C013-SRS-Sangue.Suor.Lagrimas.1983-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/fsGLuaGM3sWusRtP8WI7m87i5B0.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/h064s2adGPLxVaPNYbjgyvUwnFd.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -368,8 +368,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1983
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]GUERRA
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 07 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Tendo como pano de fundo os eventos mundiais que levaram ao ataque japonês a Pearl Harbor em 1941, Victor “Pug” Henry é um oficial naval de carreira que, junto com sua família, aprende a navegar nas águas de seus tempos perigosos no final dos anos 1930.
-[/COLOR]</info>
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Tendo como pano de fundo os eventos mundiais que levaram ao ataque japonês a 
+Pearl Harbor em 1941, Victor “Pug” Henry é um oficial naval de carreira aprende a navegar nas águas de seus tempos perigosos.
+[COLOR black].[/COLOR]
+[COLOR white]Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
