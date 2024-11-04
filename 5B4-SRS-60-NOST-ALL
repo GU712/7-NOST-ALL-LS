@@ -189,9 +189,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Hondo (1967) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/D02-COL-Hondo-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/6QemSOG9GTimkAzICjB2LXind9p.jpg</thumbnail>
+<item><name>[COLOR orange][B]Hondo (1967) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/refs/heads/main/C018-SRS-Hondo.1967-ALL</externallink>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail>
 <fanart>https://media.themoviedb.org/t/p/w500_and_h282_face/sewnv47MukF6KdXpgw4xEzGwVux.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]Hondo 
@@ -199,7 +199,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1967
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 17 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Hondo é uma série de televisão ocidental de 17 episódios estrelada por Ralph Taeger que foi ao ar nos Estados Unidos pela ABC durante o outono de 1967. A série foi produzida por Batjac Productions, Inc., Fenady Associates, Inc. e Metro-Goldwyn-Mayer Television.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Hondo é uma série de televisão ocidental de 17 episódios estrelada por Ralph Taeger que 
+foi ao ar nos Estados Unidos pela ABC durante o outono de 1967.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
