@@ -67,17 +67,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Águia de Fogo (1984) - INCOMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C6-SRS-Aguia.de.Fogo-ALL</externallink>
+<name>[COLOR white][B]Águia de Fogo (1984-1987) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C006-SRS-Aguia.de.Fogo.1984-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/uSlnBIJsCkfXcHP7P9cOzmBIk4t.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]Águia de Fogo
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANOS - 1984 a 1987
-[COLOR orange]AÇÃO
-[COLOR orange]04 TEMPS - 70 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Michael Coldsmith-Briggs III, que é o comandante de uma divisão especial da CIA, chamada de "A Firma", que construiu o Águia de Fogo. 
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1984 a 1987
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPS - 70 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Ao retornar da Líbia, após derrotar o criador do Águia de Fogo, Hawke e Dominic passam 
+a usar o helicóptero como uma espécie de supermáquina alada para combater o crime.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
