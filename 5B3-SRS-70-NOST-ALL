@@ -159,17 +159,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]CHiPs (1977) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C7-SRS-CHiPs-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/obrPwSPS0q9zK5e7xwlVGlAmWSg.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/A7Zx5z367TM0lQRgTQ63q0JGs02.jpg</fanart>
+<name>[COLOR white][B]Chips (1977-1982) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C007-SRS-CHiPs.1977-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/s7WnGXPVShynQg6bOds2BGFqhTK.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/r3Lre4EQP1rJ0T4rXv6x3sQxBHE.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
-[B]CHiPs
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS - 1977 a 1983
-[COLOR orange]AÇÃO
-[COLOR orange]06  TEMPS - 139  EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]CHiPs é uma série dramática de televisão americana e acompanharam a vida de dois policiais de motocicleta da Patrulha Rodoviária da Califórnia.
+[B]Chips
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1977 a 1982
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]06 TEMPs - 139  EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Série baseada nas aventuras de dois patrulheiros rodoviários em motocicletas na 
+Califórnia. A sigla CHiP significa California Highway Patrol, ou Polícia Rodoviária da Califórnia.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
