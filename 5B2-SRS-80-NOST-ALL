@@ -161,17 +161,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Duro na Queda (1981-1985) - INCOMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C13-SRS-Duro.na.Queda-ALL</externallink>
+<name>[COLOR white][B]Duro na Queda (1981-1985) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C013-SRS-Duro.na.Queda.1981-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/tPy5fmJZ2AHJKJLq8uabIxhbYWn.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/1XEusS8irQrc060sfFsBPosnPF5.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]Duro na Queda
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANOS - 1981 a 1985
-[COLOR orange]AÇÃO
-[COLOR orange]04 TEMPS - 113 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]<TEXTO>
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1981 a 1985
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPS - 113 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]As aventuras de um dublê de cinema que brilha como caçador de recompensas quando o 
+trabalho no cinema é lento.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
