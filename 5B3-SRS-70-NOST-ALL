@@ -498,8 +498,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Sítio do Picapau Amarelo - Ano 2 (1978) - INCOMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/D01B1-SRS-Picapau.Amarelo.Ano.2.1978-ALL</externallink>
+<name>[COLOR white][B]Sítio do Picapau Amarelo - Ano 2 (1978) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/refs/heads/main/D06-SEL-Sitio.do.Pic.Amar-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/cmNM6ZengfCUr2pPj1n8cjQhbQD.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/dZ7cfEmjITHm8LpmApaubWG8Tzd.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -508,7 +508,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1978
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FANTASIA
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]09 TEMPs - 180 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A 2ª temporada de Sítio do Picapau Amarelo começou a ser exibida em 6 de março de 1978.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A 2ª temporada de Sítio do Picapau Amarelo começou a ser exibida em 6 de março de 1978.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
