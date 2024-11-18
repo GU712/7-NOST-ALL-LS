@@ -296,8 +296,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Muppet Show (1976-1980) - INCOMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/main/D4B1-SRS-Muppet.Show.1976-ALL</externallink>
+<name>[COLOR white][B]Muppet Show (1976-1980) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/main/D04B1-SRS-Muppet.Show.1976-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/b4fZBW47VSbPhBAznof9VRfZw6a.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ozCe0QARzN6lQzPshDrHC11WEDu.jpg</fanart>
 <info>[COLOR white]Assista aqui o série: 
@@ -306,7 +306,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1976 a 1980
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ANIMAÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPS - 120 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O Show dos Muppets foi um programa de televisão infanto-juvenil, estrelado pelos muppets, produzido por Jim Henson e sua equipe entre 1976 a 1981.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]O Show dos Muppets foi um programa de televisão infanto-juvenil, estrelado pelos muppets,
+ produzido por Jim Henson e sua equipe entre 1976 a 1981.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
