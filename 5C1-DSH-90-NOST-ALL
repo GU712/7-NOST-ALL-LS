@@ -124,8 +124,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Batman: A Série Animada (1992-1995) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D8C2-DSH-Batman.A.Serie.Anim.1992-ALL</externallink>
+<name>[COLOR white][B]Batman: A Série Animada (1992-1995) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D08C2-DSH-Batman.A.Serie.Anim.1992-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/j3M4UAskxoL3wCBH2etMwlqyeWw.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/4QnFxk03yAn7U2ZTL5oMCCqxlPc.jpg</fanart>
 <info>[COLOR white]Assista aqui o desenho: 
@@ -134,7 +134,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1992 a 1995
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 85 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O Cavaleiro das Trevas luta contra o crime em Gotham City com ajuda ocasional de Robin e Batgirl.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]O Cavaleiro das Trevas luta contra o crime em Gotham City com ajuda ocasional de 
+Robin e Batgirl.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
