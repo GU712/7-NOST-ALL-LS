@@ -412,8 +412,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Incrível Hulk (1977-1981) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D4B1-SRS-O.Incrivel.Hulk-ALL</externallink>
+<name>[COLOR white][B]O Incrível Hulk (1977-1981) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D10B1-SRS-O.Incrivel.Hulk-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/zAim6MnM8LUY88GwIDoF9TX8ReU.jpg</thumbnail>		
 <fanart>https://www.themoviedb.org/t/p/original/ldtJ6vUo8heez1HVD91Flpg7F5W.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -422,7 +422,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1977 a 1981
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPs - 82 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O Dr. David Banner trabalha num experimento que da errado: sempre que ele está sob muito estresse, seu corpo se modifica e ele se transforma no Incrível Hulk
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]O Dr. David Banner trabalha num experimento que da errado: sempre que ele está sob 
+muito estresse, seu corpo se modifica e ele se transforma no Incrível Hulk
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
