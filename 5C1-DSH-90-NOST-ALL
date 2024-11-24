@@ -321,8 +321,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Incrível Hulk (1996-1997) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D4C2-DSH-O.Incrivel.Hulk.1996-ALL</externallink>
+<name>[COLOR white][B]O Incrível Hulk (1996-1997) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D10C2-DSH-O.Incrivel.Hulk.1996-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/evyGx3q4yGr1Gw0PevTGKXkg6EM.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/2BvGyFBjDMNIZ5ojlhHpQLwWFxU.jpg</fanart>
 <info>[COLOR white]Assista aqui o desenho: 
@@ -331,7 +331,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1996-1997
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 22 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um cientista nuclear sofre com a tendência de se transformar em um poderoso monstro verde sob estresse.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Um cientista nuclear sofre com a tendência de se transformar em um poderoso 
+monstro verde sob estresse.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
