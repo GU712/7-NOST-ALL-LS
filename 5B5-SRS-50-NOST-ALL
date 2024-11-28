@@ -192,8 +192,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Intocáveis (1959-1962) - ATUALIZANDO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/D2-COL-Os.Intocaveis-ALL</externallink>
+<name>[COLOR white][B]Os Intocáveis (1959-1962) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/D02-SEL-Os.Intocaveis-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/80IDXgaHmcxj6CKRImkpHjnIMcd.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/j4F3iDMZp9QFOKmuVoLX0ivfLhz.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -202,7 +202,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1959 a 1962
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 118 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O Agente Especial Eliot Ness e sua equipe de elite de agentes incorruptíveis lutam contra o crime organizado na década de 1930 em Chicago.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]O Agente Especial Eliot Ness e sua equipe de elite de agentes incorruptíveis lutam 
+contra o crime organizado na década de 1930 em Chicago.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
