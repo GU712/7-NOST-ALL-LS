@@ -175,8 +175,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Hércules: A Lendária Jornada (1995-1999) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/D1B1-SRS-Hercules.a.Lend.Jornada-ALL</externallink>
+<name>[COLOR white][B]Hércules: A Lendária Jornada (1995-1999) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/D01B1-SRS-Hercules.a.Lend.Jornada-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/2vyxteXmZVh8zBSK9yA827Rs1sl.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/4OQnb2QoifmFCe3TnUS2kxt3afM.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -185,7 +185,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1995 a 1999
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]06 TEMPs - 111 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A vida e aventuras do semideus da mitologia grega Hércules, filho de Zeus com uma mortal, que nasceu em uma época que a Terra precisava de um herói.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A vida e aventuras do semideus da mitologia grega Hércules, filho de Zeus com uma mortal, 
+que nasceu em uma época que a Terra precisava de um herói.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -204,6 +208,28 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPs - 96 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Nikita é uma viciada em drogas, e uma deliquente juvenil. Ela é presa e sentenciada a prisão perpétua. Então, é recrutada por uma organização secreta governamental e transformada em uma assassina. 
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]O Jovem Indiana Jones (1992) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/refs/heads/main/D07B1-SRS-O.Jovem.Indiana.Jones.1992-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/wP6tqlcHQTeXtRYLGpbd2I7FQWq.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/g7LbxsatbTazDKnaFPDQz5fi2aH.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]O Jovem Indiana Jones
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1992
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 28 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]O jovem Indiana Jones embarca em uma jornada repleta de desafios, e, entre as diversas
+ experiências, ele conhece importantes nomes da história e ainda aprende diversas lições sobre o valor da vida.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -341,8 +367,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Xena: A Princesa Guerreira (1995-2000) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/D1B2-SRS-Xena.A.Princesa.Guerreira.1995-ALL</externallink>
+<name>[COLOR white][B]Xena: A Princesa Guerreira (1995-2000) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/D01B2-SRS-Xena.A.Princesa.Guerreira.1995-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/uu6ayTo9NGlHqFkC3nJnAhzxUJQ.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/yglKAU46ojbSVH3uFy8eR0mK41o.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -351,7 +377,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1995 a 2000
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FANTASIA
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]06 TEMPs - 134 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Xena, uma guerreira que já foi conhecida como "Destruidora das Nações", começa sua épica aventura para provar, não só para si mesma, mas para todos, que mudou para o bem. 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Xena, uma guerreira que já foi conhecida como "Destruidora das Nações", começa sua 
+épica aventura para provar, não só para si mesma, mas para todos, que mudou para o bem. 
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
