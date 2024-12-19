@@ -522,17 +522,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Terra de Gigantes (1968) - INCOMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C10-SRS-Terra.de.Gigantes-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/7UqzMvl9KvLXmtFGzgamNSbza4D.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/ohqNmOUq8UGuGY4RMMdhFHgIK0x.jpg</fanart>
+<name>[COLOR white][B]Terra de Gigantes (1968-1969) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C010-SRS-Terra.de.Gigantes-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/ljbqDwgOoqYvQ6WRnuLr8QleEkH.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/j9IbFAlk0ixd4mj0CJSiGmzE7A7.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]Terra de Gigantes
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANOS - 1968 a 1969
-[COLOR orange]FICÇÃO E FANTASIA
-[COLOR orange]02 TEMPS - 51  EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A nave espacial Spindrift fazia o voo normal entre Los Angeles e Londres, sendo atingida por uma misteriosa névoa e se metendo em uma tempestade magnética que a jogou em uma Terra alternativa povoada por gigantes, doze vezes maior que a Terra.
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1968 a 1969
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 51 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A nave espacial Spindrift fazia o voo normal entre Los Angeles e Londres, sendo 
+atingida por uma misteriosa névoa e se metendo em uma tempestade magnética que a jogou em uma Terra alternativa povoada por gigantes.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
