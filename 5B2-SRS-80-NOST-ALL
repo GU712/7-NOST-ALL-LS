@@ -291,17 +291,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Manimal (1983) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C14-SRS-Manimal-ALL</externallink>
+<name>[COLOR white][B]Manimal (1983) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C014-SRS-Manimal-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/pqrc5EJIxL01PiUFilNKLpDUwfO.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/eLcINExQR0LuDgtD59A46fD3W4l.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
-[B]NOMEDASERIE
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO - 1983
-[COLOR orange]FICÇÃO E FANTASIA
-[COLOR orange]01 TEMP - 08 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A história de Jonathan Chase, um homem que era capaz de se transformar em qualquer animal que desejasse. 
+[B]Manimal
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1983
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 08 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A história do especialista em vida selvagem, o professor Jonathan Chase, um britânico 
+culto e "boa pinta” que também trabalhava para a polícia como um consultor do uso de animais em criminalística.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
