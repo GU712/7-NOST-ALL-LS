@@ -96,8 +96,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]ALF, o ETeimoso (1986-1989) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/D3B-SRS-ALF.o.ET.eimoso-ALL</externallink>
+<name>[COLOR white][B]ALF, o ETeimoso (1986-1989) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/refs/heads/main/D07B-SRS-ALF.o.ET.eimoso-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/eAjQP2Q75lg6WgwlnhpdcBgeoOf.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -106,7 +106,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1986 a 1989
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 100 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]ALF segue um sinal de rádio amador para a Terra e acaba caindo na garagem da casa da família Tanner. Os Tanner são uma típica família de classe média em Riverside, Califórnia.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]ALF segue um sinal de rádio amador para a Terra e acaba caindo na garagem da casa da 
+família Tanner. Os Tanner são uma típica família de classe média em Riverside, Califórnia.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
