@@ -338,7 +338,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]The Flash - O Último Vingador (1990) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR white][B]The Flash - O Último Vingador (1990) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/refs/heads/main/D04B2-SRS-The.Flash-1990-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/fi1GEdCbyWRDHpyJcB25YYK7fh4.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/vYRRFhgdiq7ZdrxiLm5Zudtr0Tl.jpg</fanart>
@@ -347,8 +347,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]1990
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 22 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Barry Allen é um cientista que trabalha na polícia e quando ganha super-poderes, precisa da ajuda de Cristina McGee para se adaptar aos seus novos dons.
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 22 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Barry Allen é um cientista que trabalha na polícia e quando ganha super-poderes, 
+precisa da ajuda de Cristina McGee para se adaptar aos seus novos dons.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
