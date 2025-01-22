@@ -159,17 +159,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Jim das Selvas (1955) - INCOMPLETA[/B][/COLOR]</name>
+<name>[COLOR white][B]Jim das Selvas (1955-1956) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/C10-SRS-Jim.das.Selvas-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/l3U1wqyf4J7zoW0B1DHsJAp87uu.jpg</thumbnail>
 <fanart>http://entrementes.com.br/wp-content/uploads/2022/10/013.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]NOMEDASERIE
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANOS - 1955 a 1956
-[COLOR orange]AVENTURA
-[COLOR orange]01 TEMP - 26 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Jungle Jim é um seriado estadunidense de 1937, gênero Aventura, dirigido por Ford Beebe e Clifford Smith.
+<info>[COLOR white]Assista aqui a coleção: 
+[B]Jim das Selvas
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1955 a 1956
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 26 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Coletãnea do que já conseguimos sobre o personagem.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
