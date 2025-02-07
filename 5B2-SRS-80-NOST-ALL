@@ -353,8 +353,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Mestre (1984)  - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C19-SRS-O.Mestre.1984-ALL</externallink>
+<name>[COLOR white][B]O Mestre (1984)  - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C019-SRS-O.Mestre.1984-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/cWLOrJYSv14DIcSjcjLCQKiKLSz.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/diq2uLSDIIilNXX5iRpwHFrmRxd.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -363,7 +363,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1984
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 13 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um velho mestre ninja e seu jovem aluno viajam em uma van personalizada ajudando pessoas necessitadas ao longo do caminho.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Um velho mestre ninja e seu jovem aluno viajam em uma van personalizada ajudando 
+pessoas necessitadas ao longo do caminho.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
