@@ -28,9 +28,10 @@ Avise o SUPORTE AO USUÁRIO.
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
+<channels>
+<channel>
 <name>[COLOR white][B]Anos 30 (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/main/2A2-SEL-FLM-30-LS-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/refs/heads/main/2A2-SEL-FLM-30-LS-ALL</externallink>
 <thumbnail>https://i.ibb.co/N2KbFbbp/ICO-ANOS-30-FLM.png</thumbnail>
 <fanart>https://i.ibb.co/3NCzfsX/FAN-DEC-NOSTALGIA.png</fanart>
 <info>[COLOR white]Assista filmes por década : 
@@ -45,8 +46,7 @@ Avise o SUPORTE AO USUÁRIO.
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
+
 <name>[COLOR white][B]Anos 40 (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/main/2A3-SEL-FLM-40-LS-ALL</externallink>
 <thumbnail>https://i.ibb.co/DPr9dcmr/ICO-ANOS-40-FLM.png</thumbnail>
