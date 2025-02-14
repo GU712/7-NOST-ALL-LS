@@ -21,7 +21,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Feiticeira (1964-1971) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR white][B]A Feiticeira (1964-1971) - COMPLETA[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</name>	
 <externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C9-SRS-A.Feiticeira-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/wbLPnXSIGFY86uF7F4X0KDV0mA8.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/rFJUwDiZeSDWUR04nb3w62RqXK9.jpg</fanart>
@@ -31,16 +31,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1964 a 1971
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]08 TEMPs - 254  EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Uma feiticeira que se casa com um homem mortal comum e promete levar a vida de uma típica dona de casa suburbana americana.
-[/COLOR]</info>
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Uma feiticeira que se casa com um homem mortal comum e promete levar a vida de uma típica 
+dona de casa suburbana americana.
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>	
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Agente 86 (1965-1969) COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C15-SRS-Agente.86-ALL</externallink>
+<name>[COLOR white][B]Agente 86 (1965-1969) COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C015-SRS-Agente.86.1965-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/czVnqeZZVBoniOO3iYB3nSvuSWO.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/6ahKNfvLGWYDlhUfSagJfClXkoi.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -49,7 +53,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1965 a 1969
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPs - 138 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O mundo da Espionagem não seria tão engraçado sem o AGENTE 86.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]O mundo da Espionagem não seria tão engraçado sem o AGENTE 86.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -57,8 +64,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Noviça Voadora (1967-1969) - INCOMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C50-COL-A.Novisa.Voadora.1967-ALL</externallink>
+<name>[COLOR white][B]A Noviça Voadora (1967-1969) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</name>	
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C050-COL-A.Novisa.Voadora.1967-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/4LkhFq3yKKXvv81pkbkPqPfYMeh.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/dwhPxxkcIxJ4EMJt3OiInsk4tJl.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -67,8 +74,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1967 a 1969
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 82 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A Noviça Voadora mostrava a história da irmã Bertrille, uma noviça exuberante que levava muita alegria ao antigo convento de San Tanco, situado perto de San Juan, Porto Rico. 
-[/COLOR]</info>
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A Noviça Voadora mostrava a história da irmã Bertrille, uma noviça exuberante que levava 
+muita alegria ao antigo convento de San Tanco, situado perto de San Juan, Porto Rico. 
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>	
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
