@@ -47,7 +47,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]Batman and Robin (1949) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D8B3-SRS-Batman.and.Robin.1949-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/refs/heads/main/D08B3-SRS-Batman.and.Robin.1949-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/411pEyeqP5rLS6Zc9batSRL0c8G.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/jO1VKpa6JDh6pV7MLKWh7zfvuNm.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -119,17 +119,43 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Os Três Patetas (1934) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C22-SRS-Os.Tres.Patetas-ALL</externallink>
-<thumbnail>https://m.media-amazon.com/images/I/71vBukwT2tL._AC_SY550_.jpg</thumbnail>
-<fanart>https://www.gannett-cdn.com/authoring/2017/05/03/NBCC/ghows-PA-18302283-0009-49d9-9db8-e3ceddcaca96-0b8d90c9.jpeg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]NOMEDASERIE
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]INCOMPLETA ATUALIZANDO
-[COLOR orange]ANOS - 1934 a 1947
-[COLOR orange]COMÉDIA
-[COLOR orange]13 TEMPS - 92 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Uma série de televisão animada americana que decorreu durante a temporada de televisão de 1965-66, estrelada pelos Três Patetas
+<name>[COLOR white][B]Os Três Patetas (1934-1959) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/D03B-SRS-Os.Tres.Patetas-ALL</externallink>
+<thumbnail>https://i.ibb.co/348rcTw/COL-3-PTTAS-ICON-SRS-ALL.png</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/v97m39cRhUaeis1QoOJyOSQpgaV.jpg</fanart>
+<info>[COLOR white]Assista aqui a coleção: 
+[B]Os Três Patetas
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1934 a 1959
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]190 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Os três patetas foi um grupo cômico norte-americano do século XX, mais conhecido 
+por seus numerosos curtas-metragens. Sua comicidade era marcada pela extrema comédia pastelão e farsa física. 
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Os Três Patetas - EPS COLORIDOS[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/D03B2-SRS-Os.Tres.Patetas-COLOR-ALL</externallink>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail>
+<fanart>https://i.ibb.co/t2qS4c8/COL-3-PTTAS-FAN-ALL.png</fanart>
+<info>[COLOR white]Assista aqui a coleção: 
+[B]Os Três Patetas
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1934 a 1959
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]16 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Os três patetas foi um grupo cômico norte-americano do século XX, mais conhecido 
+por seus numerosos curtas-metragens. Sua comicidade era marcada pela extrema comédia pastelão e farsa física. 
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -342,4 +368,3 @@ USE ESSE LINK DE ATALHO[/COLOR]</info>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
