@@ -139,17 +139,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]I Love Lucy (1951) - ATUALIZANDO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C11-SRS-I.Love.Lucy-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/5MUwuHOHG1sNRKxaxRZnWpCJTrH.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/5tGYbT3irV4ZuO7M65HewlVT6fx.jpg</fanart>
+<name>[COLOR white][B]I Love Lucy (1951-1956) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/refs/heads/main/C011-SRS-I.Love.Lucy.1951-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/5MUwuHOHG1sNRKxaxRZnWpCJTrH.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/5tGYbT3irV4ZuO7M65HewlVT6fx.jpg</fanart>	
 <info>[COLOR white]Assista aqui a série: 
 [B]I Love Lucy
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]ANOS - 1951 a 1956
-[COLOR orange]COMÉDIA
-[COLOR orange]06 TEMPS - 181  EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Ricky Ricardo é um cubano, líder de uma banda no Clube Tropicana. Ele é casado com Lucy que, ao contrário do que se espera, não é uma esposa comum que apenas cuida da casa.
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1951 a 1956
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]06 TEMPs - 181  EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]O líder da banda cubana Ricky Ricardo ficaria feliz se sua esposa Lucy fosse apenas 
+dona de casa. Em vez disso, ela tenta constantemente se apresentar no Tropicana, onde ele trabalha.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -162,7 +166,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]Jim das Selvas (1955-1956) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/C10-SRS-Jim.das.Selvas-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/refs/heads/main/C010-SRS-Jim.das.Selvas.1955-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/l3U1wqyf4J7zoW0B1DHsJAp87uu.jpg</thumbnail>
 <fanart>http://entrementes.com.br/wp-content/uploads/2022/10/013.jpg</fanart>
 <info>[COLOR white]Assista aqui a coleção: 
@@ -288,7 +292,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]Zorro (1957-1960) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C004-SRS-Zorro.1957-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/refs/heads/main/D04B2-SRS-Zorro.1957-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/9BPBojrkczIhL18fMa9Ypj5yQ7N.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/hvIkmWOglUO2aew7GAn03vKZnOc.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
