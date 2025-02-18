@@ -403,17 +403,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]O Besouro Verde (1966) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/C6-SRS-Besouro.Verde-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/8waPADOWOGENkbn9zaoDCHcutpD.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/u2XFy0VgktVyaXBk6jRCBM670RA.jpg</fanart>
+<name>[COLOR white][B]O Besouro Verde (1966) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/C006-SRS-Besouro.Verde.1966-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/2wDWTFqUxo9h3aRERXTI9TDbfxG.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/u2XFy0VgktVyaXBk6jRCBM670RA.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
-[B]Besouro Verde
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO - 1966
-[COLOR orange]SUPER-HERÓIS
-[COLOR orange]01 TEMPS - 26 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A série é baseada em "O Besouro Verde", personagem de um programa de rádio. Van Williams interpreta o personagem principal e Bruce Lee, o assistente Kato. 
+[B]O Besouro Verde
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1966
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 26 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Britt Reid é o dono do jornal "Daily Sentinel" ("Sentinela Diário"), mas também é o 
+justiceiro mascarado conhecido como Besouro Verde que combate o crime juntamente com seu auxiliar Kato.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
