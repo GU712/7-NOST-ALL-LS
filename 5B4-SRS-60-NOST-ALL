@@ -425,17 +425,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]O Fugitivo (1963) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C32-SRS-O.Fugitivo-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/gJpLOIYGYn0TyXeqnEhugd8RNd3.jpg</thumbnail>
+<name>[COLOR white][B]O Fugitivo (1963-1966) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/refs/heads/main/C032-SRS-O.Fugitivo.1963-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/tLgHRFFToe9I9DdIe5SolLSAqDL.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/xowDfaOtwa23ChXHGiESAsdvgA8.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]O Fugitivo
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS - 1963 a 1964
-[COLOR orange]CRIME E DRAMA
-[COLOR orange]04 TEMPS - 120 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B] Imaginem como fica a vida de um médico ao ser acusado injustamente de ter assassinado a esposa!Julgado e condenado,ele consegue uma nova chance.
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1963 a 1966
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 120 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A vida de um médico muda ao extremo , ao ser acusado injustamente de 
+ter assassinado a esposa.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
