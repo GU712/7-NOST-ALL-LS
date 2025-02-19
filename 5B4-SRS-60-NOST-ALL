@@ -556,17 +556,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Monkees (1966-1967) - INCOMPLETA[/B][/COLOR]</name>
+<name>[COLOR white][B]Os Monkees (1966-1967) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C28-SRS-The.Monkees-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/4d5DWhXb16EgXRLrbEx5qq6lL8F.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]Os Monkees
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1966 a 1967
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]ANOS - 1966 a 1967
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 58 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]As trapalhadas e aventuras de uma banda de rock, Os Monkees
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]As trapalhadas e aventuras de uma banda de rock, Os Monkees
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
