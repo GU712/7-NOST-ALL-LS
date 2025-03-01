@@ -225,17 +225,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Columbo (1971) - ATUALIZANDO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C10-SRS-Columbo-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/6EIe2NLAVvwpMzXhg2KdUfwlb7T.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/skWuseledUfSdS42GQaR5MPZpxS.jpg</fanart>
+<name>[COLOR white][B]Columbo (1971-1990) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C010-SRS-Columbo.1971-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/i7qCggOObxxUy4LiebcigrMprWP.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ePcyDTd1i0pAY9tu2XPVlMDMnr9.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]Columbo
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]10 TEMPS - 69  EPs
-[COLOR orange]CRIME E DRAMA
-[COLOR orange]ANOS - 1971 a 1990
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Columbo é uma premiada série policial dos anos 1970 estrelada pelo ator Peter Falk. A série revolucionou as histórias de detetives.
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1971 a 1990
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]11 TEMPs - 69 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Todos os crimes da série têm um ponto em comum: o criminoso monta um alibi que parece perfeito.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
