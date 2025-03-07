@@ -109,17 +109,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Cocoricó (1996) - ATUALIZANDO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C32-SRS-Cocorico-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/xDivDzd1yF7NG6GW6ccz7ramLuv.jpg</thumbnail>
+<name>[COLOR white][B]Cocoricó (1996-2013) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>	
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C032-SRS-Cocorico-ALL</externallink>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/gcI9rFfXN99r8NvxVrU6yRfNn7P.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]Cocoricó
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]ANOS - 1996 a 2013
-[COLOR orange]COMÉDIA
-[COLOR orange]08 TEMPS - 287 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]As aventuras de Júlio, um menino de 8 anos, que mora com seus avós na Fazenda Cocoricó. Um lugar encantador onde os animais falam, cantam e vivem se metendo em confusões muito divertidas. 
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1996 a 2013
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]08 TEMPS - 287 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]As aventuras de Júlio, um menino de 8 anos, que mora com seus avós na Fazenda Cocoricó. 
+Um lugar encantador onde os animais falam, cantam e vivem se metendo em confusões muito divertidas. 
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
