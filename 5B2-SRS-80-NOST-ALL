@@ -40,6 +40,27 @@ Avise o SUPORTE AO USUÁRIO.
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channel>
+<name>[COLOR white][B]Dama de Ouro (1985-1986) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C015-SRS-Dama.de.Ouro.1985-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/vBdxtBUPS4wYxvOIew21OuAH0Ny.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iICGcK7JIlCpDjso8XR2M2fe2cb.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Dama de Ouro
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1985 a 1986
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 13 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Katy Mahoney é uma experiente policial da cidade de Chicago que enfrenta criminosos
+ perigosos com muita força e coragem. Munida de uma Magnum 357, Mahoney abusa da violência e é implacável com os tipos machões.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <channels>
 <channel>
 <name>[COLOR white][B]A Gata e o Rato (1985) - COMPLETA[/B][/COLOR]</name>
@@ -253,9 +274,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1983 a 1986
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPs - 98 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Quatro veteranos da guerra do Vietnã são acusados por um crime que não cometeram e 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Quatro veteranos da guerra do Vietnã são acusados por um crime que não cometeram e 
 não conseguem mais provar sua inocência, já que os verdadeiros culpados estão mortos.
-[COLOR black].[/COLOR]
+[/B][COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
@@ -355,6 +376,28 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]Magnum, P.I. (1980-1987) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/refs/heads/main/C021-SRS-Magnum.P.I.1980-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/xcSls4q9dJnvvHnuP5RFWQimcQl.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/sYFMS2rm0JDXADmecAmLIHe8Ldm.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Magnum, P.I.
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1980 a 1987
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]08 TEMPs - 162 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Um investigador particular que trabalha quando quer, mora em uma propriedade à 
+beira-mar no Havaí, dirige uma Ferrari chique, ganha uma conta ilimitada em um bar chique e encanta mulheres atraentes em perigo.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]Manimal (1983) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C014-SRS-Manimal-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/pqrc5EJIxL01PiUFilNKLpDUwfO.jpg</thumbnail>
@@ -405,11 +448,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1985
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 13 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Jesse Mach, perde o seu melhor amigo e é ferido no joelho. 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Jesse Mach, perde o seu melhor amigo e é ferido no joelho. 
 E transferido para Relações Públicas.Norman Tuttle, um engenheiro do Governo, o escolhe para fazer parte do projeto secreto Moto Laser.
-[COLOR black].[/COLOR]
+[/B][COLOR black].[/COLOR]
 Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
