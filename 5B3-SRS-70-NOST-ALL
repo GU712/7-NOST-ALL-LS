@@ -296,17 +296,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Kojak (1973)[/B] - INCOMPLETA[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C9-SRS-Kojak-ALL</externallink>
+<name>[COLOR white][B]Kojak (1973-1978) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/refs/heads/main/C009-SRS-Kojak.1973-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/gt0h2VxuDRucP1Y7o9nptdixMCZ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/lt6sueOPDt721p9nqtpXKa3VZGu.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]Kojak
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]INCOMPLETA ATUALIZANDO
-[COLOR orange]ANOS - 1973 a 1978
-[COLOR orange]CRIME E DRAMA
-[COLOR orange]06 TEMPS - 125 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um detetive de polícia careca, chupando pirulito e com uma atitude impetuosa e justa luta contra o crime na cidade de Nova York
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1973 a 1978
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]06 TEMPS - 125 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Tenente da polícia de Nova York, Theo Kojak, realiza investigações para resolver 
+os crimes da cidade.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
