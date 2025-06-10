@@ -479,17 +479,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Inspetor (1965) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B18-SRS-O.Inspetor-ALL</externallink>
+<name>[COLOR white][B]O Inspetor (1965) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/refs/heads/main/B018-SRS-O.Inspetor.1965-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/oEAczybCGoqnzJwXEO9wDUUGq5i.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/goZEnwDGe504wDMKcVHHP0ntT71.jpg</fanart>
-<info>[COLOR white]Assista aqui a o desenho: 
+<info>[COLOR white]Assista aqui o desenho: 
 [B]O Inspetor
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1965
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1965
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 34 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Matraca Trica é um urso polar, um artista cômico. Seu amigo, a Fofoquinha é uma foca que vive gripada. Eles vivem em um iglu no Ártico.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]O personagem principal, um inspetor da polícia francesa, a Sureté, extremamente atrapalhado.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
