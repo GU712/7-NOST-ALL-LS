@@ -155,6 +155,28 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]Baretta (1975-1977) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/refs/heads/main/C036-SRS-Baretta.1975-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/mONvBe8vBQDI2KWuKDDCSdwArga.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jGr0pT2hDMDQbl1b4iXKjFQxu13.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Baretta
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1975 a 1977
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPS - 83 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Tony Baretta um detetive, que mora num hotel. Um profissional pouco convencional 
+que levava uma vida excêntrica, e recusava trabalhar com parceiros ,resolvia seus casos através de informantes de rua.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]Buck Rogers no Século 25 (1979-1981) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C030-SRS-Buck.Rogers.no.Seculo.25.1979-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/551l8ybr8TPIZozSteGVTs0si34.jpg</thumbnail>
@@ -808,7 +830,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/main/5B3-SRS-70-NOST-ALL</externallink>
-<thumbnail>https://i.ibb.co/WvhRZGnx/SEL-ITEM-ICO.png</thumbnail>
+<thumbnail>https://i.ibb.co/nbZ50B0/SEL-ITEM.png</thumbnail>
 <fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>
 </channel>
 </channels>
