@@ -40,27 +40,6 @@ Avise o SUPORTE AO USUÁRIO.
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channel>
-<name>[COLOR white][B]Dama de Ouro (1985-1986) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C015-SRS-Dama.de.Ouro.1985-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/vBdxtBUPS4wYxvOIew21OuAH0Ny.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/iICGcK7JIlCpDjso8XR2M2fe2cb.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Dama de Ouro
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1985 a 1986
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 13 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Katy Mahoney é uma experiente policial da cidade de Chicago que enfrenta criminosos
- perigosos com muita força e coragem. Munida de uma Magnum 357, Mahoney abusa da violência e é implacável com os tipos machões.
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 <channels>
 <channel>
 <name>[COLOR white][B]A Gata e o Rato (1985) - COMPLETA[/B][/COLOR]</name>
@@ -159,6 +138,28 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 100 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]ALF segue um sinal de rádio amador para a Terra e acaba caindo na garagem da casa da 
 família Tanner. Os Tanner são uma típica família de classe média em Riverside, Califórnia.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Anos Dourados (1986) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/refs/heads/main/B021-SRS-Anos.Dourados.1986-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/1eVi3rZ1h8M6po0O7T3MUds4GtE.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/mLguDLCJUtwsKN1qPErv61qhoOP.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Anos Dourados
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1986
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DRAMA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 20 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Lurdinha e Marcos se apaixonam. Mas os pais de Lurdinha rejeitam o rapaz por
+ ele ser filho de pais separados e tentam, de todas as maneiras, afastá-lo da jovem.
 [/B][COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
